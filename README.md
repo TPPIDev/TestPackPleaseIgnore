@@ -4,10 +4,7 @@ A github for public updates to the pack. We have a google group at https://group
 
 Information
 ===============
-MC Version: 1.6.4
-Pack Version: none
-Distribution: FTB Launcher
-Pack Description: none
+/r/FeedTheBeast is a FTB pack made by members of the FTB reddit.
 
 Current Modlist
 ===============
