@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<fluids>
+    <register>
+        <identifier>molten.dirt</identifier>
+        <name>Molten Dirt</name>
+        <blockTextureID>3</blockTextureID>
+        <blockTextureMeta>0</blockTextureMeta>
+    </register>
+    <melting type="other">
+        <fluid>molten.dirt</fluid>
+        <temp>1</temp>
+        <volume>333</volume>
+        <id>3</id>
+        <meta>0</meta>
+    </melting>
+     <melting type="metal">
+        <fluid>ardite.molten</fluid>
+        <temp>2000</temp>
+        <metal>Ardite</metal>
+        <bonusID>87</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+    <melting type="metal">
+        <fluid>cobalt.molten</fluid>
+        <temp>1495</temp>
+        <metal>Cobalt</metal>
+        <bonusID>87</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+    <melting type="metal">
+        <fluid>manyullyn.molten</fluid>
+        <temp>2000</temp>
+        <metal>Manyullyn</metal>
+        <bonusID>87</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+    <melting type="metal">
+        <fluid>aluminumbrass.molten</fluid>
+        <temp>940</temp>
+        <metal>AluminumBrass</metal>
+        <bonusID>1</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+    <melting type="metal">
+        <fluid>alumite.molten</fluid>
+        <temp>1800</temp>
+        <metal>Alumite</metal>
+        <bonusID>1</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+    <melting type="metal">
+        <fluid>platinum.molten</fluid>
+        <temp>1768</temp>
+        <metal>Platinum</metal>
+        <bonusID>1</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+    <melting type="metal">
+        <fluid>invar.molten</fluid>
+        <temp>921</temp>
+        <metal>Invar</metal>
+        <bonusID>1</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+    <melting type="metal">
+        <fluid>electrum.molten</fluid>
+        <temp>1000</temp>
+        <metal>Electrum</metal>
+        <bonusID>1</bonusID>
+        <bonusMeta>0</bonusMeta>
+        <bonusChance>2</bonusChance>
+    </melting>
+</fluids>

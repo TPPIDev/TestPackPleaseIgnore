@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>GateCopy Tooltips</comment>
+<entry key="AND_3">Gold AND Gate</entry>
+<entry key="None"/>
+<entry key="AND_2">Iron AND Gate</entry>
+<entry key="OR_4">Diamond AND Gate</entry>
+<entry key="OR_3">Gold OR Gate</entry>
+<entry key="OR_2">Iron OR Gate</entry>
+<entry key="Single">Gate</entry>
+<entry key="AND_4">Diamond AND Gate</entry>
+</properties>

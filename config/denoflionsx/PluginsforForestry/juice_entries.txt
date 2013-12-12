@@ -1,0 +1,25 @@
+# Title:Juice Module
+# Author: Jadedcat
+# Type: juice
+# Amount: 100
+cropBlackberry
+cropBlueberry
+cropRaspberry
+cropStrawberry
+cropKiwi
+cropCactusfruit
+cropCranberry
+cropGrape
+cropMelon
+cropMango
+cropOlive
+cropCoconut
+cropPeach
+cropPear
+cropPapaya
+cropBanana
+cropOrange
+cropPomegranate
+cropStarfruit
+cropCanteloupe
+cropPineapple
