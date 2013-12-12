@@ -9,6 +9,14 @@ Information
 Current Modlist
 ===============
 Minecraft Forge
+Applied Energistics
+BuildCraft
+Forestry
+Forge Multipart
+IndustrialCraft 2
+Inventory Tweaks
+Thermal Expansion
+Waila
 
 Changelog
 ===============
