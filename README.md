@@ -8,16 +8,10 @@ Information
 
 Current Modlist
 ===============
-Minecraft Forge    
-Applied Energistics    
-BuildCraft    
-Forestry    
-Forge Multipart    
-IndustrialCraft 2    
-Inventory Tweaks    
-Thermal Expansion    
-Waila    
+Since this _is_ public, lets keep this away from speculation for now.
+
+The configs in no way represent the final decisions on mods, in fact they are far from it.
 
 Changelog
 ===============
-none
+-added FTB universal configs as a base
