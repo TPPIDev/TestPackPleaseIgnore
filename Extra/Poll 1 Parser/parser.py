@@ -110,10 +110,10 @@ for key1 in iter(counts):
     if key1 == 'reqmods' or key1 == 'nicemods':
         for key2 in sorted(counts[key1]):
             print("  "+key2+"\t"+str(counts[key1][key2]))
-            f.write(key2+"\t"+str(counts[key1][key2])+"\n")
+            f.write(key2+","+str(counts[key1][key2])+"\n")
     else:
         #This sorts by the number of occurances for each key
         for key2 in sorted(counts[key1], key=counts[key1].get, reverse=True):
             print(key2 + "\t" + str(counts[key1][key2]))
-            f.write(key2+"\t"+str(counts[key1][key2])+"\n")
+            f.write(key2+","+str(counts[key1][key2])+"\n")
     print("\n\n")
