@@ -1,10 +1,16 @@
-/r/FeedTheBeast Pack
+FTB Reddit Pack
 ===============
-A github for public updates to the pack. We have a google group at https://groups.google.com/forum/#!forum/reddit-ftb-modpack-creation. Thanks for reading! (/r/FeedTheBeast is a temprary name, until we decide on the official name.
+A github for public updates to the pack. We have a google group at https://groups.google.com/forum/#!forum/reddit-ftb-modpack-creation. Thanks for reading! (The name is not official yet)
 
 Information
 ===============
 /r/FeedTheBeast is a FTB pack made by members of the FTB reddit.
+
+Contributers
+===============
+Since this _is_ public, lets keep this away from speculation for now.
+
+Dr Soda (IGN: Epiksoda11)
 
 Current Modlist
 ===============
@@ -14,4 +20,5 @@ The configs in no way represent the final decisions on mods, in fact they are fa
 
 Changelog
 ===============
+
 -added FTB universal configs as a base
