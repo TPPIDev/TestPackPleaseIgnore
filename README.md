@@ -15,6 +15,8 @@ Dr Soda (IGN: Epiksoda11)
 
 nsstrunks (IGN: nsstrunks)
 
+NEOidea (stellarcraft) (IGN: NEOidea)
+
 Current Modlist
 ===============
 Since this _is_ public, lets keep this away from speculation for now. 
