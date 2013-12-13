@@ -10,11 +10,16 @@ Contributers
 ===============
 
 esKaayY (IGN: esKaayY)
+
 Dr Soda (IGN: Epiksoda11)
+
+nsstrunks (IGN: nsstrunks)
+
+NEOidea (stellarcraft) (IGN: NEOidea)
 
 Current Modlist
 ===============
-Since this _is_ public, lets keep this away from speculation for now.
+Since this _is_ public, lets keep this away from speculation for now. 
 
 The configs in no way represent the final decisions on mods, in fact they are far from it.
 
