@@ -11,6 +11,7 @@ Contributers
 
 esKaayY (IGN: esKaayY)
 Dr Soda (IGN: Epiksoda11)
+nsstrunks (IGN: nsstrunks)
 
 Current Modlist
 ===============
