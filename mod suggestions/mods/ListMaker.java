@@ -18,7 +18,8 @@ public class ListMaker
 		
 		for (String str : modNames)
 		{
-			System.out.println(str);
+			if (str.length() > 4 && str.charAt(0) != '(')
+				System.out.println(str);
 		}
 		
 		scan.close();
