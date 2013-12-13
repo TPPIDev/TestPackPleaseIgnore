@@ -8,8 +8,8 @@ Information
 
 Contributers
 ===============
-Since this _is_ public, lets keep this away from speculation for now.
 
+esKaayY (IGN: esKaayY)
 Dr Soda (IGN: Epiksoda11)
 
 Current Modlist
