@@ -1,6 +1,5 @@
 package mods;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -22,5 +21,6 @@ public class ListMaker
 			System.out.println(str);
 		}
 		
+		scan.close();
 	}
 }
