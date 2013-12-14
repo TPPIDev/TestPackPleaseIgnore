@@ -1,12 +1,10 @@
-/* ~~ Mindashq.Reddit.Theme
+﻿/* ~~ Mindashq.Reddit.Theme
 	v1.7c
 	http://www.reddit.com/r/mindashq/wiki
 	To copy and reuse, use the information from http://www.reddit.com/r/mindashq/wiki/usage
 	
-	
 	TOO MINIFY ONLINE USE http://refresh-sf.com/yui/ DON'T FORGET TO SELECT CSS AS FILE TYPE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-
 
 /* [ A ]. Normal Theme............ */
 /* ~~  A.1. Common Tags ~~~~~ */
@@ -376,7 +374,7 @@ a[href*='#btn'] {
 	.entry .flat-list li a,
 	.entry .flat-list li a:visited,
 	.entry .flat-list .redditSingleClick {
-		color: #eee;
+		color: #777;
 	}
 
 .entry:hover > .flat-list li a,
@@ -436,9 +434,6 @@ a[href*='#btn'] {
 	font-weight: 500;
 	font-size: 11px;
 	line-height: 20px;
-	opacity: 0.4;
-	-ms-filter: Alpha(Opacity=40);
-	filter: Alpha(Opacity=40);
 }
 
 	#sr-header-area .separator {
@@ -453,9 +448,6 @@ a[href*='#btn'] {
 	}
 
 	#sr-header-area:hover {
-		opacity: 1;
-		-ms-filter: Alpha(Opacity=100);
-		filter: Alpha(Opacity=100);
 	}
 
 	#sr-header-area a,
@@ -648,8 +640,8 @@ div#RESSubredditGroupDropdown {
 	height: 50px;
 	border-top-left-radius: 2px;
 	border-bottom-left-radius: 2px;
-	background-image: linear-gradient(#5BA2FD,#4B8ADB);
 	background-color: #acd9fc;
+	background-image: linear-gradient(#5BA2FD,#4B8ADB);
 	box-shadow: 2px 4px 4px -2px #bbb;
 	line-height: 50px;
 	vertical-align: bottom;
@@ -877,27 +869,27 @@ ul.tabmenu.formtab {
 	}
 
 	.expando-button.selftext.collapsed:before {
-		content: '?';
+		content: '✚';
 	}
 
 	.expando-button.selftext.expanded:before {
-		content: '??';
+		content: '▪▪';
 	}
 
 	.expando-button.video.collapsed:before {
-		content: '?';
+		content: '▶';
 	}
 
 	.expando-button.video.expanded:before {
-		content: '?';
+		content: '●';
 	}
 
 	.expando-button.image.collapsedExpando:before {
-		content: '?';
+		content: '❏';
 	}
 
 	.expando-button.image.expanded:before {
-		content: '?';
+		content: '❐';
 	}
 
 	.expando-button:hover:before {
@@ -1067,12 +1059,12 @@ ul.tabmenu.formtab {
 
 .arrow.up:after,
 .arrow.upmod:after {
-	content: '?';
+	content: '▲';
 }
 
 .arrow.down:after,
 .arrow.downmod:after {
-	content: '?';
+	content: '▼';
 }
 
 .arrow.upmod,
@@ -2234,67 +2226,67 @@ div#NERFail,
 	}
 
 .side a[href*='#icon-exclamation']:before {
-	content: '?';
+	content: '♔';
 }
 
 .side a[href*='#icon-information']:before {
-	content: '?';
+	content: 'ⓘ';
 }
 
 .side a[href*='#icon-lightbulb']:before {
-	content: '�';
+	content: '☼';
 }
 
 .side a[href*='#icon-comments']:before {
-	content: '?';
+	content: '❝';
 }
 
 .side a[href*='#icon-unhappy']:before {
-	content: '?';
+	content: '☹';
 }
 
 .side a[href*='#icon-check']:before {
-	content: '?';
+	content: '✓';
 }
 
 .side a[href*='#icon-clock']:before {
-	content: '?';
+	content: '◔';
 }
 
 .side a[href*='#icon-cross']:before {
-	content: '?';
+	content: '⊘';
 }
 
 .side a[href*='#icon-smile']:before {
-	content: '?';
+	content: '☺';
 }
 
 .side a[href*='#icon-error']:before {
-	content: '?';
+	content: '☢';
 }
 
 .side a[href*='#icon-note']:before {
-	content: '?';
+	content: '✑';
 }
 
 .side a[href*='#icon-star']:before {
-	content: '?';
+	content: '✰';
 }
 
 .side a[href*='#icon-help']:before {
-	content: '?';
+	content: '✍';
 }
 
 .side a[href*='#icon-time']:before {
-	content: '?';
+	content: '⌚';
 }
 
 .side a[href*='#icon-bell']:before {
-	content: '?';
+	content: '❂';
 }
 
 .side a[href*='#icon-eye']:before {
-	content: '?';
+	content: '✿';
 }
 
 /* ~~  A.13. Vibgyor Flairs ~~~~~ */
