@@ -2,7 +2,7 @@
 ===============
 **a Feed The Beast Modpack**
 
-A github for public updates to the pack. We have a google group at https://groups.google.com/forum/#!forum/reddit-ftb-modpack-creation. Thanks for reading! (The name is not official yet)
+A github for public updates to the pack. We have a google group at https://groups.google.com/forum/#!forum/reddit-ftb-modpack-creation. Thanks for reading!
 
 Information
 ===============
