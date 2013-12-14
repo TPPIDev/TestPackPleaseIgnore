@@ -1,10 +1,12 @@
-"Test Pack Please Ignore" FTB ModPack
+"Test Pack Please Ignore"
 ===============
+**a Feed The Beast Modpack**
+
 A github for public updates to the pack. We have a google group at https://groups.google.com/forum/#!forum/reddit-ftb-modpack-creation. Thanks for reading! (The name is not official yet)
 
 Information
 ===============
-/r/FeedTheBeast is a FTB pack made by members of the FTB reddit.
+/r/FeedTheBeast is a FTB pack made by members of the FTB reddit, officialy given the OK by Slowpoke himself.
 
 Contributers
 ===============
