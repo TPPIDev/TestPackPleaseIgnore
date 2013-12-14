@@ -2,6 +2,7 @@ import csv
 
 firstline = True
 DEBUG_ALL_RECORDS = False
+RAW_RESPONSES = False
 
 def modnormalize(modname):
     modnormnames = dict({
@@ -39,6 +40,7 @@ def modnormalize(modname):
                          'Arsmagica':'Ars Magica 2',
                          'Arsmagica2':'Ars Magica 2',
                          'Arsmagicka':'Ars Magica 2',
+                         'Armor Status Hud':'Armor Status',
                          'Balkons Weapon Mod':'Balkon\'S Weapons',
                          'Balkon\'S Weapon Mod':'Balkon\'S Weapons',
                          'Biblio Craft':'Bibliocraft',
@@ -246,6 +248,7 @@ def modnormalize(modname):
                          'Moduler Powersuits':'Modular Powersuits',
                          'Modular Power Suit':'Modular Powersuits',
                          'Modular Powersuit + Addons':'Modular Powersuits',
+                         'Mousetweeks':'Mousetweaks',
                          'Mmmps':'Modular Powersuits',
                          'Mmps (+ Addons)':'Modular Powersuits',
                          'Mps':'Modular Powersuits',
@@ -293,6 +296,7 @@ def modnormalize(modname):
                          'Portal Guns':'Portal Gun',
                          'Portalgun':'Portal Gun',
                          'Portal And Gravity Guns':'Portal Gun',
+                         'Portal Gun Mod':'Portal Gun',
                          'Powerconverters':'Power Converters',
                          'Project: Red':'Project Red',
                          'Project:Red':'Project Red',
@@ -336,6 +340,7 @@ def modnormalize(modname):
                          'Thaumcraft 4,':'Thaumcraft',
                          'Thaumcraft4':'Thaumcraft',
                          '5. Thaumcraft':'Thaumcraft',
+                         'Thaumcraft 4 And Addons':'Thaumcraft',
                          'Thaumic Tinkererer':'Thaumic Tinkerer',
                          'Te3':'Thermal Expansion',
                          'Te':'Thermal Expansion',
@@ -361,6 +366,7 @@ def modnormalize(modname):
                          'Thaumcraft 4 + Thaumic Tinkerer (!!!)':'Thaumcraft',
                          'Thaumic Tinker':'Thaumic Tinkerer',
                          'Thaumictinkerer':'Thaumic Tinkerer',
+                         'Thaumic Thinkerer':'Thaumic Tinkerer',
                          'Tc':'Tinker\'S Construct',
                          'Tconstruct':'Tinker\'S Construct',
                          'Tinkerer\'S Construct':'Tinker\'S Construct',
@@ -380,6 +386,9 @@ def modnormalize(modname):
                          'Tinker\'Sconstruct':'Tinker\'S Construct',
                          'Tinkers Construct+Addons':'Tinker\'S Construct',
                          'Tinkerer':'Tinker\'S Construct',
+                         'Thinkers Construct':'Tinker\'S Construct',
+                         'Tinkers':'Tinker\'S Construct',
+                         'Tinkerscontruct':'Tinker\'S Construct',
                          'Tinkers Mechwork':'Tinker\'S Mechworks',
                          'Tinker\'S Construct: Mechworks':'Tinker\'S Mechworks',
                          'Tic Mech':'Tinker\'S Mechworks',
@@ -389,6 +398,7 @@ def modnormalize(modname):
                          'Translocatot':'Translocators',
                          'Trecapitator':'Treecapitator',
                          'Treecapitate':'Treecapitator',
+                         'Treecapitator.':'Treecapitator',
                          'Tropicraft (Probably Not Possible Tho ):)':'Tropicraft',
                          'Twighlight Forest':'Twilight Forest',
                          'Twilight':'Twilight Forest',
@@ -470,6 +480,17 @@ def gregtechnormalize(gregtech):
         return gregtechnames[gregtech]
     else:
         return gregtech
+def namenormalize(name):
+    namelist = dict({
+                     'FeedTheReddit':'FeedThe/R/eddit',
+                     'FeedTheSnoo':'Feed The Snoo',
+                     'r/feedthebeast':'/r/FeedTheBeast',
+                     '/r/':'/r/pack'
+                     })
+    if name in namelist:
+        return namelist[name]
+    else:
+        return name
 with open('Poll 1 Form Responses.csv') as csvfile:
     fp = csv.reader(csvfile, delimiter=',')
     next(fp) #Skip the first line with header information
@@ -490,6 +511,8 @@ with open('Poll 1 Form Responses.csv') as csvfile:
         date = row[0]
         name = row[1].strip()
         if(len(name)>0):
+            if not RAW_RESPONSES:
+                name = namenormalize(name)
             if name in counts['name']:
                 counts['name'][name] += 1
             else:
@@ -525,7 +548,8 @@ with open('Poll 1 Form Responses.csv') as csvfile:
             
         minimap = row[6].strip()
         if(len(minimap)>0):
-            minimap = minimapnormalize(minimap)
+            if not RAW_RESPONSES:
+                minimap = minimapnormalize(minimap)
             if minimap in counts['minimap']:
                 counts['minimap'][minimap] += 1
             else:
@@ -534,7 +558,8 @@ with open('Poll 1 Form Responses.csv') as csvfile:
         reqmods = row[7]
         reqmodslist = reqmods.splitlines()
         for reqmod in reqmodslist:
-            reqmod = modnormalize(reqmod.strip().lower().title())
+            if not RAW_RESPONSES:
+                reqmod = modnormalize(reqmod.strip().lower().title())
             if len(reqmod)>0:
                 if reqmod in counts['reqmods']:
                     counts['reqmods'][reqmod] += 1
@@ -544,7 +569,8 @@ with open('Poll 1 Form Responses.csv') as csvfile:
         nicemods = row[8]
         nicemodslist = nicemods.splitlines()
         for nicemod in nicemodslist:
-            nicemod = modnormalize(reqmod.strip().lower().title())
+            if not RAW_RESPONSES:
+                nicemod = modnormalize(reqmod.strip().lower().title())
             if len(nicemod)>0:
                 if nicemod in counts['nicemods']:
                     counts['nicemods'][nicemod] += 1
@@ -560,7 +586,8 @@ with open('Poll 1 Form Responses.csv') as csvfile:
             
         gregtechdiff = row[11].strip()
         if(len(gregtechdiff)>0):
-            gregtechdiff = gregtechnormalize(gregtechdiff)
+            if not RAW_RESPONSES:
+                gregtechdiff = gregtechnormalize(gregtechdiff)
             if gregtechdiff in counts['gregtechdiff']:
                 counts['gregtechdiff'][gregtechdiff] += 1
             else:
@@ -581,8 +608,8 @@ for key1 in iter(counts):
     #if key1 == 'reqmods' or key1 == 'nicemods':
         #Sort by key
         #for key2 in sorted(counts[key1]):
-        #    print("  "+key2+"\t"+str(counts[key1][key2]))
-        #    f.write("\""+key2+"\","+str(counts[key1][key2])+"\n")
+            #print("  "+key2+"\t"+str(counts[key1][key2]))
+            #f.write("\""+key2+"\","+str(counts[key1][key2])+"\n")
     #else:
         #This sorts by the number of occurances for each key
     for key2 in sorted(counts[key1], key=counts[key1].get, reverse=True):
