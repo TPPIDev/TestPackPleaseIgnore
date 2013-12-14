@@ -1,6 +1,7 @@
 import csv
 
 firstline = True
+DEBUG_ALL_RECORDS = False
 
 def modnormalize(modname):
     modnormnames = dict({
@@ -413,7 +414,62 @@ def modnormalize(modname):
         return modnormnames[modname]
     else:
         return modname
+
+def minimapnormalize(minimap):
+    minimapnames = dict({'Voxelmap':'Zan\'s / Voxelmap',
+                         'Rei\'s':'Rei\'s Minimap',
+                         'Zan\'s':'Zan\'s / Voxelmap',
+                         'Rei':'Rei\'s Minimap',
+                         'Reis':'Rei\'s Minimap',
+                         'rei\'s':'Rei\'s Minimap',
+                         'reis':'Rei\'s Minimap',
+                         'Rei\'s minimap':'Rei\'s Minimap',
+                         'Rei\'s Minimap (from ultimate/unleashed)':'Rei\'s Minimap',
+                         'opis':'Opis',
+                         'I still like Rei :C':'Rei\'s Minimap',
+                         'Reis minimap':'Rei\'s Minimap',
+                         'Rei minimap if possible':'Rei\'s Minimap',
+                         'REI\'s Minimap':'Rei\'s Minimap',
+                         'OPIS version of MapWriter':'Opis',
+                         'Include 2 or 3 options but leave all off by default.':'Multiple',
+                         'any':'Multiple',
+                         'mapwriter for the big map, rei\'s or zan\'s for the minimap':'Multiple',
+                         'Either Zan\'s/Voxel OR Rei\'s Minimap':'Multiple',
+                         'Zans + Opis/Mapwriter':'Multiple',
+                         'Zans/JourneyMap (Combo)':'Multiple',
+                         'all, include user selection':'Multiple',
+                         'Both of the above + Rei\'s as options for the players to chose':'Multiple',
+                         'Opis/Mapwriter':'Opis',
+                         'Let the player pick':'Multiple',
+                         'Mapwriter causes fps lag, and uses alot of memory.  Zans is a good choice':'Zan\'s / Voxelmap',
+                         'Opis (includes MapWriter plus more stuff)':'Opis',
+                         'who cares':'No preference',
+                         'unsure':'No preference',
+                         'Don\'t care. I would like to be able to see my friends on it though':'No preference',
+                         'Don\'t care':'No preference',
+                         'No Preference':'No preference'
+                         })
+    if minimap in minimapnames:
+        return minimapnames[minimap]
+    else:
+        return minimap
     
+def gregtechnormalize(gregtech):
+    gregtechnames = dict({
+                          'unsure':'N/A',
+                          'Personally, I don\'t like GT, but if it is included, no nerfs.':'No nerfs (EZ mode)',
+                          'nope':'Excluded',
+                          'Fuck Gregtech, fuck Greg he\'s a dick':'Excluded',
+                          'No Gregtech':'Excluded',
+                          'IC2, buildcraft, ect but no nerfs to vanilla.':'IC2 only nerfs (Medium mode)',
+                          'Nerfs to IC2 but not other mods':'IC2 only nerfs (Medium mode)',
+                          'Only minor nerfs, try to focus on letting the mod add content rather than nerf everything.':'IC2 only nerfs (Medium mode)'
+                          
+                          })
+    if gregtech in gregtechnames:
+        return gregtechnames[gregtech]
+    else:
+        return gregtech
 with open('Poll 1 Form Responses.csv') as csvfile:
     fp = csv.reader(csvfile, delimiter=',')
     next(fp) #Skip the first line with header information
@@ -469,6 +525,7 @@ with open('Poll 1 Form Responses.csv') as csvfile:
             
         minimap = row[6].strip()
         if(len(minimap)>0):
+            minimap = minimapnormalize(minimap)
             if minimap in counts['minimap']:
                 counts['minimap'][minimap] += 1
             else:
@@ -503,6 +560,7 @@ with open('Poll 1 Form Responses.csv') as csvfile:
             
         gregtechdiff = row[11].strip()
         if(len(gregtechdiff)>0):
+            gregtechdiff = gregtechnormalize(gregtechdiff)
             if gregtechdiff in counts['gregtechdiff']:
                 counts['gregtechdiff'][gregtechdiff] += 1
             else:
@@ -519,6 +577,7 @@ with open('Poll 1 Form Responses.csv') as csvfile:
 for key1 in iter(counts):
     print(key1)
     f = open('responses_'+key1+'.csv','w')
+    f.write("\"Value\",\"Counts\"\n")
     #if key1 == 'reqmods' or key1 == 'nicemods':
         #Sort by key
         #for key2 in sorted(counts[key1]):
@@ -527,6 +586,12 @@ for key1 in iter(counts):
     #else:
         #This sorts by the number of occurances for each key
     for key2 in sorted(counts[key1], key=counts[key1].get, reverse=True):
-        print(key2 + "\t" + str(counts[key1][key2]))
-        f.write("\""+key2+"\","+str(counts[key1][key2])+"\n")
+        if not DEBUG_ALL_RECORDS:
+            if counts[key1][key2]>=3:
+                print(key2 + "\t" + str(counts[key1][key2]))
+                f.write("\""+key2+"\","+str(counts[key1][key2])+"\n")
+        else:
+            print(key2 + "\t" + str(counts[key1][key2]))
+            f.write("\""+key2+"\","+str(counts[key1][key2])+"\n")
+
     print("\n\n")

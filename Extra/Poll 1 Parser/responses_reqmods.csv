@@ -1,3 +1,4 @@
+"Value","Counts"
 "Thermal Expansion",312
 "Buildcraft",243
 "Industrial Craft",242
@@ -30,220 +31,71 @@
 "Mekanism",21
 "Natura",20
 "Bibliocraft",19
-"Enderio",18
 "Equivalent Exchange 3",18
+"Enderio",18
 "Dartcraft",17
 "Logistics Pipes",17
 "Ars Magica 2",16
-"Openperipherals",15
 "Soul Shards",15
+"Openperipherals",15
 "Advanced Solar Panels",14
 "Chisel",13
 "Damage Indicators",13
 "Morph",12
-"Gravisuite",11
-"Magic Bees",11
 "Thaumic Tinkerer",11
-"Optifine",10
+"Magic Bees",11
+"Gravisuite",11
 "Forgemultipart",10
-"Extra Trees",9
+"Optifine",10
 "Treecapitator",9
+"Extra Trees",9
 "Carpenter'S Blocks",9
 "Nei Plugins",8
-"Translocators",7
 "Metallurgy",7
 "Obsidiplates",7
-"Rotarycraft",7
-"Modular Force Field Systems",7
 "Archimedes Ships",7
+"Translocators",7
+"Modular Force Field Systems",7
+"Rotarycraft",7
 "Nei Addons",6
-"Blood Magic",6
-"Wr-Cbe",6
-"Miscperipherals",6
-"Redstone In Motion",6
-"Harvest Craft",6
 "Nuclear Control",6
-"Agriculture",5
-"Reactor Craft",5
-"Dimensional Doors",5
-"Hats",5
-"Nether Ores",5
-"Mapwriter",5
-"Power Converters",5
-"Jabba",5
-"Micro Blocks",5
-"Zan'S Minimap",5
+"Blood Magic",6
+"Harvest Craft",6
+"Redstone In Motion",6
+"Miscperipherals",6
+"Wr-Cbe",6
 "Extrabiomesxl",5
-"Enhanced Portals",4
-"Enchanting Plus",4
-"Tinker'S Mechworks",4
+"Micro Blocks",5
+"Jabba",5
+"Zan'S Minimap",5
+"Hats",5
+"Agriculture",5
+"Mapwriter",5
+"Dimensional Doors",5
+"Reactor Craft",5
+"Nether Ores",5
+"Power Converters",5
 "Atomic Science",4
-"Underground Biomes",4
 "Super Crafting Frame",4
-"Gravity Gun",4
 "Red Power",4
+"Underground Biomes",4
+"Gravity Gun",4
+"Enchanting Plus",4
 "Xeno'S Reliquary",4
 "Galacticraft",4
-"Xycraft",3
-"Opis",3
-"Atg",3
-"Icbm",3
-"Extra Bees And Trees",3
-"Openmods",3
-"Compact Solar Panels",3
-"Extra Cells",3
-"Mariculture",3
-"Quarry Plus",3
+"Tinker'S Mechworks",4
+"Enhanced Portals",4
 "Advanced Machines",3
+"Extra Bees And Trees",3
+"Icbm",3
 "Universal Electricity",3
 "Bees",3
+"Extra Cells",3
 "Balkon'S Weapons",3
-"Gregtech, Misc Perph. , Thaumcraft 4",2
-"Openccsensors",2
-"Mine Little Pony",2
-"Morpheus",2
-"Chicken Bones Mods",2
-"Remoteio",2
-"Bibliowoods",2
-"Betterstorage",2
-"Timber Mod",2
-"Big Reactors",2
-"Magical Crops",2
-"Mo' Creatures",2
-"Denpipes",2
-"The Minimap Mod From Unleashed.",2
-"Growth Craft,Fishnet Hops,Booze Grapes,Apples",2
-"Infernal Mobs",2
-"Alternate Terrain Generation",2
-"Forge",2
-"Somesort Of Biome Mod",1
-"Ae, Minefactory Reloaded, Forestry + Bees + Extra Bees,",1
-"Enderforest",1
-"Bspkrscore",1
-"From Most Important To Least. (Nâ°1S Should Be In Vanilla)",1
-"Cjb Moreinfo",1
-"Any Minimap",1
-"Better Chests",1
-"Plugins For Forestry",1
-"Better World Generation 4",1
-"Te3 And Openblocks",1
-"Rednet",1
-"Better Anvils",1
-"Chickenbonescore",1
-"Magic/Extra Bees",1
-"Advanced Nano Suits",1
-"Extrabees Gregtech",1
-"Reika'S Mods (Dragonapi)",1
-"Smoothbedrock (Or Whatever Flat Bedrock Mod)",1
-"Forge Microblocks",1
-"Drzhark'S Magiccarpet",1
-"Evoc",1
-"Alkhest",1
-"Advancedreactors",1
-"Extra Tic",1
-"Bc Tools",1
-"Fathertoasts Special Mobs",1
-"Quarrys",1
-"Chickencore And Affiliated Mods",1
-"Thank You.",1
-"Portalgun / Grafity Gun (But With Sound!!!)",1
-"Guiapi",1
-"The One With The Barrels",1
-"Geostrata",1
-"Fathertoasts Utility Mobs",1
-"Boobs",1
-"Ex Nihilo",1
-"Torojima'S Chococraft (Yes, I Can Not Live Without It)",1
-"Thaumcraft, Industrial Craft, Forestry, Extra Bees, Magic Bees.",1
-"Ic2 Buildcraft",1
-"Increased Penis Size Mod",1
-"Equivalency",1
-"Cjb Api",1
-"Fmp",1
-"Buildcraft Pipes Addon",1
-"Additional Buildcraft Objects",1
-"Codechicken Mods",1
-"Mobiuscore - Waila",1
-"Omniwrench",1
-"(Or Pick One Or Two Of The Above Three)",1
-"Status Hud",1
-"Extratic",1
-"Advanced Terrain Generation",1
-"Modular Armor And Tree Capitator And Computer Craft",1
-"Armor Status",1
-"Gravestone Mod(Grave Dungeon)",1
-"...",1
-"Te3, Ic2, Thaumcraft 4, Railcraft, Bc, Forestry, Ae, Tinkers Construct",1
-"Random Things",1
-"Icâ²",1
-"Iguanas Tweaks",1
-"Literally Have Not Found A Pack That Adds These With The Good Technical Mods.",1
-"Nei + Waila",1
-"Custom Oregen",1
-"Mine Little Pony Ae",1
-"All Mods From Unleashed.",1
-"Flat Bedrock",1
-"Highlands",1
-"A Mod That Adds Structures",1
-"(The One With The Solar Panels)",1
-"Mousetweeks",1
-"Modular Furnace",1
-"Gt;Ic2,(Exp) Bc; Thaumcraft; Bop:Te;Factorization;Minefactory Reloaded, Steeves Carts;Railcraft Computer Craft;Nuclear Controll ;Mffs (Doesnt Matter Which One) Forestry (With The Addons)",1
-"More Info",1
-"Qcraft",1
-"To Many Items",1
-"Minechem",1
-"Bspkrs  Statuseffecthud",1
-"Smart Moving",1
-"Mfr, Te",1
-"Spiderpet",1
-"Vending Block",1
-"Multimine",1
-"Additional Pipes",1
-"Open*",1
-"Daftpvf Ingame Info",1
-"Nei + Plugins",1
-"Am2",1
-"Aroma1997 Dimensional World",1
-"Magic Farm",1
-"Somnia Would Make My Dick Be Very Hard.",1
-"Schematica",1
-"Waila, Ae, Modular Power Suits, Tinkers Construct, Buildcaft, Thermal Expansion.",1
-"Some Automated Backup Utility",1
-"Dyetrees",1
-"Forestry+Addons",1
-"Portable Recharger",1
-"Gregtech Or Atomic Science (Something For Late Game)",1
-"Custommobspawner",1
-"Some Mod That Adds New Plants.",1
-"Trail Mix",1
-"Truss Mod",1
-"Liquid Xp",1
-"Creepercollateral",1
-"Extra Biomes",1
-"Ic2, Bc, Mfr",1
-"The Twilight Forest",1
-"Immibismicroblocks",1
-"Orespawn",1
-"Te,Tic,",1
-"Code Chicken Core",1
-"Ic2 And Bc Addons",1
-"Some Furniture Mod",1
-"Grav",1
-"Utility Mobs",1
-"Traincraft",1
-"Dynamic Lights",1
-"Ender Tanks",1
-"Camo Lights",1
-"Backpackmod",1
-"Bspkrs Armor Status",1
-"Betterbows/Archery",1
-"Applied Energistics, Computer Craft, Icbm Suite, Galacticraft, Thermal Expansion",1
-"Icbm Mod",1
-"Better Enchanting",1
-"Compact Windmills (Ic2 Addon)",1
-"Infinibows",1
-"Zombie Awareness",1
-"All The Bee Addons",1
-"Extra Bees/Trees (Forestry)",1
-"Endercraft? (The One With Tesseracts)",1
+"Mariculture",3
+"Compact Solar Panels",3
+"Openmods",3
+"Quarry Plus",3
+"Atg",3
+"Xycraft",3
+"Opis",3
