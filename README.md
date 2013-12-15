@@ -21,6 +21,10 @@ NEOidea (stellarcraft) (IGN: NEOidea)
 
 tterrag (IGN/Reddit: tterrag1098)
 
+wha-ha-ha (IGN: wha_ha_ha)
+
+dudeedud4 (IGN: sneezing_panda)
+
 Current Modlist
 ===============
 http://bit.ly/tppi#btn
