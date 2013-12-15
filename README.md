@@ -19,13 +19,15 @@ nsstrunks (IGN: nsstrunks)
 
 NEOidea (stellarcraft) (IGN: NEOidea)
 
+tterrag (IGN/Reddit: tterrag1098)
+
 Current Modlist
 ===============
-Since this _is_ public, lets keep this away from speculation for now. 
+http://bit.ly/tppi#btn
 
 The configs in no way represent the final decisions on mods, in fact they are far from it.
 
 Changelog
 ===============
 
--added FTB universal configs as a base
+-configs are in a working state, but are in no way balanced.
