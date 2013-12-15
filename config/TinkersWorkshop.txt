@@ -26,6 +26,7 @@ battlegear {
 block {
     I:"Air Tank"=3246
     I:"Birch Barricade"=1483
+    I:"Blood Channel"=3189
     I:"Casting Channel"=3249
     I:"Clear Glass"=3223
     I:"Clear Stained Glass"=3225
@@ -72,6 +73,9 @@ block {
     I:"Molten Tin"=3204
     I:"Multi Brick"=1481
     I:"Multi Brick Fancy"=1467
+    I:"Nether Lava Tank"=3186
+    I:"Nether Seared Block"=3188
+    I:"Nether Smeltery"=3187
     I:"Oak Barricade"=1469
     I:"Ore Berry One"=1485
     I:"Ore Berry Two"=1486
@@ -157,6 +161,10 @@ dimblacklist {
 ####################
 
 equipables {
+    I:Exo-Boots=14119
+    I:Exo-Chestpiece=14117
+    I:Exo-Goggles=14116
+    I:Exo-Legs=14118
     I:Gloves=14111
     I:"Heart Canister"=14105
     I:Knapsack=14112

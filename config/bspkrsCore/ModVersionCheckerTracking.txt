@@ -1,0 +1,8 @@
+# Configuration file
+
+version_check_tracker {
+    S:Treecapitator=Forge 1.6.4.r06
+    S:bspkrsCore=v5.0(1.6.4)
+}
+
+

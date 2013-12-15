@@ -1,0 +1,13 @@
+#This file allows for the addition of custom generation TEMPLATES to World.cfg.
+#Generation parameters are changed inside World.cfg.
+#These values are only used as defaults and in the template comments.
+#
+#Format (TAB DELIMITED): GenType	Name	BlockID	BlockMeta	ClusterSize	NumClusters	minY	maxY	regen
+#GenType is either UNIFORM or NORMAL. If NORMAL, minY is the average height and maxY is the maximum variance.
+#
+#Creates a template with default values of 4 clusters of 4 ores (1000:0) randomly between y = 32 and y = 64. Retrogen Enabled:
+#UNIFORM	testUniform	1000	0	4	4	32	64	true
+#
+#Creates a template with default values of 6 clusters of 16 ores (1000:1) in a 32-height Normal Distribution centered at y = 32. RetroGen Disabled:
+#NORMAL	testNormal	1000	1	16	6	32	16	false
+#

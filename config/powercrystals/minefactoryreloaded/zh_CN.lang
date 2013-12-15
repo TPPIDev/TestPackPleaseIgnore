@@ -2,6 +2,7 @@
 #translated by crafteverywhere
 #version=2.6.X
 
+
 tile.mfr.machine.planter.name = \u64ad\u79cd\u673a
 tile.mfr.machine.fisher.name = \u9493\u9c7c\u673a
 tile.mfr.machine.harvester.name = \u6536\u5272\u673a
@@ -45,7 +46,6 @@ tile.mfr.machine.autobrewer.name = \u81ea\u52a8\u917f\u9020\u53f0
 tile.mfr.machine.fruitpicker.name = \u679c\u5b9e\u91c7\u6458\u5668
 tile.mfr.machine.blockplacer.name = \u65b9\u5757\u653e\u7f6e\u5668
 tile.mfr.machine.mobcounter.name = \u751f\u7269\u8ba1\u6570\u5668
-tile.mfr.machine.steamturbine.name = \u84b8\u6c7d\u6da1\u8f6e
 
 tile.mfr.conveyor.default.name = \u4f20\u9001\u5e26
 tile.mfr.conveyor.white.name = \u767d\u8272\u4f20\u9001\u5e26
@@ -189,8 +189,6 @@ item.mfr.bucket.plasticcup.suffix.name =\u676f
 
 item.mfr.syringe.cure.name = \u50f5\u5c38\u75c5\u6bd2\u6297\u4f53\u6ce8\u5c04\u5668
 item.mfr.syringe.empty.name = \u7a7a\u6ce8\u5c04\u5668
-item.mfr.syringe.empty.prefix.name =
-item.mfr.syringe.empty.suffix.name = \u6ce8\u5c04\u5668
 item.mfr.syringe.growth.name = \u751f\u957f\u6fc0\u7d20\u6ce8\u5c04\u5668
 item.mfr.syringe.health.name = \u6cbb\u6108\u836f\u6c34\u6ce8\u5c04\u5668
 item.mfr.syringe.slime.name = \u53f2\u83b1\u59c6\u5de8\u5927\u5316\u6fc0\u7d20\u6ce8\u5c04\u5668
@@ -215,7 +213,6 @@ item.mfr.meat.ingot.cooked.name = \u70e4\u8089\u952d
 item.mfr.meat.nugget.raw.name = \u751f\u8089\u7c92
 item.mfr.meat.nugget.cooked.name = \u70e4\u8089\u7c92
 item.mfr.rocket.name = \u81ea\u63a8\u8fdb\u53cd\u7269\u8d28\u706b\u7bad
-item.mfr.rocket.smart.name = \u8ffd\u8e2a\u578b\u81ea\u5bfc\u822a\u53cd\u7269\u8d28\u706b\u7bad
 item.mfr.rocketlauncher.name = \u81ea\u63a8\u8fdb\u53cd\u7269\u8d28\u706b\u7bad\u53d1\u5c04\u7b52
 
 item.mfr.ceramicdye.white.name = \u9676\u74f7\u989c\u6599(\u767d\u8272)
