@@ -171,7 +171,7 @@ disabler {
     B:"Generate Tigerwood Trees"=true
     B:"Generate Willow Trees"=true
     B:"Obelisks let players respawn in the Nether"=true
-    B:"Override Nether"=false
+    B:"Override Nether"=true
 }
 
 
