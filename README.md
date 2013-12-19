@@ -1,4 +1,4 @@
-"Test Pack Please Ignore" -TPPI Team
+"Test Pack Please Ignore" -FTB Modpack
 ===============
 
 A github for public updates to the pack. We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/ . Thanks for reading!
@@ -7,7 +7,7 @@ Information
 ===============
 "Test Pack Please Ignore" is a FTB pack made by members of the FTB reddit, officialy given the OK by Slowpoke himself.
 
-Contributers/Developineapples
+Contributers/Developers
 ===============
 
 _esKaayY (IGN: esKaayY)_
