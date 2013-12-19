@@ -1,4 +1,4 @@
-"Test Pack Please Ignore" -The FTB Reddit Team
+"Test Pack Please Ignore" -The TPPI Team
 ===============
 
 A github for public updates to the pack. We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/ . Thanks for reading!
