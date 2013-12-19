@@ -24,6 +24,8 @@ _wha-ha-ha (IGN: wha-ha-ha)_
 
 _dudeedud4 (IGN: sneezing-panda)_
 
+_phit (reddit: phitriz)_
+
 Current Modlist
 ===============
 Google Doc. WIP Modlist: http://bit.ly/tppi#btn
