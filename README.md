@@ -7,7 +7,7 @@ Information
 ===============
 "Test Pack Please Ignore" is a FTB pack made by members of the FTB reddit, officialy given the OK by Slowpoke himself.
 
-Contributers/Develpoers
+Contributers/Developineapples
 ===============
 
 _esKaayY (IGN: esKaayY)_
@@ -24,7 +24,7 @@ _wha-ha-ha (IGN: wha-ha-ha)_
 
 _dudeedud4 (IGN: sneezing-panda)_
 
-_Current Modlist_
+Current Modlist
 ===============
 Google Doc. WIP Modlist: http://bit.ly/tppi#btn
 
