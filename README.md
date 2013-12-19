@@ -1,35 +1,34 @@
-"Test Pack Please Ignore"
+"Test Pack Please Ignore" FTB Modpack
 ===============
-**a Feed The Beast Modpack**
 
 A github for public updates to the pack. We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/ . Thanks for reading!
 
 Information
 ===============
-/r/FeedTheBeast is a FTB pack made by members of the FTB reddit, officialy given the OK by Slowpoke himself.
+"Test Pack Please Ignore" is a FTB pack made by members of the FTB reddit, officialy given the OK by Slowpoke himself.
 
-Contributers
+Contributers/Develpoers
 ===============
 
-esKaayY (IGN: esKaayY)
+_esKaayY (IGN: esKaayY)_
 
-Dr Soda (IGN: Epiksoda11)
+_Dr Soda (IGN: Epiksoda11)_
 
-nsstrunks (IGN: nsstrunks)
+_nsstrunks (IGN: nsstrunks)_
 
-NEOidea (stellarcraft) (IGN: NEOidea)
+_NEOidea (stellarcraft) (IGN: NEOidea)_
 
-tterrag (IGN/Reddit: tterrag1098)
+_tterrag (IGN/Reddit: tterrag1098)_
 
-wha-ha-ha (IGN: wha_ha_ha)
+_wha-ha-ha (IGN: wha-ha-ha)_
 
-dudeedud4 (IGN: sneezing_panda)
+_dudeedud4 (IGN: sneezing-panda)_
 
-Current Modlist
+_Current Modlist_
 ===============
-http://bit.ly/tppi#btn
+Google Doc. WIP Modlist: http://bit.ly/tppi#btn
 
-The configs in no way represent the final decisions on mods, in fact they are far from it.
+**THE MODS ARE NOT OFFICIALLY SETTLED APON, DO NOT TAKE AS SUCH**
 
 Changelog
 ===============
