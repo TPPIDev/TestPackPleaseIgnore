@@ -59,5 +59,151 @@ found in the core file.
 </recipeGroup>
 -->
   
+<SAGMillRecipes>
+    
+    <recipeGroup name="Mekanism" >
+    
+    <!-- Metals -->
+    <recipe name="OsmiumOre" energyCost="360">
+        <input>
+            <itemStack oreDictionary="oreOsmium" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustOsmium" number="2" />
+            <itemStack oreDictionary="dustOsmium" number="1"
+            chance="0.10" />
+        </output>
+    </recipe>
+    
+    <!-- Alloys and Ingots -->
+    <recipe name="OsmiumIngot" energyCost="240">
+        <input>
+            <itemStack oreDictionary="ingotOsmium" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustOsmium" number="1" />
+        </output>
+    </recipe>
+    
+    
+    <!-- Blocks -->
+    <recipe name="OsmiumBlock" energyCost="360">
+        <input>
+            <itemStack oreDictionary="blockOsmium" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustOsmium" number="9" />
+        </output>
+    </recipe>
+</recipeGroup>
+
+<recipeGroup name="Engineer's Toolbox">
+    
+    <!-- Metals -->
+    <recipe name="NickelOre" energyCost="360">
+        <input>
+            <itemStack oreDictionary="oreNickel" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustNickel" number="2" />
+            <itemStack oreDictionary="dustIron" number="1"
+            chance="0.05" />
+        </output>
+    </recipe>
+    <recipe name="AluminumOre" energyCost="360">
+        <input>
+            <itemStack oreDictionary="oreAluminum" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustAluminum" number="2" />
+        </output>
+    </recipe>
+    
+    <!-- Alloys and Ingots -->
+    <recipe name="NickelIngot" energyCost="240">
+        <input>
+            <itemStack oreDictionary="ingotNickel" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustNickel" number="1" />
+        </output>
+    </recipe>
+    <recipe name="AluminumIngot" energyCost="240">
+        <input>
+            <itemStack oreDictionary="ingotAluminum" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustAluminum" number="1" />
+        </output>
+    </recipe>
+    
+    
+    <!-- Blocks -->
+    <recipe name="NickelBlock" energyCost="360">
+        <input>
+            <itemStack oreDictionary="blockNickel" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustNickel" number="9" />
+        </output>
+    </recipe>
+    <recipe name="AluminumBlock" energyCost="360">
+        <input>
+            <itemStack oreDictionary="blockAluminum" />
+        </input>
+        <output>
+            <itemStack oreDictionary="dustAluminum" number="9" />
+        </output>
+    </recipe>
+</recipeGroup>
+
+<recipeGroup name="BigReactors">
+<!-- Metals -->
+       <recipe name="YelloriteOre" energyCost="360">
+         <input>
+             <itemStack oreDictionary="oreYellorite" />
+         </input>
+         <output>
+             <itemStack oreDictionary="dustUranium" number="2" />
+             <itemStack oreDictionary="dustCyanite" number="1"
+                        chance="0.05" />
+         </output>
+       </recipe>
+
+<!-- Alloys and Ingots -->
+       <recipe name="YelloriteIngot" energyCost="240">
+         <input>
+             <itemStack oreDictionary="ingotUranium" />
+         </input>
+         <output>
+             <itemStack oreDictionary="dustUranium" number="1" />
+
+         </output>
+       </recipe>
+       <recipe name="CyaniteIngot" energyCost="240">
+         <input>
+             <itemStack oreDictionary="ingotCyanite" />
+         </input>
+         <output>
+             <itemStack oreDictionary="dustCyanite" number="1" />
+         </output>
+       </recipe>
+       <recipe name="BlutoniumIngot" energyCost="240">
+         <input>
+             <itemStack oreDictionary="ingotPlutonium" />
+         </input>
+         <output>
+             <itemStack oreDictionary="dustPlutonium" number="1" />
+         </output>
+       </recipe>
+       <recipe name="GraphiteIngot" energyCost="240">
+         <input>
+             <itemStack oreDictionary="ingotGraphite" />
+         </input>
+         <output>
+             <itemStack oreDictionary="dustGraphite" number="1" />
+         </output>
+       </recipe>
+</recipeGroup>
 
 </SAGMillRecipes>
