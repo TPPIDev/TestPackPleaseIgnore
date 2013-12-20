@@ -193,7 +193,7 @@ found in the core file.
              <itemStack modID="BigReactors" itemName="bigReactors:ingotBluetonium"/>
          </input>
          <output>
-             <itemStack modID="BigReactors" itemName="bigReactors:ingotBluetonium"/>
+             <itemStack modID="BigReactors" itemName="bigReactors:dustBluetonium"/>
          </output>
        </recipe>
        <recipe name="GraphiteIngot" energyCost="240">
