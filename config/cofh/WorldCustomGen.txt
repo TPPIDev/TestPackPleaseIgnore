@@ -11,3 +11,5 @@
 #Creates a template with default values of 6 clusters of 16 ores (1000:1) in a 32-height Normal Distribution centered at y = 32. RetroGen Disabled:
 #NORMAL	testNormal	1000	1	16	6	32	16	false
 #
+
+NORMAL	magicalCropsOre	3636	0	4	2	13	5	true
