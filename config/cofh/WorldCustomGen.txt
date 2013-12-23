@@ -12,4 +12,4 @@
 #NORMAL	testNormal	1000	1	16	6	32	16	false
 #
 
-NORMAL	magicalCropsOre	3636	0	4	2	13	5	true
+NORMAL	magicalCropsOre	3636	0	8	3	13	5	true
