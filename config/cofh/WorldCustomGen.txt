@@ -12,4 +12,13 @@
 #NORMAL	testNormal	1000	1	16	6	32	16	false
 #
 
-NORMAL	magicalCropsOre	3636	0	8	3	13	5	true
+NORMAL	vanillaIron	15	0	8	24	32	32	false
+NORMAL	vanillaGold	14	0	6	4	16	16	false
+NORMAL	vanillaRedstone	73	0	6	10	0	16	false
+NORMAL	teCopper	2001	0	8	11	58	16	false
+NORMAL	teTin	2001	1	8	9	38	16	false
+NORMAL	teSilver	2001	2	8	6	20	12	false
+NORMAL	teLead	2001	3	8	6	25	12	false
+UNIFORM	teNickel	2001	4	4	5	5	20	false
+NORMAL	mekOsmium	733	0	8	8	16	14	false
+NORMAL	magicalCropsOre	3636	0	8	3	13	5	false
