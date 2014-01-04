@@ -164,7 +164,7 @@ found in the core file.
              <itemStack oreDictionary="oreYellorite" />
          </input>
          <output>
-             <itemStack oreDictionary="dustUranium" number="2" />
+             <itemStack oreDictionary="bigReactors:dustYellorite" number="2" />
              <itemStack oreDictionary="dustCyanite" number="1"
                         chance="0.05" />
          </output>
