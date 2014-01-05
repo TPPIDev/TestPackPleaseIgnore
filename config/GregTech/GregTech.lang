@@ -325,6 +325,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_73=Decorative Item Storage
     S:TileEntity_DESCRIPTION_74=Decorative Item Storage
     S:TileEntity_DESCRIPTION_75=With a capacity of 256000 Liters!
+    S:TileEntity_DESCRIPTION_76=Electric Trading Machine
     S:TileEntity_DESCRIPTION_77=Player Proximity Sensor
     S:TileEntity_DESCRIPTION_78=Redstone Strength on a Scale
     S:TileEntity_DESCRIPTION_79=§rYou just need §5I§dm§4a§cg§ei§an§ba§3t§9i§1o§5n§r to use this.
