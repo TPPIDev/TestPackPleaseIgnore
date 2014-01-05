@@ -253,7 +253,7 @@ looks {
     I:"Alumite ingot return"=3
 
     # Number of ingots returned from smelting Bronze in the smeltery
-    I:"Bronze ingot return"=3
+    I:"Bronze ingot return"=4
 
     # Number of ingots returned from smelting ores in the smeltery
     I:"Ingots per ore"=2
