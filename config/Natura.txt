@@ -149,7 +149,7 @@ disabler {
     B:"Generate Bluebell Flowers"=true
     B:"Generate Blueberry Bushes"=true
     B:"Generate Cotton Crops"=true
-    B:"Generate Dark Clouds"=true
+    B:"Generate Dark Clouds"=false
     B:"Generate Darkwood Trees"=true
     B:"Generate Duskberry Bushes"=true
     B:"Generate Fusewood Trees"=true
