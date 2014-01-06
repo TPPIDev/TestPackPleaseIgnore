@@ -22,3 +22,4 @@ NORMAL	teLead	2001	3	8	6	25	12	false
 UNIFORM	teNickel	2001	4	4	5	5	20	false
 NORMAL	mekOsmium	733	0	8	8	16	14	false
 NORMAL	magicalCropsOre	3636	0	8	3	13	5	false
+UNIFORM	brYellorite	2148	0	14	2	1	9	false
