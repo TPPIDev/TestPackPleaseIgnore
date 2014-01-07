@@ -20,8 +20,6 @@ found in the core file.
  
 -->
 
-<SAGMillRecipes>
-
 <!-- Disables all recipes in the group 'Vanilla'
 <recipeGroup name="Vanilla" enabled="false"/> 
 -->
