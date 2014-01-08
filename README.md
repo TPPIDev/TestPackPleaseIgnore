@@ -26,7 +26,7 @@ _dudeedud4 (IGN: sneezing-panda)_
 
 _phit (reddit: phitriz)_
 
-_Dsteinkoenig (Reddit:Devon_Steinkoenig)
+_Dsteinkoenig_
 
 Current Modlist
 ===============
