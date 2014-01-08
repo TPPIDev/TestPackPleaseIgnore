@@ -26,8 +26,6 @@ _dudeedud4 (IGN: sneezing-panda)_
 
 _phit (reddit: phitriz)_
 
-_Dsteinkoenig_
-
 Current Modlist
 ===============
 Google Doc. WIP Modlist: http://bit.ly/tppi#btn
