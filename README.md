@@ -28,11 +28,9 @@ _phit (reddit: phitriz)_
 
 Current Modlist
 ===============
-Google Doc. WIP Modlist: http://bit.ly/tppi#btn
-
-**THE MODS ARE NOT OFFICIALLY SETTLED APON, DO NOT TAKE AS SUCH**
+Google Doc. Modlist: http://bit.ly/tppi#btn
 
 Changelog
 ===============
 
--configs are in a working state, but are in no way balanced.
+Look at the commits.
