@@ -31,16 +31,60 @@ Now I am after a blank line
 
 **Begin line after asterisks**
 ****************************************************************************
->TPPITweaks, TPPI Tweaks<
-TPPITweaks is the mod made especially for the TPPI Modpack, 
-which is the representative modpack for /r/feedthebeast.~
+>Builcraft, Buildcraft 4<
+Buildcraft adds a load of cool ways to automate crafting, processing, and mining.~
 ~
-It contains many tweaks for mods to better improve balance, 
-and some helpful objects to better guide
+This mod adds "engines" which are ways to produce MJ. You can also use Thermal Expansion's dynamos,
+but you must have an energy conduit between the dynamo and the machine.~
+~
+There are many different machines, for instance, the quarry. The quarry is an semi-automatic way to mine. You can use
+landmarks to set the size of the quarry, but keep in mind 64x64 is the maximum size. The automatic crafting table crafts
+stuff, automatically! Totally unexpected!
+~
+You can also use pipes to transport items, for instance you can make a automated smelter. If you want to learn better,
+just start practicing and you'll get the hang of it, or you can watch a mod spotlight.
+~
+
+>TinkersConstruct, Tinkers' Construct<
+Tinkers' Construct is a mod that lets you build custom tools out of 
+various materials, each with their own special properties.~
+~
+To get started with the basics, check out the book "Materials And You" that 
+you should have spawned with.
+~
+
+>ArsMagica, Ars Magica 2<
+Ars Magica 2 is a very polished and developed magic mod with RPG elements.~
+~
+This mod comes with its own in-game guide! To get this guide, craft an Item Frame and
+a normal Book, and get exploring: you'll have to find liquid Essence.~
+~
+Essence is a cyan liquid found in small pools in forests and similar biomes.
 ~~~
-the player in the modpack.~
+To get the in-game guide, find a pool of Essence, place the Item Frame so that it is directly above
+the pool of Essence, and place the Book inside the Item Frame. After some flashes and sparkles,
+your guidebook will be ready.
 ~
-Authors: wha-ha-ha, tterrag 
+
+>GregTech, GregTech<
+<gregtechcommunitywiki.wikispaces.com>
+**GregTech is far, far too complex for Minecraft's Written Book format.**
+**I think the only way to provide support for that mod is either a wiki link**
+**Or a book format resembling Thaumcraft's or RotaryCraft's.**
+
+>MFR, MineFactory Reloaded<
+MineFactory Reloaded is a vast mod, comprising many useful 
+machines and automation devices.  From conveyor belts to tree farms, 
+there is something in MFR for everybody.~
+~
+To get started, most of the MFR machines require rubber.  Rubber trees are 
+generated throughout the landscape.  Break the wood to acquire the flexible 
+material, then smelt it into rubber bars, and then again into raw plastic.  
+This plastic can then be crafted into sheets of plastic, which are the foundation 
+for most of the machines.
+~
+Authors: Powercrystals, skyboy026
+
 >Thaumcraft, Thaumcraft 4<
 Thaumcraft is a magical mod that requires you to "research" its items before you can craft them.~
 ~
@@ -51,13 +95,7 @@ place a bookshelf on the ground, and right-click your wand on it.~
 ~
 It should transform into a Thaumonomicon; the true guidebook for Thaumcraft!
 ~
->TinkersConstruct, Tinkers' Construct<
-Tinkers' Construct is a mod that lets you build custom tools out of 
-various materials, each with their own special properties.~
-~
-To get started with the basics, check out the book "Materials And You" that 
-you should have spawned with.
-~
+ 
 >ThermalExpansion, Thermal Expansion 3<
 Thermal Expansion is a "technology" mod that adds a power system called Redstone Flux (RF). 
 It has itemducts, fluiducts, and energy conduits for transporting items, liquids, and RF power 
@@ -82,3 +120,13 @@ The slot in the machine associated with that color will
 be highlighted in that color. This should help indicate what that color's purpose is 
 for that particular machine.
 ~
+>TPPITweaks, TPPI Tweaks<
+TPPITweaks is the mod made especially for the TPPI Modpack, 
+which is the representative modpack for /r/feedthebeast.~
+~
+It contains many tweaks for mods to better improve balance, 
+and some helpful objects to better guide
+~~~
+the player in the modpack.~
+~
+Authors: wha-ha-ha, tterrag 

@@ -1,0 +1,18 @@
+#Place the Forge Liquid name (all lowercase) you wish to add as a fuel or
+#throttle under the appropriate category using the below syntax.
+#The first number is the burn value and the second is burn time.
+#Liquid Force must be added as a fuel or defaults will be asserted.
+#Version: 1.0.0
+
+#Fuels.
+f:liquidforce=4.0;20000
+f:lava=0.5;20000
+f:oil=1.5;20000
+f:fuel=3.0;100000
+f:bioethanol=2.0;60000
+
+#Throttles.
+t:water=2.0;600
+t:milk=2.5;3000
+t:ice=4.0;20000
+t:honey=3.0;10000
