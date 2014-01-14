@@ -138,6 +138,7 @@ thaumcraft.common.tiles.TileArcaneWorkbench
 thaumcraft.common.tiles.TileChestHungry
 thaumcraft.common.tiles.TileCrucible
 thaumcraft.common.tiles.TileMagicWorkbench
+#thaumcraft.common.tiles.TileNode
 
 #Thermal Expansion TileEntities.
 #Note that if these tiles are disabled the Force Wrench will default
