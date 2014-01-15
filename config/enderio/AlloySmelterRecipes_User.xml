@@ -26,6 +26,12 @@ ore dictionary.
 -->
 
 <AlloySmelterRecipes>
+
+  <vanillaFurnaceRecipes>
+    <exclude>
+          <itemStack oreDictionary="dustSteel" />
+    </exclude>
+  </vanillaFurnaceRecipes>
   
 </AlloySmelterRecipes>  
 
