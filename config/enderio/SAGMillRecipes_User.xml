@@ -162,7 +162,7 @@ found in the core file.
              <itemStack oreDictionary="oreYellorite" />
          </input>
          <output>
-             <itemStack oreDictionary="bigReactors:dustYellorite" number="2" />
+             <itemStack oreDictionary="dustYellorite" number="2" />
              <itemStack oreDictionary="dustCyanite" number="1"
                         chance="0.05" />
          </output>
@@ -171,10 +171,10 @@ found in the core file.
 <!-- Alloys and Ingots -->
        <recipe name="YelloriteIngot" energyCost="240">
          <input>
-             <itemStack modID="BigReactors" itemName="bigReactors:ingotYellorite"/>
+             <itemStack oreDictionary="ingotYellorium" />
          </input>
          <output>
-             <itemStack modID="BigReactors" itemName="bigReactors:dustYellorite"/>
+             <itemStack oreDictionary="dustYellorium" number="1" />
 
          </output>
        </recipe>
@@ -188,10 +188,10 @@ found in the core file.
        </recipe>
        <recipe name="BlutoniumIngot" energyCost="240">
          <input>
-             <itemStack modID="BigReactors" itemName="bigReactors:ingotBluetonium"/>
+             <itemStack oreDictionary="ingotBlutonium" />
          </input>
          <output>
-             <itemStack modID="BigReactors" itemName="bigReactors:dustBluetonium"/>
+             <itemStack oreDictionary="dustBlutonium"/>
          </output>
        </recipe>
        <recipe name="GraphiteIngot" energyCost="240">
