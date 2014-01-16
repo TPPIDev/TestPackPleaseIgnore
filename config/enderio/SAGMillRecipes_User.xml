@@ -204,4 +204,15 @@ found in the core file.
        </recipe>
 </recipeGroup>
 
+<recipeGroup name="TinkersConstruct">
+      <recipe name="ObsidianIngot" energyCost="240">
+        <input>
+          <itemStack oreDictionary="ingotObsidian"/>
+        </input>
+        <output>
+          <itemStack oreDictionary="dustObsidian" number="1" />
+        </output>
+      </recipe>
+</recipeGroup>
+
 </SAGMillRecipes>
