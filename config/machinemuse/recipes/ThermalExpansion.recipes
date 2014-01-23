@@ -50,9 +50,9 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "dyeRed" }, { "oredictName" : "dyeGreen" }, { "oredictName" : "dyeBlue" } ],
-			[ null, { "unlocalizedName" : "tile.glass" }, null ],
-			[ { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.thermalexpansion.material.powerCoilGold" }, { "oredictName" : "componentWiring" } ]
+			[ { "oredictName" : "gemRuby" }, { "oredictName" : "gemOlivine" }, { "oredictName" : "gemSapphire" } ],
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" }, { "unlocalizedName" : "item.thermalexpansion.material.powerCoilGold" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" } ],
+			[ { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"oredictName" : "componentLaserEmitter"
@@ -60,9 +60,9 @@
 	},
 	{
 		"ingredients" : [
-			[ null, { "unlocalizedName" : "item.emerald" }, null ],
-			[ { "oredictName" : "ingotElectrum" }, { "unlocalizedName" : "item.thermalexpansion.component.machineFrame" }, { "oredictName" : "ingotElectrum" } ],
-			[ null, { "unlocalizedName" : "item.thermalexpansion.material.powerCoilSilver" }, null ]
+			[ null, { "unlocalizedName" : "item.netherStar" }, null ],
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" }, { "oredictName" : "componentLaserEmitter" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" } ],
+			[ { "unlocalizedName" : "tile.obsidian" }, { "unlocalizedName" : "tile.obsidian" }, { "unlocalizedName" : "tile.obsidian" } ]
 		],
 		"result" : {
 			"unlocalizedName" : "tile.tinkerTable"
@@ -199,9 +199,9 @@
 	},
 	{
 		"ingredients" : [
-			[  null, { "oredictName" : "componentWiring" }, null ],
+			[  { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "componentWiring" }, { "oredictName" : "gemCrystalFlux" } ],
 			[  { "oredictName" : "componentSolenoid" }, { "unlocalizedName" : "item.thermalexpansion.component.tesseractFrameFull" }, { "oredictName" : "componentSolenoid" } ],
-			[  null, { "oredictName" : "componentWiring" }, null ]
+			[  null, { "oredictName" : "ingotPlatinum" }, null ]
 		],
 		"result" : {
 			"oredictName" : "componentFieldEmitter"
@@ -210,9 +210,9 @@
 	},
 	{
 		"ingredients" : [
-			[  null, { "oredictName" : "componentFieldEmitter" }, { "oredictName" : "ingotInvar" } ],
-			[  { "oredictName" : "ingotInvar" }, { "unlocalizedName" : "item.yellowDust" }, null],
-			[  { "oredictName" : "componentWiring" }, { "oredictName" : "componentFieldEmitter" }, { "oredictName" : "ingotInvar" } ]
+			[  null, { "oredictName" : "componentFieldEmitter" }, { "oredictName" : "ingotEnderium" } ],
+			[  { "oredictName" : "ingotInvar" }, { "oredictName" : "componentHVCapacitor" }, null],
+			[  { "oredictName" : "ingotPlatinum" }, { "oredictName" : "componentFieldEmitter" }, { "oredictName" : "ingotInvar" } ]
 		],
 		"result" : {
 			"oredictName" : "componentIonThruster"
