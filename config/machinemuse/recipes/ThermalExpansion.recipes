@@ -189,9 +189,9 @@
 	},
 	{
 		"ingredients" : [
-			[  null, { "oredictName" : "componentSolenoid" }, null ],
+			[  { "oredictName" : "componentSolenoid" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentSolenoid" } ],
 			[  { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.thermalexpansion.material.pneumaticServo" }, { "oredictName" : "componentWiring" } ],
-			[  null, { "oredictName" : "componentSolenoid" }, null ]
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"oredictName" : "componentServo"
