@@ -50,7 +50,7 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "gemRuby" }, { "oredictName" : "gemOlivine" }, { "oredictName" : "gemSapphire" } ],
+			[ { "oredictName" : "gemRuby" }, { "oredictName" : "gemPeridot" }, { "oredictName" : "gemSapphire" } ],
 			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" }, { "unlocalizedName" : "item.thermalexpansion.material.powerCoilGold" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" } ],
 			[ { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" } ]
 		],
