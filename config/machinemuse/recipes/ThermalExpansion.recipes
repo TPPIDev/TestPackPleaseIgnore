@@ -11,9 +11,9 @@
 	},
 	{
 		"ingredients" : [
-			[ { "unlocalizedName" : "item.diamond" }, { "unlocalizedName" : "item.diamond" } ],
-			[ { "oredictName" : "gearInvar" }, { "unlocalizedName" : "item.diamond" } ],
-			[ { "unlocalizedName" : "item.diamond" }, { "unlocalizedName" : "item.diamond" } ]
+			[ { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "gemCrystalFlux" } ],
+			[ { "oredictName" : "gearElectrum" }, { "oredictName" : "gemCrystalFlux" } ],
+			[ { "oredictName" : "gemCrystalFlux" }, { "oredictName" : "gemCrystalFlux" } ]
 		],
 		"result" : {
 			"oredictName" : "componentPlatingAdvanced"
@@ -79,9 +79,9 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" } ],
-			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" } ],
-			[ { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ]
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotEnderium" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"unlocalizedName" : "item.powerArmorChestplate"
@@ -89,8 +89,8 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" } ],
-			[ { "oredictName" : "ingotSteel" }, null, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "ingotEnderium" }, null, { "oredictName" : "ingotEnderium" } ],
 			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
@@ -108,9 +108,9 @@
 	},
 	{
 		"ingredients" : [
-			[ null, { "unlocalizedName" : "item.ingotIron" }, null ],
-			[ { "unlocalizedName" : "item.ingotIron" }, { "oredictName" : "ingotElectrum" }, { "unlocalizedName" : "item.ingotIron" } ],
-			[ null, { "oredictName" : "componentWiring" }, null ]
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" }, null, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" } ],
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" }, { "oredictName" : "gemCrystalFlux" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" } ],
+			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" } ]
 		],
 		"result" : {
 			"unlocalizedName" : "item.powerFist"
@@ -139,7 +139,7 @@
 	},
 	{
 		"ingredients" : [
-			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotBronze" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotInvar" }, { "oredictName" : "componentWiring" } ],
 			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorHardened" }, { "oredictName" : "ingotSilver" } ],
 			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
@@ -149,7 +149,7 @@
 	},
 	{
 		"ingredients" : [
-			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotInvar" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotElectrum" }, { "oredictName" : "componentWiring" } ],
 			[  { "oredictName" : "ingotElectrumFlux" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorReinforced" }, { "oredictName" : "ingotElectrumFlux" } ],
 			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
@@ -169,9 +169,9 @@
 	},
 	{
 		"ingredients" : [
-			[  { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.ingotIron" }, { "oredictName" : "componentWiring" } ],
-			[  { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.ingotIron" }, { "oredictName" : "componentWiring" } ],
-			[  { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.ingotIron" }, { "oredictName" : "componentWiring" } ]
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"oredictName" : "componentSolenoid"
