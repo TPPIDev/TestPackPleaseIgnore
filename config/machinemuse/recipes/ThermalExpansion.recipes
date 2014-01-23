@@ -1,9 +1,9 @@
 [
 	{
 		"ingredients" : [
-			[ { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" } ],
-			[ { "oredictName" : "gearTin" }, { "unlocalizedName" : "item.ingotIron" } ],
-			[ { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" } ]
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "gearInvar" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" } ]
 		],
 		"result" : {
 			"oredictName" : "componentPlatingBasic"
@@ -21,9 +21,9 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "ingotElectrum" }, { "unlocalizedName" : "item.yellowDust" }, { "oredictName" : "componentWiring" } ],
-			[ { "unlocalizedName" : "item.redstone" }, { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.yellowDust" } ],
-			[ { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.redstone" }, { "oredictName" : "ingotElectrum" } ]
+			[ { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" }, { "oredictName" : "componentWiring" } ],
+			[ { "oredictName" : "gemCrystalFlux" }, { "unlocalizedName" : "item.redstoneChipset.2" }, { "oredictName" : "gemCrystalFlux" } ],
+			[ { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" } ]
 		],
 		"result" : {
 			"oredictName" : "componentControlCircuit"
@@ -35,7 +35,7 @@
 			[ { "oredictName" : "componentPlatingBasic" } ]
 		],
 		"result" : {
-			"unlocalizedName" : "item.ingotIron",
+			"oredictName" : "ingotSteel",
 			"quantity" : 5
 		}
 	},
@@ -70,7 +70,7 @@
 	},
 	{
 		"ingredients" : [
-			[ { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" } ],
+			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "ingotInvar" }, { "oredictName" : "ingotEnderium" } ],
 			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
@@ -118,13 +118,13 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "ingotCopper" }, { "oredictName" : "ingotCopper" }, { "oredictName" : "ingotCopper" } ],
-			[ { "oredictName" : "ingotSilver" }, { "oredictName" : "ingotSilver" }, { "oredictName" : "ingotSilver" } ],
-			[ { "oredictName" : "ingotCopper" }, { "oredictName" : "ingotCopper" }, { "oredictName" : "ingotCopper" } ]
+			[ { "oredictName" : "ingotLead" }, { "oredictName" : "ingotSilver" }, { "oredictName" : "ingotLead" } ],
+			[ { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" }, { "oredictName" : "ingotElectrumFlux" } ],
+			[ { "oredictName" : "ingotLead" }, { "oredictName" : "ingotSilver" }, { "oredictName" : "ingotLead" } ]
 		],
 		"result" : {
 			"oredictName" : "componentWiring",
-			"quantity" : 8
+			"quantity" : 12
 		}
 	},
 	{
@@ -139,8 +139,9 @@
 	},
 	{
 		"ingredients" : [
-			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName" : "item.paper" }, { "unlocalizedName" : "item.ingotGold" } ],
-			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
+			[  { "oredictName" : "componentWiring" }, { "ordictName" : "ingotInvar" }, { "unlocalizedName" : "componentWiring" } ],
+			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName": "tile.thermalexpansion.energycell.hardened" }, { "oredictName" : "ingotSilver" } ],
+			[  { "oredictName" : "componentWiring" }, null, { "unlocalizedName" : "componentWiring" } ]
 		],
 		"result" : {
 			"oredictName" : "componentLVCapacitor"
