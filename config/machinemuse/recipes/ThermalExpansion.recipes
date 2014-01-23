@@ -70,7 +70,7 @@
 	},
 	{
 		"ingredients" : [
-			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "ingotInvar" }, { "oredictName" : "ingotEnderium" } ],
+			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotEnderium" } ],
 			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
@@ -79,9 +79,9 @@
 	},
 	{
 		"ingredients" : [
-			[ { "unlocalizedName" : "item.ingotIron" }, null, { "unlocalizedName" : "item.ingotIron" } ],
-			[ { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.ingotIron" }, { "oredictName" : "componentWiring" } ],
-			[ { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" } ]
+			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" } ],
+			[ { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "componentWiring" }, { "oredictName" : "ingotSteel" }, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"unlocalizedName" : "item.powerArmorChestplate"
@@ -89,9 +89,9 @@
 	},
 	{
 		"ingredients" : [
-			[ { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" }, { "unlocalizedName" : "item.ingotIron" } ],
-			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ],
-			[ { "unlocalizedName" : "item.ingotIron" }, null, { "unlocalizedName" : "item.ingotIron" } ]
+			[ { "oredictName" : "ingotEnderium" }, { "oredictName" : "componentWiring" }, { "oredictName" : "ingotEnderium" } ],
+			[ { "oredictName" : "ingotSteel" }, null, { "oredictName" : "ingotSteel" } ],
+			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"unlocalizedName" : "item.powerArmorLeggings"
@@ -100,7 +100,7 @@
 	{
 		"ingredients" : [
 			[ { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ],
-			[ { "unlocalizedName" : "item.ingotIron" }, null, { "unlocalizedName" : "item.ingotIron" } ]
+			[ { "oredictName" : "ingotEnderium" }, null, { "oredictName" : "ingotEnderium" } ]
 		],
 		"result" : {
 			"unlocalizedName" : "item.powerArmorBoots"
@@ -139,9 +139,9 @@
 	},
 	{
 		"ingredients" : [
-			[  { "oredictName" : "componentWiring" }, { "ordictName" : "ingotInvar" }, { "unlocalizedName" : "componentWiring" } ],
-			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName": "tile.thermalexpansion.energycell.hardened" }, { "oredictName" : "ingotSilver" } ],
-			[  { "oredictName" : "componentWiring" }, null, { "unlocalizedName" : "componentWiring" } ]
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotBronze" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "ingotSilver" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorHardened" }, { "oredictName" : "ingotSilver" } ],
+			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"oredictName" : "componentLVCapacitor"
@@ -149,7 +149,9 @@
 	},
 	{
 		"ingredients" : [
-			[  { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.thermalexpansion.component.conduitEnergyReinforcedEmpty" }, { "oredictName" : "componentWiring" } ]
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotInvar" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "ingotElectrumFlux" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorReinforced" }, { "oredictName" : "ingotElectrumFlux" } ],
+			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"oredictName" : "componentMVCapacitor"
@@ -157,7 +159,9 @@
 	},
 	{
 		"ingredients" : [
-			[  { "oredictName" : "componentWiring" }, { "unlocalizedName" : "item.thermalexpansion.component.cellReinforcedFrameFull" }, { "oredictName" : "componentWiring" } ]
+			[  { "oredictName" : "componentWiring" }, { "oredictName" : "ingotPlatinum" }, { "oredictName" : "componentWiring" } ],
+			[  { "oredictName" : "ingotEnderium" }, { "unlocalizedName" : "item.thermalexpansion.capacitor.capacitorResonant" }, { "oredictName" : "ingotEnderium" } ],
+			[  { "oredictName" : "componentWiring" }, null, { "oredictName" : "componentWiring" } ]
 		],
 		"result" : {
 			"oredictName" : "componentHVCapacitor"
