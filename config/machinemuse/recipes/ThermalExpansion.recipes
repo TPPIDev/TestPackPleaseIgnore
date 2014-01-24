@@ -60,8 +60,8 @@
 	},
 	{
 		"ingredients" : [
-			[ null, { "unlocalizedName" : "item.netherStar" }, null ],
-			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" }, { "oredictName" : "componentLaserEmitter" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidian" } ],
+			[ null, { "oredictName" : "gemEmerald" }, null ],
+			[ { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" }, { "oredictName" : "componentLaserEmitter" }, { "unlocalizedName" : "item.redstonearsenal.material.rodObsidianFlux" } ],
 			[ { "unlocalizedName" : "tile.obsidian" }, { "unlocalizedName" : "tile.obsidian" }, { "unlocalizedName" : "tile.obsidian" } ]
 		],
 		"result" : {
