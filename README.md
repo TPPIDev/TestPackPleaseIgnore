@@ -7,6 +7,8 @@ Information
 ===============
 "Test Pack Please Ignore" is a FTB pack made by members of the FTB reddit, officialy given the OK by Slowpoke himself.
 
+This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. To set the permgen, go to the options tab and click on "Advanced Options". In additional java parameters, add the following (without the quotes): "-XX:PermSize=256M".
+
 Upon launching the pack for the first time, you will be prompted with a GUI popup to download additional mods that we unfortunately didn't have permission to redistribute in our pack. Following the directions on the GUI will allow you to easily download the additional mods and place them in the correct directory folders. This is an optional process, but *highly* recommended to get the full TPPI experience. DO NOT CLOSE YOUR MINECRAFT UNTIL PROMPTED TO. 
 
 Reminder for ad.fly: In the upper right hand corner of your window you will see text go from “please wait” to “5”->”4”…”1” then “SKIP AD”. Do not click anything on your screen except for that yellow “SKIP AD” button. This will automatically download Thaumcraft into your assigned download folder. Drag the newly downloaded mod into your mods folder, which can easily be opened by clicking the button on the GUI. Repeat for Twilight Forest by clicking “continue”. 
