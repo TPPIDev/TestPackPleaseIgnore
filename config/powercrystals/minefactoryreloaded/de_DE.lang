@@ -133,6 +133,8 @@ tile.ice.unmelting.name = Nichtschmelzendes Eis
 
 tile.mfr.vinescaffold.name = Lianenger\u00fcst
 
+tile.mfr.detcord.name = Sprengschnur
+
 tile.mfr.rubberwood.sapling.name = Kautschuksetzling
 tile.mfr.rubberwood.log.name = Kautschukholz
 tile.mfr.rubberwood.leaves.name = Kautschukbl\u00e4tter
@@ -169,8 +171,11 @@ item.mfr.bucket.chocolatemilk.name = Eimer mit Kakao
 item.mfr.bucket.mushroomsoup.name = Eimer mit Pilzsuppe
 
 item.mfr.bucket.plasticcup.name = Plastikbecher
-item.mfr.bucket.plasticcup.prefix.name =
-item.mfr.bucket.plasticcup.suffix.name = Becher
+item.mfr.bucket.plasticcup.prefix.name = Becher mit
+item.mfr.bucket.plasticcup.suffix.name = 
+item.mfr.bucket.plasticcell.name = Plastikzelle
+item.mfr.bucket.plasticcell.prefix.name = Zelle mit
+item.mfr.bucket.plasticcell.suffix.name =
 
 item.mfr.hammer.name = Schmiedehammer
 item.mfr.fertilizer.name = Industried\u00fcnger
@@ -180,6 +185,8 @@ item.mfr.rubber.bar.name = Gummiriegel
 item.mfr.rubber.raw.name = Amorphes Gummi
 item.mfr.syringe.cure.name = Dezombifikationsspritze
 item.mfr.syringe.empty.name = Leere Spritze
+item.mfr.syringe.empty.prefix.name = Spritze mit
+item.mfr.syringe.empty.suffix.name =
 item.mfr.syringe.growth.name = Wachstumsspritze
 item.mfr.syringe.health.name = Gesundheitsspritze
 item.mfr.syringe.slime.name = Schleimvergr\u00f6\u00dferungsspritze
@@ -207,6 +214,7 @@ item.mfr.pinkslimeball.name = Pinker Schleimball
 item.mfr.rocket.name = Selbstangetriebene Anti-Material-Rakete (SPAMR)
 item.mfr.rocket.smart.name = Verfolgende Selbstangetriebene Anti-Material-Rakete
 item.mfr.rocketlauncher.name = SPAMR-Raketenwerfer
+item.mfr.fishingrod.name = Angel
 
 item.mfr.ceramicdye.white.name = Wei\u00dfe Lasur
 item.mfr.ceramicdye.orange.name = Orange Lasur
@@ -242,6 +250,7 @@ item.mfr.laserfocus.green.name = Gr\u00fcne Linse
 item.mfr.laserfocus.red.name = Rote Linse
 item.mfr.laserfocus.black.name = Schwarze Linse
 
+item.mfr.upgrade.radius.cobble.name = Pflasterstein-Upgrade
 item.mfr.upgrade.radius.lapis.name = Lapislazuli-Upgrade
 item.mfr.upgrade.radius.iron.name = Eisenupgrade
 item.mfr.upgrade.radius.tin.name = Zinnupgrade
@@ -336,39 +345,59 @@ circuit.mfr.xor.2 = XOR (2 Eing\u00e4nge)
 circuit.mfr.xor.3 = XOR (3 Eing\u00e4nge)
 circuit.mfr.xor.4 = XOR (4 Eing\u00e4nge)
 
-chat.info.mfr.safarinet.capture=Gewechselt in Fangmodus
-chat.info.mfr.safarinet.release=Gewechselt in Freilassmodus
+chat.info.mfr.safarinet.capture = Gewechselt in Fangmodus
+chat.info.mfr.safarinet.release = Gewechselt in Freilassmodus
 
-chat.info.mfr.spyglass.nosight=Nichts in Sichtweite
-chat.info.mfr.spyglass.hitentity=%s bei %.1f, %.1f, %.1f gefunden
-chat.info.mfr.spyglass.hitblock=%s [%d:%d] bei %.1f, %.1f, %.1f gefunden
-chat.info.mfr.spyglass.hitunknown=UNBEKANNTES (Bug?) bei %.1f, %.1f, %.1f gefunden
+chat.info.mfr.spyglass.nosight = Nichts in Sichtweite
+chat.info.mfr.spyglass.hitentity = %s bei %.1f, %.1f, %.1f gefunden
+chat.info.mfr.spyglass.hitblock = %s [%d:%d] bei %.1f, %.1f, %.1f gefunden
+chat.info.mfr.spyglass.hitunknown = UNBEKANNTES (Bug?) bei %.1f, %.1f, %.1f gefunden
 
-chat.info.mfr.ruler.nosight=Nichts in Sichtweite
-chat.info.mfr.ruler.hitentity=Auf Wesen getroffen - Messung fehlgeschlagen
-chat.info.mfr.ruler.startposition=Startposition aufgenommen
-chat.info.mfr.ruler.distance=Entfernung: %d, Z\u00e4hlung: %d
-chat.info.mfr.ruler.total=Gesamtdistanz: %.1f
+chat.info.mfr.ruler.nosight = Nichts in Sichtweite
+chat.info.mfr.ruler.hitentity = Auf Wesen getroffen - Messung fehlgeschlagen
+chat.info.mfr.ruler.startposition = Startposition aufgenommen
+chat.info.mfr.ruler.distance = Entfernung: %d, Z\u00e4hlung: %d
+chat.info.mfr.ruler.total = Gesamtdistanz: %.1f
 
-chat.info.mfr.rednet.meter.cable.allzero=Alle RedNet-Subnetzwerke sind 0
-chat.info.mfr.rednet.meter.cable.restzero=Alle anderen RedNet-Subnetzwerke sind 0
-chat.info.mfr.rednet.meter.varprefix=Variable
-chat.info.mfr.rednet.meter.var.allzero=Alle Variablen sind 0
-chat.info.mfr.rednet.meter.var.restzero=Alle anderen Variablen sind 0
-chat.info.mfr.rednet.meter.dustprefix=Redstonestaub
+chat.info.mfr.rednet.meter.cable.allzero = Alle RedNet-Subnetzwerke sind 0
+chat.info.mfr.rednet.meter.cable.restzero = Alle anderen RedNet-Subnetzwerke sind 0
+chat.info.mfr.rednet.meter.varprefix = Variable
+chat.info.mfr.rednet.meter.var.allzero = Alle Variablen sind 0
+chat.info.mfr.rednet.meter.var.restzero = Alle anderen Variablen sind 0
+chat.info.mfr.rednet.meter.dustprefix = Redstonestaub
 
-chat.info.mfr.rednet.memorycard.uploaded=PRC-Programm vom PRC auf Speicherkarte geladen
-chat.info.mfr.rednet.memorycard.downloaded=PRC-Programm von Speicherkarte auf PRC geladen
-chat.info.mfr.rednet.memorycard.error=PRC besutzt zu wenige Schaltkreise, um dieses Programm zu laden
+chat.info.mfr.rednet.memorycard.uploaded = PRC-Programm vom PRC auf Speicherkarte geladen
+chat.info.mfr.rednet.memorycard.downloaded = PRC-Programm von Speicherkarte auf PRC geladen
+chat.info.mfr.rednet.memorycard.error = PRC besutzt zu wenige Schaltkreise, um dieses Programm zu laden
 
-chat.info.mfr.rednet.connection.standard=Kabel auf Standard-Verbindungsmodus gestellt
-chat.info.mfr.rednet.connection.forced=Kabel auf Erzwungenen Verbindungsmodus gestellt
-chat.info.mfr.rednet.connection.forcedstrong=Kabel auf Starken Verbindungsmodus gestellt
-chat.info.mfr.rednet.connection.cableonly=Kabel auf Nur-Kabel-Verbindungsmodus gestellt
+chat.info.mfr.rednet.connection.standard = Kabel auf Standard-Verbindungsmodus gestellt
+chat.info.mfr.rednet.connection.forced = Kabel auf Erzwungenen Verbindungsmodus gestellt
+chat.info.mfr.rednet.connection.forcedstrong = Kabel auf Starken Verbindungsmodus gestellt
+chat.info.mfr.rednet.connection.cableonly = Kabel auf Nur-Kabel-Verbindungsmodus gestellt
 
-death.attack.mfr.slaughterhouse=%1$s wurde zu fl\u00fcssigem Fleisch verarbeitet
-death.attack.mfr.slaughterhouse.player=%1$s wurde von %2$s dazu verdammt, zu fl\u00fcssigem Fleisch verarbeitet zu werden
-death.attack.mfr.slaughterhouse.1=%1$s wurde zu Fleischsau\u00dfe verarbeitet
-death.attack.mfr.slaughterhouse.1.player=%1$s wurde von %2$s dazu verdammt, zu Fleischsau\u00dfe verarbeitet zu werden
-death.attack.mfr.grinder=%1$s wurde in Br\u00f6ckchen zermahlen
-death.attack.mfr.grinder.player=%2$s stellte sicher, dass %1$s in Br\u00f6ckchen zermahlen wurde
+tip.info.mfr.safarinet.mode = Shift-klicke, um Modus zu \u00e4ndern
+tip.info.mfr.safarinet.jailer = Freigelassene Kreaturen verschwinden nicht auf normale Weise
+tip.info.mfr.safarinet.mystery = Es ist ein Mysterium
+
+tip.info.mfr.prc = Wenn du dich verloren f\u00fchlst, lies das (Ingame-)Benutzerhandbuch
+
+tip.info.mfr.needlegun.ammo = Schuss
+
+tip.info.mfr.upgrade.radius = Radius-Erh\u00f6hung:
+
+tip.info.mfr.xpextractor = Ben\u00f6tigt einen Leeren Beh\u00e4lter zum F\u00fcllen
+
+tip.info.mfr.generator.produces = Produziert MJ, und RF.
+
+tip.info.mfr.dsu.contains = Enth\u00e4lt
+
+tip.info.mfr.mobcounter = Sendet ein analoges Redstone-Signal aus,\nproportional zur Menge an\nLebewesen in Reichweite.
+
+death.attack.mfr.slaughterhouse = %1$s wurde zu fl\u00fcssigem Fleisch verarbeitet
+death.attack.mfr.slaughterhouse.player = %1$s wurde von %2$s dazu verdammt, zu fl\u00fcssigem Fleisch verarbeitet zu werden
+death.attack.mfr.slaughterhouse.1 = %1$s wurde zu Fleischsau\u00dfe verarbeitet
+death.attack.mfr.slaughterhouse.1.player = %1$s wurde von %2$s dazu verdammt, zu Fleischsau\u00dfe verarbeitet zu werden
+death.attack.mfr.grinder = %1$s wurde in Br\u00f6ckchen zermahlen
+death.attack.mfr.grinder.player = %2$s stellte sicher, dass %1$s in Br\u00f6ckchen zermahlen wurde
+death.attack.mfr.laser = %1$s wurde desintegriert
+death.attack.mfr.laser.player = %2$s stellte sicher, dass %1$s desintegriert wurde
