@@ -5,6 +5,7 @@ v0.1.2:
     - Upgraded Calclavia core from 1.0.0.48 to 1.1.1.16
     - Upgraded MFFS from 3.6.1.313 to 3.6.2.7
     - Released updated server which should work without issue
+    - Removed essence seeds from dropping from grass. All currently existing essence seeds will disappear from the world.
 v0.1.1:
     - Downgraded MFFS for java 6 compat
     - Downgraded Calclavia core for java 6 compat
