@@ -55,5 +55,4 @@ Google Doc. Modlist: http://bit.ly/tppi#btn
 
 Changelog
 ===============
-
-Look at the commits.
+Try "/tppi changelog" in-game.
