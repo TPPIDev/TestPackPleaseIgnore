@@ -1,19 +1,36 @@
-v0.1.2:
-    - Downgraded Denlib to 0.3.2
-    - Removed Hats Mod
-    - Upgraded Magic Bees from 2.1.9 to 2.1.11
-    - Upgraded Calclavia core from 1.0.0.48 to 1.1.1.16
-    - Upgraded MFFS from 3.6.1.313 to 3.6.2.7
-    - Released updated server which should work without issue
-    - Removed essence seeds from dropping from grass. All currently existing essence seeds will disappear from the world.
-    - New TPPI Tweaks build with updated mod documentation
-    - Mekanism Osmium should now generate in the world, will retrogen.
-    - Reduced Emory Ore spawnrate
-    - Fix AM2 Hud to actually be draggable
-v0.1.1:
-    - Downgraded MFFS for java 6 compat
-    - Downgraded Calclavia core for java 6 compat
-    - Updated TPPI-Tweaks for GUI fix
-    - Add configs for some recipe tweaks in TPPI-Tweaks
-    - Remove nether star from MPS tinker table recipe
-    - Made Journemap disabled by default (laggy on low-end PCs)
+v0.1.2:~
+- Downgraded Denlib to 0.3.2~
+~
+- Removed Hats Mod~
+~
+- Upgraded Magic Bees from 2.1.9 to 2.1.11~
+~
+- Upgraded Calclavia core from 1.0.0.48 to 1.1.1.16~
+~~~
+- Upgraded MFFS from 3.6.1.313 to 3.6.2.7~
+~
+- Released updated server which should work without issue~
+~
+- Removed essence seeds from dropping from grass. All currently existing essence seeds will disappear from the world.~
+~~~
+- New TPPI Tweaks build with updated mod documentation~
+~
+- Mekanism Osmium should now generate in the world, will retrogen.~
+~
+- Reduced Emory Ore spawnrate~
+~
+- Fix AM2 Hud to actually be draggable~
+~~~
+v0.1.1:~
+- Downgraded MFFS for java 6 compat~
+~
+- Downgraded Calclavia core for java 6 compat~
+~
+- Updated TPPI-Tweaks for GUI fix~
+~~~
+- Add configs for some recipe tweaks in TPPI-Tweaks~
+~
+- Remove nether star from MPS tinker table recipe~
+~
+- Made Journemap disabled by default (laggy on low-end PCs)~
+~
