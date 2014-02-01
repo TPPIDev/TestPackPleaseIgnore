@@ -136,6 +136,7 @@ tile.mfr.vinescaffold.name = Vine Scaffolding
 tile.mfr.detcord.name = DetCord
 
 tile.mfr.rubberwood.sapling.name = Rubber Sapling
+tile.mfr.rubberwood.sapling.massive.name = Sacred Rubber Sapling
 tile.mfr.rubberwood.log.name = Rubber Wood
 tile.mfr.rubberwood.leaves.name = Rubber Leaves
 
@@ -215,6 +216,7 @@ item.mfr.rocket.name = Self-Propelled Anti Material Rocket
 item.mfr.rocket.smart.name = Tracking Self-Propelled Anti Material Rocket
 item.mfr.rocketlauncher.name = SPAMR Launcher
 item.mfr.fishingrod.name = Fishing Rod
+item.mfr.plastic.bag.name = Plastic Bag
 
 item.mfr.ceramicdye.white.name = Ceramic Dye (White)
 item.mfr.ceramicdye.orange.name = Ceramic Dye (Orange)
@@ -375,6 +377,8 @@ chat.info.mfr.rednet.connection.forced = Set cable to forced-connection mode
 chat.info.mfr.rednet.connection.forcedstrong = Set cable to strong-connection mode
 chat.info.mfr.rednet.connection.cableonly = Set cable to cable-only connection mode
 
+chat.info.mfr.bag.stacksize = You can only open one bag at a time
+
 tip.info.mfr.safarinet.mode = Sneak-click to change mode
 tip.info.mfr.safarinet.jailer = Released creatures don't despawn normally
 tip.info.mfr.safarinet.mystery = It is a mystery
@@ -392,6 +396,8 @@ tip.info.mfr.generator.produces = Produces MJ, and RF.
 tip.info.mfr.dsu.contains = Contains
 
 tip.info.mfr.mobcounter = Emits an analog redstone signal\nproportional to the count of\nmobs that are within range.
+
+tip.info.mfr.laserdrill = Placed over a hole to bedrock
 
 death.attack.mfr.slaughterhouse = %1$s was processed into Liquid Meat
 death.attack.mfr.slaughterhouse.player = %1$s was doomed to be processed into Liquid Meat by %2$s

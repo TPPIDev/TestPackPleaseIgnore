@@ -135,9 +135,10 @@ tile.mfr.vinescaffold.name = Lianenger\u00fcst
 
 tile.mfr.detcord.name = Sprengschnur
 
-tile.mfr.rubberwood.sapling.name = Kautschuksetzling
-tile.mfr.rubberwood.log.name = Kautschukholz
-tile.mfr.rubberwood.leaves.name = Kautschukbl\u00e4tter
+tile.mfr.rubberwood.sapling.name = Gummibaumsetzling
+tile.mfr.rubberwood.sapling.massive.name = Heiliger Gummibaumsetzlingk
+tile.mfr.rubberwood.log.name = Gummibaumholz
+tile.mfr.rubberwood.leaves.name = Gummibaumbl\u00e4tter
 
 tile.mfr.rail.cargo.dropoff.name = Entladungsgleis
 tile.mfr.rail.cargo.pickup.name = Beladungsgleis
@@ -180,9 +181,9 @@ item.mfr.bucket.plasticcell.suffix.name =
 item.mfr.hammer.name = Schmiedehammer
 item.mfr.fertilizer.name = Industried\u00fcnger
 item.mfr.plastic.sheet.name = Plastikfolie
-item.mfr.plastic.raw.name = Amorphes Plastik
+item.mfr.plastic.raw.name = Rohplastik
 item.mfr.rubber.bar.name = Gummiriegel
-item.mfr.rubber.raw.name = Amorphes Gummi
+item.mfr.rubber.raw.name = Kautschuk
 item.mfr.syringe.cure.name = Dezombifikationsspritze
 item.mfr.syringe.empty.name = Leere Spritze
 item.mfr.syringe.empty.prefix.name = Spritze mit
@@ -215,6 +216,7 @@ item.mfr.rocket.name = Selbstangetriebene Anti-Material-Rakete (SPAMR)
 item.mfr.rocket.smart.name = Verfolgende Selbstangetriebene Anti-Material-Rakete
 item.mfr.rocketlauncher.name = SPAMR-Raketenwerfer
 item.mfr.fishingrod.name = Angel
+item.mfr.plastic.bag.name = Plastikt\u00fcte
 
 item.mfr.ceramicdye.white.name = Wei\u00dfe Lasur
 item.mfr.ceramicdye.orange.name = Orange Lasur
@@ -375,6 +377,8 @@ chat.info.mfr.rednet.connection.forced = Kabel auf Erzwungenen Verbindungsmodus 
 chat.info.mfr.rednet.connection.forcedstrong = Kabel auf Starken Verbindungsmodus gestellt
 chat.info.mfr.rednet.connection.cableonly = Kabel auf Nur-Kabel-Verbindungsmodus gestellt
 
+chat.info.mfr.bag.stacksize = Du kannst nur eine T\u00fcte zur Zeit \u00f6ffnen
+
 tip.info.mfr.safarinet.mode = Shift-klicke, um Modus zu \u00e4ndern
 tip.info.mfr.safarinet.jailer = Freigelassene Kreaturen verschwinden nicht auf normale Weise
 tip.info.mfr.safarinet.mystery = Es ist ein Mysterium
@@ -392,6 +396,8 @@ tip.info.mfr.generator.produces = Produziert MJ, und RF.
 tip.info.mfr.dsu.contains = Enth\u00e4lt
 
 tip.info.mfr.mobcounter = Sendet ein analoges Redstone-Signal aus,\nproportional zur Menge an\nLebewesen in Reichweite.
+
+tip.info.mfr.laserdrill = Wird \u00fcber einem bis Bedrock gehenden Loch platziert
 
 death.attack.mfr.slaughterhouse = %1$s wurde zu fl\u00fcssigem Fleisch verarbeitet
 death.attack.mfr.slaughterhouse.player = %1$s wurde von %2$s dazu verdammt, zu fl\u00fcssigem Fleisch verarbeitet zu werden

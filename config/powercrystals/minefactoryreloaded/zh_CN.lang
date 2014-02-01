@@ -217,9 +217,12 @@ item.mfr.meat.ingot.raw.name = \u751f\u8089\u952d
 item.mfr.meat.ingot.cooked.name = \u70e4\u8089\u952d
 item.mfr.meat.nugget.raw.name = \u751f\u8089\u7c92
 item.mfr.meat.nugget.cooked.name = \u70e4\u8089\u7c92
+item.mfr.pinkslimeball.name = \u7c89\u8272\u7c98\u6db2\u7403
 item.mfr.rocket.name = \u81ea\u63a8\u8fdb\u53cd\u7269\u8d28\u706b\u7bad
 item.mfr.rocket.smart.name = \u8ffd\u8e2a\u578b\u81ea\u5bfc\u822a\u53cd\u7269\u8d28\u706b\u7bad
 item.mfr.rocketlauncher.name = \u81ea\u63a8\u8fdb\u53cd\u7269\u8d28\u706b\u7bad\u53d1\u5c04\u7b52
+
+item.mfr.fishingrod.name = \u70b8\u9c7c\u7aff
 
 item.mfr.ceramicdye.white.name = \u9676\u74f7\u989c\u6599(\u767d\u8272)
 item.mfr.ceramicdye.orange.name = \u9676\u74f7\u989c\u6599(\u6a59\u8272)
