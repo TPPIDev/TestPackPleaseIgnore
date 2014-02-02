@@ -1,13 +1,93 @@
-v0.1.2:~
+TPPIv0.2.0:~
+- Added ArmorStatusHUD and bspkrsCore~
+~
+- Updated Ars Magica 2 to v1.1.2b. Fixes several bugs.~
+~
+- Updated Big Reactors to v0.2.15a. Performance improvements and fixes some bugs.~
+~~~
+- Updated Carpenters Blocks to v2.0.2. Bugfixes and cleanups.~
+~
+- Updated Ender Prospecting to v1.0.1.6. Fixes mod ores.~
+~
+- Updated Ender IO to v0.7.2.190. Massive performance improvements.~
+~~~
+- Updated Engineers Toolbox to v1.1.7.2. Added Stirling Generator, Spinning Wheel, Pump, Mini Fluid Portal. Flashing blade and vacuum now require energy.~
+~
+- Updated Enhanced Portals 3 to vb4b. Added TE recipes. Removed vanilla recipes.~
+~~~
+- Updated Extra Cells to v1.6.7d. Added fluid storage monitor.~
+~
+- Updated Factorization to 0.8.29. Some recipe changes.~
+~~~
+- Updated GasCraft to v2.0.4.1. Added ash, nether plasma, plasma reactor module, nether plasma pockets.~
+~
+- Updated Gendustry to v1.0.3.41. Fixed crash.~
+~~~
+- Updated GregTech to v4.07x. NOTE: It is a known fact this increases load time. This is normal. Added coins, plastic hammer. Changed ore processing process-Check NEI (maximum efficiency is now Grinder->Thermal Centrifuge->Pulverizer/Universal Macerator.
+~~~
+- GT: Changed sugarcane recipe. To get 3 paper, use a vertical recipe instead. Dense plates now need a plate bender. Fixed several bugs.~
+~
+- Updated Hardcore Ender Expansion to v1.3.3. Added NEI compatibility, tweaked mob health.~
+~~~
+- Updated Immibis Core/Microblocks to 57.1.93/57.6.2. Fixes some crashes.~
+~
+- Updated IC2-exp to v2.0.380. Added a couple convenience recipes. Several bug fixes.~
+~~~
+- Updated Mekanism to v6.0.0.190. Massive performance improvements. Fixed several bugs. Added 4x ore processing, balloons, atomic disassembler, cardboard box.~
+~~~
+- Updated MFR to 2.7.5-352. Added repair-only mode for auto-anvil, plastic bag, sacred rubber sapling (only found in jungle temples), support for TC4 manapods and Project:RED dye trees. Changed some recipes. Fixed some bugs.~
+~~~
+- Updated MFFS to 3.6.2.9. Fixed a couple bugs.~
+~
+- Updated MPS to 0.10.0-92. Fixed texture issues.~
+~
+- Updated Mystcraft to 0.10.12.01. Added new writing desk model. ~
+~~~
+- Updated Open Blocks to 1.2.4. Fixed several bugs.~
+~
+- Downgraded Reliquary to 1.1. Now includes Alkahest stuffs and Java 6 support.~
+~
+- Updated Steves Factor Manager to A47. Crafting support and bug fixes.~
+~~~
+- Updated Tinkers Construct to 1.6.4-492. Fixed localization of the crafting station.~
+~
+- Updated TPPI Tweaks to v0.8.0. Added new mod documentation GUI. To access it: ADD IN HOW TO ACCESS IT HERE.~
+~~~
+- Updated several other core mods to match the new mod updates. Nothing special.~
+~~~
+Config/Modtweak Changes~
+- Removed steel from the induction smelter.~
+~
+- Added slight power conversion loss when using universal cable. For maximum efficiency, use the regular mods cables.~
+~~~
+- Major rebalance of all Mekanism machines and generators.~
+~
+- IC2 minors can now accept Lapatron Cystals.~
+~~~
+- Removed force shears to prevent entity crash between DC and TC4 until a fix is implemented. As a result, having to use all enchantments before upgrading the force tome is now disabled.~
+~
+- Several other DC balancing changes.~
+~~~
+- Decreased non-ore overworld worldgen.~
+~
+- Readded IC2 rubber trees to world generation.~
+~
+- Massively increased the cost of the Atomic Disassembler.~
+~~~
+- Added 3 copperdust+1 dirtyzincdust=2brass dust as a shapeless crafting recipe to continue to having avoid the bronze age (still optional, just not required). If you still find you need it, report it!~
+~~~
+- Added TC4 aura nodes and monster spawners to the cardboard box blacklist.~
+~~~
+TPPIv0.1.2:~
 - Downgraded Denlib to 0.3.2~
 ~
 - Removed Hats Mod~
 ~
-- Upgraded Magic Bees from 2.1.9 to 2.1.11~
+- Updated Magic Bees from 2.1.9 to 2.1.11~
 ~
-- Upgraded Calclavia core from 1.0.0.48 to 1.1.1.16~
+- Updated Calclavia core from 1.0.0.48 to 1.1.1.16~
 ~~~
-- Upgraded MFFS from 3.6.1.313 to 3.6.2.7~
+- UpdatedMFFS from 3.6.1.313 to 3.6.2.7~
 ~
 - Released updated server which should work without issue~
 ~
@@ -17,11 +97,11 @@ v0.1.2:~
 ~
 - Mekanism Osmium should now generate in the world, will retrogen.~
 ~
-- Reduced Emory Ore spawnrate~
+- Reduced Emery Ore spawnrate~
 ~
 - Fix AM2 Hud to actually be draggable~
 ~~~
-v0.1.1:~
+TPPIv0.1.1:~
 - Downgraded MFFS for java 6 compat~
 ~
 - Downgraded Calclavia core for java 6 compat~
@@ -32,5 +112,5 @@ v0.1.1:~
 ~
 - Remove nether star from MPS tinker table recipe~
 ~
-- Made Journemap disabled by default (laggy on low-end PCs)~
+- Made Journeymap disabled by default (laggy on low-end PCs)~
 ~
