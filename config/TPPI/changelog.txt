@@ -33,7 +33,7 @@ TPPIv0.2.0:~
 ~
 - Updated IC2-exp to v2.0.380. Added a couple convenience recipes. Several bug fixes.~
 ~~~
-- Updated Mekanism to v6.0.0.190. Massive performance improvements. Fixed several bugs. Added 4x ore processing, balloons, atomic disassembler, cardboard box.~
+- Updated Mekanism to v6.0.0.190. Massive performance improvements. Fixed several bugs. Added 4x/5x ore processing, balloons, atomic disassembler, and more.~
 ~~~
 - Updated MFR to 2.7.5-352. Added repair-only mode for auto-anvil, plastic bag, sacred rubber sapling (only found in jungle temples), support for TC4 manapods and Project:RED dye trees. Changed some recipes. Fixed some bugs.~
 ~~~
@@ -51,7 +51,7 @@ TPPIv0.2.0:~
 ~~~
 - Updated Tinkers Construct to 1.6.4-492. Fixed localization of the crafting station.~
 ~
-- Updated TPPI Tweaks to v0.8.0. Added new mod documentation GUI. To access it: ADD IN HOW TO ACCESS IT HERE.~
+- Updated TPPI Tweaks to v0.8.0. Added new mod documentation GUI. Read the welcome packet.~
 ~~~
 - Updated several other core mods to match the new mod updates. Nothing special.~
 ~~~
@@ -76,7 +76,7 @@ Config/Modtweak Changes~
 ~~~
 - Added 3 copperdust+1 dirtyzincdust=2brass dust as a shapeless crafting recipe to continue to having avoid the bronze age (still optional, just not required). If you still find you need it, report it!~
 ~~~
-- Added TC4 aura nodes and monster spawners to the cardboard box blacklist.~
+- Disabled Mekanism cardboard box until it is balanced.
 ~~~
 TPPIv0.1.2:~
 - Downgraded Denlib to 0.3.2~
