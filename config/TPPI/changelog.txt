@@ -62,7 +62,7 @@ Config/Modtweak Changes~
 ~~~
 - Major rebalance of all Mekanism machines and generators.~
 ~
-- IC2 minors can now accept Lapatron Cystals.~
+- IC2 miners can now accept Lapotron Cystals.~
 ~~~
 - Removed force shears to prevent entity crash between DC and TC4 until a fix is implemented. As a result, having to use all enchantments before upgrading the force tome is now disabled.~
 ~
