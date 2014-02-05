@@ -578,49 +578,6 @@
 
   </recipeGroup>
 
-
-  <recipeGroup name="Applied Energistics">
-
-    <recipe name="CertusQuartzOre" energyCost="240">
-      <input>
-        <itemStack oreDictionary="oreCertusQuartz" />
-      </input>
-      <output>
-        <itemStack oreDictionary="crystalCertusQuartz" />
-        <itemStack oreDictionary="dustCertusQuartz" />
-      </output>
-    </recipe>
-
-    <recipe name="CertusQuartzCrystal " energyCost="240">
-      <input>
-        <itemStack oreDictionary="crystalCertusQuartz" />
-      </input>
-      <output>
-        <itemStack oreDictionary="dustCertusQuartz" />
-      </output>
-    </recipe>
-
-    <recipe name="NetherQuartzOre" energyCost="360">
-      <input>
-        <itemStack itemID="153" />
-      </input>
-      <output>
-        <itemStack itemID="406" number="2" />
-        <itemStack oreDictionary="dustNetherQuartz" />
-        <itemStack oreDictionary="dustCertusQuartz" chance="0.05" />
-      </output>
-    </recipe>
-
-    <recipe name="NetherQuartz" energyCost="240">
-      <input>
-        <itemStack itemID="406" />
-      </input>
-      <output>
-        <itemStack oreDictionary="dustNetherQuartz" />
-      </output>
-    </recipe>
-  </recipeGroup>
-
   <recipeGroup name="Railcraft">    
 
     <recipe name="Charcoal" energyCost="240">
