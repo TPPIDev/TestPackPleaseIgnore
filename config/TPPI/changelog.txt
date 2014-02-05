@@ -1,3 +1,18 @@
+TPPIv0.2.1:~
+- Updated Dimensional Anchors to 57.1.93~
+~
+- Added DragoAPI V15b (for LegacyCraft)~
+~
+- Downgraded gregtech to 4.07o. Fixes NEI strangeness and long startup time.~
+~~~
+- Downgraded immibis microblocks to 57.5.0. Fixes rare crash bug (temporary)~
+~
+- Added LegacyCraft V15. Fixes zombie lag.~
+~
+- Updated Mekanism (and Generators) to build 224. Fixes various bugs.~
+~
+- Update TPPITweaks to 0.8.1-41. Fixes GUI startup bug. Cheapen Atomic Disassembler recipe. Add message on /tppi download when all mods are installed.~
+~~~
 TPPIv0.2.0:~
 - Added ArmorStatusHUD and bspkrsCore~
 ~
