@@ -1,3 +1,48 @@
+TPPIv0.2.2:~
+- Updated EnderIO to 0.7.2.203. Added advanced fluid conduit. Fixes some bugs including a crash with TE conduits. ~
+~
+- Updated Mekanism to 6.0.0.237. Fixes some bugs.~
+~
+- Updated TPPItweaks to v0.8.2. Added removebooks command. ~
+~~~
+- Should have fixed most fluid registry issues.~
+~
+- Added ruby->ruby dust recipe in the pulverizer.~
+~
+- Added woodchip->paper recipe.~
+~~~
+- Morph flight needs a wither kill again. Gave some uses to other morphs: hostile mobs of the same type do not attack you.~
+~
+- Removed the silly exploit with experience crops by removing the crops. Will be re-added 0.3.0.~
+~~~
+- Added charcoal block->1 coal compression recipe.~
+~
+- Removed second seed drop from magical crops. Added essence seed recipe.~
+~~~
+- Removed the conversion loss with universal cables. Fixes unlimited power issue and IC2 machines exploding.~
+~
+- LP and AE no longer share power, because, well, LP does not use power.~
+~~~
+- Removed Nikolite from the nether. RP2 is officially dead. I am sorry for your loss.~
+~
+- Slightly reduced certus quartz generation rate.~
+~
+- Changed recipe for the lilypad of fertility.~
+~~~
+- Recipe for the autonomous activator now takes steel.~
+~
+- Mobs will no longer pick up dropped items. This prevents the long standing duping issue.~
+~~~
+- Re-added Rutile (titanium) to the worldgen from mariculture. Removed IBF requirement for smelting titanium dust, as titanium is no longer a limiting factor in GT recipes, because of the stainless steel introduction.~
+~~~
+- Removed titanium->chrome recipe in the molecular transformer.~
+~
+- Fixed yellorite recipe in the SAGmill~
+~~~
+- Added some recipes to the Mekanism enrichment chamber.~
+~
+- NOTE: the issue of balance with magical crops is being heavily addressed in 0.3.0 with the new release of the mod. These solutions are temporary. Remember: This is only a beta.~
+~~~
 TPPIv0.2.1:~
 - Updated Dimensional Anchors to 57.1.93~
 ~
