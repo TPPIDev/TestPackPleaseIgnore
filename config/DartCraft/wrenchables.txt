@@ -7,7 +7,7 @@ net.minecraft.tileentity.TileEntityFurnace
 net.minecraft.tileentity.TileEntityBeacon
 net.minecraft.tileentity.TileEntityDispenser
 net.minecraft.tileentity.TileEntityDropper
-net.minecraft.tileentity.TileEntityMobSpawner
+#net.minecraft.tileentity.TileEntityMobSpawner
 net.minecraft.tileentity.TileEntityNote
 net.minecraft.tileentity.TileEntityRecordPlayer
 

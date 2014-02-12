@@ -56,8 +56,10 @@ found in the core file.
     </recipe>
 </recipeGroup>
 -->
-  
+
 <SAGMillRecipes>
+
+    <recipeGroup name="BigReactors" enabled="false"/> 
     
     <recipeGroup name="Mekanism" >
     
@@ -155,14 +157,14 @@ found in the core file.
     </recipe>
 </recipeGroup>
 
-<recipeGroup name="BigReactors">
+<recipeGroup name="BigReactors2">
 <!-- Metals -->
        <recipe name="YelloriteOre" energyCost="360">
          <input>
              <itemStack oreDictionary="oreYellorite" />
          </input>
          <output>
-             <itemStack oreDictionary="dustYellorite" number="2" />
+             <itemStack oreDictionary="dustYellorium" number="2" />
              <itemStack oreDictionary="dustCyanite" number="1"
                         chance="0.05" />
          </output>
