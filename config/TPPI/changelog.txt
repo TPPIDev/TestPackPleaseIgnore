@@ -1,9 +1,9 @@
 TPPIv0.2.2:~
-- Updated EnderIO to 0.7.2.203. Added advanced fluid conduit. Fixes some bugs including a crash with TE conduits. ~
+- Updated EnderIO to 0.8.0.215 Added advanced fluid conduit. Fixes some bugs including a crash with TE conduits.~
 ~
-- Updated Mekanism to 6.0.0.237. Fixes some bugs.~
+- Updated Mekanism to 6.0.0.242. Fixes some bugs.~
 ~
-- Updated TPPItweaks to v0.8.2. Added removebooks command. ~
+- Updated TPPItweaks to v0.8.3. Added removebooks command.~
 ~~~
 - Should have fixed most fluid registry issues.~
 ~
@@ -18,6 +18,8 @@ TPPIv0.2.2:~
 - Added charcoal block->1 coal compression recipe.~
 ~
 - Removed second seed drop from magical crops. Added essence seed recipe.~
+~
+- Remove Digital Miner recipe (TEMPORARY)
 ~~~
 - Removed the conversion loss with universal cables. Fixes unlimited power issue and IC2 machines exploding.~
 ~
