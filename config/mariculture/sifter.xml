@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<blocks>
+  <block>
+    <bait>grasshopper</bait>
+    <id>106</id>
+    <meta>0</meta>
+    <min>1</min>
+    <max>1</max>
+    <rarity>10</rarity>
+  </block>
+  <block>
+    <bait>grasshopper</bait>
+    <id>31</id>
+    <meta>2</meta>
+    <min>1</min>
+    <max>2</max>
+    <rarity>15</rarity>
+  </block>
+  <block>
+    <bait>maggot</bait>
+    <id>397</id>
+    <meta>2</meta>
+    <min>5</min>
+    <max>15</max>
+    <rarity>80</rarity>
+  </block>
+</blocks>
