@@ -173,7 +173,7 @@ dimblacklist {
 ####################
 
 equipables {
-    B:Exo-Armor-Craftable=true
+    B:Exo-Armor-Craftable=false
     I:Exo-Boots=14119
     I:Exo-Chestpiece=14117
     I:Exo-Goggles=14116
