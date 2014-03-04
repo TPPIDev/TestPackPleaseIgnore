@@ -1,0 +1,8 @@
+# Configuration file
+
+version_check_tracker {
+    S:ArmorStatusHUD=v1.15(1.6.4)
+    S:bspkrsCore=v5.3(1.6.4)
+}
+
+
