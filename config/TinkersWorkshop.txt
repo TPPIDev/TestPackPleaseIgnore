@@ -128,7 +128,7 @@ block {
     B:"Enable mod slime tools"=true
     B:"Enable mod stone tools"=true
     B:"Enable mod wooden tools"=true
-    B:"Keep hunger on death"=false
+    B:"Keep hunger on death"=true
     B:"Keep levels on death"=false
     B:"Lower bronze output to 2 ingots"=true
     B:"Modifiers increase Mining Level"=true
