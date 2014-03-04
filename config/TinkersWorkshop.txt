@@ -118,7 +118,7 @@ block {
     B:"Craft metals with Wood Patterns"=false
     B:"Craft vanilla metal blocks"=true
     B:"Deny creation of non-metal mattocks"=false
-    B:"Enable Auto-Smelt and Fortune interaction"=true
+    B:"Enable Auto-Smelt and Fortune interaction"=false
     B:"Enable mod blue slime tools"=true
     B:"Enable mod bone tools"=true
     B:"Enable mod cactus tools"=true
@@ -130,7 +130,7 @@ block {
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=false
     B:"Keep levels on death"=false
-    B:"Lower bronze output to 2 ingots"=false
+    B:"Lower bronze output to 2 ingots"=true
     B:"Modifiers increase Mining Level"=true
     B:"Remove Vanilla Tool Effectiveness"=false
     B:"Remove Vanilla Tool Recipes"=false
@@ -265,10 +265,10 @@ looks {
     I:"Alumite ingot return"=3
 
     # Number of ingots returned from smelting Bronze in the smeltery
-    I:"Bronze ingot return"=4
+    I:"Bronze ingot return"=3
 
     # Number of ingots returned from smelting ores in the smeltery
-    I:"Ingots per ore"=2
+    I:"Ingots per ore"=1
 
     # Number of ingots returned from smelting Manyullyn in the smeltery
     I:"Manyullyn ingot return"=1
@@ -376,19 +376,19 @@ tools {
 ####################
 
 worldgen {
-    I:"Aluminum Bush Density"=2
-    I:"Aluminum Bush Max Y"=60
+    I:"Aluminum Bush Density"=1
+    I:"Aluminum Bush Max Y"=64
     I:"Aluminum Bush Min Y"=0
-    I:"Aluminum Bush Rarity"=2
+    I:"Aluminum Bush Rarity"=15
     I:"Aluminum Surface Rarity"=50
     I:"Aluminum Underground Density"=3
     I:"Aluminum Underground Max Y"=64
     I:"Aluminum Underground Min Y"=0
     I:"Cobalt Surface Rarity"=2000
-    I:"Copper Bush Density"=2
-    I:"Copper Bush Max Y"=60
-    I:"Copper Bush Min Y"=20
-    I:"Copper Bush Rarity"=3
+    I:"Copper Bush Density"=1
+    I:"Copper Bush Max Y"=64
+    I:"Copper Bush Min Y"=0
+    I:"Copper Bush Rarity"=15
 
     # Rarity: 1/num to generate in chunk
     I:"Copper Surface Rarity"=100
@@ -399,18 +399,18 @@ worldgen {
     I:"Copper Underground Min Y"=20
     I:"Essence Bush Rarity"=6
     I:"Gold Bush Density"=1
-    I:"Gold Bush Rarity"=8
+    I:"Gold Bush Rarity”=20
     I:"Gold Surface Rarity"=900
     I:"Iron Bush Density"=1
-    I:"Iron Bush Rarity"=5
+    I:"Iron Bush Rarity"=13
     I:"Iron Surface Rarity"=400
     I:"Nether Ores Density"=8
     I:"Silver Bush Density"=1
     I:"Slime Island Rarity"=1450
-    I:"Tin Bush Density"=2
-    I:"Tin Bush Max Y"=40
+    I:"Tin Bush Density"=1
+    I:"Tin Bush Max Y"=64
     I:"Tin Bush Min Y"=0
-    I:"Tin Bush Rarity"=3
+    I:"Tin Bush Rarity"=15
     I:"Tin Surface Rarity"=100
     I:"Tin Underground Density"=2
     I:"Tin Underground Max Y"=40
