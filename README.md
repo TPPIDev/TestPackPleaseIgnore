@@ -32,9 +32,9 @@ MOST IMPORTANTLY, have fun :)
 
 Contributers/Developers
 ===============
-_tterrag (IGN: tterrag1098)_
+_tterrag (wanna be sadist) (IGN: tterrag1098)_
 
-_esKaayY (sucks) (IGN: esKaayY)_
+_esKaayY (is evil) (IGN: esKaayY)_
 
 _Dr Soda (IGN: Epiksoda11)_
 
