@@ -41,8 +41,6 @@ _nsstrunks (IGN: nsstrunks)_
 
 _NEOidea (stellarcraft) (IGN: NEOidea)_
 
-_tterrag (IGN/Reddit: tterrag1098)_
-
 _wha-ha-ha (IGN: wha_ha_ha)_
 
 _dudeedud4 (IGN: sneezing-panda)_
