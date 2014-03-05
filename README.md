@@ -32,8 +32,9 @@ MOST IMPORTANTLY, have fun :)
 
 Contributers/Developers
 ===============
+_tterrag (IGN: tterrag1098)_
 
-_esKaayY (IGN: esKaayY)_
+_esKaayY (sucks) (IGN: esKaayY)_
 
 _Dr Soda (IGN: Epiksoda11)_
 
