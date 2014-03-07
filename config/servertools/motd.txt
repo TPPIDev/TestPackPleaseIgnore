@@ -1,0 +1,4 @@
+Hello, $PLAYER$!
+This is the default MOTD. In order to change it,
+edit the motd.txt in config/Server Tools or disable
+it by setting EnableMOTD to false in the config file

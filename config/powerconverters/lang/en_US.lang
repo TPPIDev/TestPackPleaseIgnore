@@ -1,0 +1,42 @@
+powerconverters.inputlimited = INPUT LIMITED
+powerconverters.outputlimited = OUTPUT LIMITED
+
+powerconverters.in = IN
+powerconverters.out = OUT
+powerconverters.none = <NONE>
+powerconverters.nolink = NO LINK
+powerconverters.percentfull = full
+
+powerconverters.up = UP
+powerconverters.down = DOWN
+powerconverters.south = SOUTH
+powerconverters.north = NORTH
+powerconverters.west = WEST
+powerconverters.east = EAST
+
+powerconverters.common.bridge.name = Energy Bridge
+powerconverters.common.charger.name = Universal Charger
+
+powerconverters.bc.consumer.name = MJ Consumer
+powerconverters.bc.producer.name = MJ Producer
+
+powerconverters.steam.consumer.name = Steam Consumer
+powerconverters.steam.producer.name = Steam Producer
+
+powerconverters.fz.consumer.name = Factorization Consumer
+powerconverters.fz.producer.name = Factorization Producer
+
+powerconverters.te.consumer.name = RF Consumer
+powerconverters.te.producer.name = RF Producer
+
+powerconverters.ic2.lv.consumer.name = EU LV Consumer
+powerconverters.ic2.mv.consumer.name = EU MV Consumer
+powerconverters.ic2.hv.consumer.name = EU HV Consumer
+powerconverters.ic2.ev.consumer.name = EU EV Consumer
+powerconverters.ic2.uv.consumer.name = EU UV Consumer
+
+powerconverters.ic2.lv.producer.name = EU LV Producer
+powerconverters.ic2.mv.producer.name = EU MV Producer
+powerconverters.ic2.hv.producer.name = EU HV Producer
+powerconverters.ic2.ev.producer.name = EU EV Producer
+powerconverters.ic2.uv.producer.name = EU UV Producer
