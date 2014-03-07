@@ -79,7 +79,7 @@ Config/Modpack tweaks
 ~~~
 - Added some more mod ores to Blood Magic meteors.~
 ~
-- Turned of moss spreading from Project Red. Significant lag reduction.~
+- Turned off moss spreading from Project Red. Significant lag reduction.~
 ~~~
 - Slowed taint spreading. More lag reduction.~
 ~
@@ -95,7 +95,7 @@ Config/Modpack tweaks
 ~
 - Changed EIO cable size to 1.0, as per poll results~
 ~
-- Increased change for isolator consuming a bee to 50%.~
+- Increased chance for isolator consuming a bee to 50%.~
 ~~~
 - Decreased nether platinum ore spawn rate.~
 ~
