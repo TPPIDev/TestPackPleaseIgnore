@@ -73,7 +73,7 @@ Config/Modpack tweaks
 ~
 - Increased power usage of MFR planters and harvesters. Disabled steam generator.~
 ~~~
-- Morphing into a hostile mob now prevents mobs of that type from being aggressive toward you.
+- Morphing into a hostile mob now prevents mobs of that type from being aggressive toward you.~
 ~
 - Removed titanium->chrome in the advanced solars MT.~
 ~~~
