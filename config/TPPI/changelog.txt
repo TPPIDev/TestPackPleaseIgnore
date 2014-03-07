@@ -60,7 +60,7 @@ Mod updates:~
 ~~~
 - Updated ThaumicTinkerer to v2.3-130. Adds bedrock dimension, Waila support, Dissipating Turtle, Levitational Locomotive, Golem Connector, TiC and Enderstorage compatibility.~
 ~~~
-- Updated TPPItweaks to v0.9.0. Recipe changes: Ender Quarry, Essence Seeds, ExU Generators, and new SFM stuff. Adjusts mcrops recipes.~
+- Updated TPPItweaks to v0.9.0-90. Recipe changes: Ender Quarry, Essence Seeds, ExU Generators, EnderStorage, and new SFM stuff. Adjusts mcrops recipes.~
 ~
 - Updated Waila to v1.5.1a. Adds target health, more mod support~
 ~~~
@@ -116,6 +116,8 @@ Config/Modpack tweaks
 - Increased Bibliocraft xp cost, due to new found exploit.~
 ~~~
 - Added some glass types to immibis microblock support. Thank you to brynjolf for that :).~
+~
+- Redid recipes for EnderStorage, all blocks and items now have harder recipes.~
 ~~~
 - Some blocks may have updated in this transition. This is due to updating the universal configs set out by FTB. This was necessary and brings us that much closer to a full release <3. Enjoy the pack!~
 ~~~
