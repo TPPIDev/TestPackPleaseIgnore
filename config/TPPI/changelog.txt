@@ -73,12 +73,14 @@ Config/Modpack tweaks
 ~
 - Increased power usage of MFR planters and harvesters. Disabled steam generator.~
 ~~~
+- Morphing into a hostile mob now prevents mobs of that type from being aggressive toward you.
+~
 - Removed titanium->chrome in the advanced solars MT.~
-~
-- Added some more mod ores to Blood Magic meteors.~
 ~~~
-- Turned of moss spreading from Project Red. Significant lag reduction.~
+- Added some more mod ores to Blood Magic meteors.~
 ~
+- Turned of moss spreading from Project Red. Significant lag reduction.~
+~~~
 - Slowed taint spreading. More lag reduction.~
 ~
 - Renabled peaceful recipes in Extra utilities.~
