@@ -68,8 +68,6 @@ Mod updates:~
 ~~~
 Config/Modpack tweaks
 - Renabled digital miner and cardboard box.~
-~
-- Ender chests no longer take tesseracts, their very strong pouch accomplices do instead.~
 ~~~
 - Added files, configurators, crowbars, and bows to the bibliocraft tool rack.~
 ~
