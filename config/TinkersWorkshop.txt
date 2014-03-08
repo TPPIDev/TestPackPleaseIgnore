@@ -379,7 +379,7 @@ worldgen {
     I:"Aluminum Bush Density"=1
     I:"Aluminum Bush Max Y"=64
     I:"Aluminum Bush Min Y"=0
-    I:"Aluminum Bush Rarity"=15
+    I:"Aluminum Bush Rarity"=25
     I:"Aluminum Surface Rarity"=50
     I:"Aluminum Underground Density"=3
     I:"Aluminum Underground Max Y"=64
