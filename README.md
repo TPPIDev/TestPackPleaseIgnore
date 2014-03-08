@@ -30,6 +30,14 @@ Any questions/comments/concerns can be brought up on our IRC here: http://webcha
 
 MOST IMPORTANTLY, have fun :)
 
+About this branch: This is merely a fun branch for those who like a serious challenge. Still WIP
+
+To do:
+Ender storage
+Dartcraft
+Sawmills
+Universal Cables
+
 Contributers/Developers
 ===============
 _tterrag (wanna be sadist) (IGN: tterrag1098)_
