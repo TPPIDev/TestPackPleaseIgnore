@@ -399,7 +399,7 @@ worldgen {
     I:"Copper Underground Min Y"=20
     I:"Essence Bush Rarity"=6
     I:"Gold Bush Density"=1
-    I:"Gold Bush Rarity”=20
+    I:"Gold Bush Rarity"=20
     I:"Gold Surface Rarity"=900
     I:"Iron Bush Density"=1
     I:"Iron Bush Rarity"=13
