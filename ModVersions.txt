@@ -22,7 +22,7 @@ BuildCraft v4.2.2
 BuildCraft Colour Router Addon v0.3.4
 Calclavia Core v1.2.0.312
 Carpenter's Blocks v2.0.8
-Chisel v1.6.0.2
+Chisel v1.6.0.3
 Code Chicken Core v0.9.0.9
 Code Chicken Lib v1.0.0.62
 COFH Core v2.0.0.2
@@ -81,10 +81,10 @@ Not Enough Items v1.6.1.9
 Not Enough Keys v0.0.4
 Numina v0.1.2-55
 Obsidian Pressure Plates v2.0.0.15
-OpenBlocks v1.2.5
-OpenModsLib v0.2
-OpenPeripheralAddons v0.1.1
-OpenPeripheralCore v0.3.1
+OpenBlocks v1.2.7
+OpenModsLib v0.4b
+OpenPeripheralAddons v0.1.3
+OpenPeripheralCore v0.3.3
 Opis v1.1.2
 Pam's Clay Spawn v1.6.4
 Plugins for Forestry v3.2.30
@@ -114,6 +114,6 @@ Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
 Waila v1.5.1a
 Wireless Redstone - CBE v1.4.0.7
-Witchery v0-15-1_164
+Witchery v0-16-3_164
 WorldCore v1.1.0.17
 Zan's Minimap v1.6.4
