@@ -20,7 +20,7 @@ Wither Upgrade (Remote IO - Use ender chests/tesseracts)
 Time Torch (Dartcraft - Balance)
 Repair enchantment on infusing Dartcraft stuff (Balance - Repair isn’t intended for everything and shouldn’t be able to be applied on these extremely powerful weapons/armour)
 All AM2 mobs except Mana Creepers are disabled (Lag, annoyance. To summon nature guardian, we added a recipe for its spawn egg)
-Removed Flight from Advanced Genetics (Obvious balance reasons - controversial, but necessary to make various mod items completely obsolete)
+Removed Flight from Advanced Genetics (Obvious balance reasons - controversial, but necessary to keep various mod items from being made completely obsolete)
 Removed More Health Option from Advanced Genetics (Can add up with TiC hearts - which you should be using instead)
 
 There may be more, but this is all I can see/remember for now.
