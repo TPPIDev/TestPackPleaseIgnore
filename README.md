@@ -7,6 +7,8 @@ Information
 ===============
 "Test Pack Please Ignore" is a FTB pack made by members of the FTB reddit, officialy given the OK by Slowpoke himself.
 
+To get the pack, enter the code "MegaSharkPunch" (no quotes) into the FTB private packs option.
+
 This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. To set the permgen, go to the options tab and click on "Advanced Options". In additional java parameters, add the following (without the quotes): "-XX:PermSize=256M".
 
 ~~~~ Obsolete ~~~~
