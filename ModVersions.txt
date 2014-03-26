@@ -16,7 +16,7 @@ Big Reactors v0.3.0A
 Binnies Mods v1.8.0
 Biomes O' Plenty v1.2.1.416
 Blood Magic v1.0.0
-Botania beta14
+Botania beta16
 BspkrsCore v5.3
 BuildCraft v4.2.2
 BuildCraft Colour Router Addon v0.3.4
@@ -90,7 +90,7 @@ Pam's Clay Spawn v1.6.4
 Plugins for Forestry v3.2.30
 PortalGun v2.0.2
 PowerCrystals Core v1.1.8-9
-Project:RED (Base, Compat, Integration, Lighting, World) v4.3.3.28
+Project:RED (Base, Compat, Integration, Lighting, World) v4.3.5.30
 Quarry Plus v1.0.3
 Railcraft v8.4.0.0
 RcDusts v0.0.6d
@@ -109,6 +109,7 @@ Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.2
 Tinker's Construct 1.6.4-513
 Tinker's Mechworks v1.6.4-19
+TPPITweaks v0.9.0
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
