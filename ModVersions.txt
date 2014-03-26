@@ -96,7 +96,7 @@ Railcraft v8.4.0.0
 RcDusts v0.0.6d
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
-RemoteIO 1.9.3a
+RemoteIO v1.9.3a
 ServerTools v1.6.4-22
 SlickUtil
 SortFix v1.0
@@ -107,7 +107,7 @@ Thaumic Reliquary v1.0.2
 Thaumic Tinkerer v2.3-137
 Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.2
-Tinker's Construct 1.6.4-513
+Tinker's Construct v1.6.4-513
 Tinker's Mechworks v1.6.4-19
 TPPITweaks v0.9.0
 Translocators v1.1.0.15
