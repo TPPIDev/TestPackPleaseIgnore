@@ -1,7 +1,102 @@
+TPPIv1.0PreRelease~
+- Yes, it is true! This is hopefully the last beta version. We feel confident enough in the balance and stability of the pack to fully release this in what will hopefully be the next version!~
+~~~
+- Removed Gascraft~
+~
+- Added Botania. Vazkii is back with his newest mod. We’ll think you’ll enjoy this one. Note, this mod has worldgen, so you will either need to explore new chunks.~
+~~~
+- Added ElectroMagicTools. This is a Thaumcraft4/IC2 addon which brings new IC2-like content to the world of Thaumcraft. Find all of the info inside the thaumonomicon.~
+~
+- Added Minetweaker (disabled by default). Server owners (and even some SSPers), this is for you :)~
+~~~
+- Added Forbidden Magic. This is another Thaumcraft addon which brings about the darker side of Thaumcraft. You’ll also find some integration with other mods like AM2, and Blood Magic. Again, check your thaumonomicon.~
+~~~
+- Added Thaumic Reliquary. This replaces all Reliquary items with their Thaumcraft-like varient. Reasearch, various TC crafting techniques like infusion and the arcane-worktable(ing?), and even TC items will be required for this mod. We think is a really good fit for Reliquary. Note: Server owners, if you wish, there is an option in the config (disabled by default) that allows players (if they so choose), to “disable” (but not really disable) this mod from having any effect. It will have to be enabled on the server and the other option will have to be enabled on the client. This is great because not everybody will be a huge fan of this like we are. This is much better than having to disable the mod. It’s up to you now!~
+~~~
+- Updated Big Reactors to v0.3.0A. Reactor mechanics have been completely rewritten-smaller reactors will heat up more, fuel consumption has been increased, and active cooling with Reactor Coolant Ports. Added multiblock turbines. Check out www.big-reactors.com for a full list of changes.~
+~~~
+- Updated Blood Magic to v1.0.0. Full release time, so this means a new spell system, Ballad of the Alchemy, more alchemy recipes, and NEI integration.~
+~
+- Updated BC Colour Router Addon to v0.3.4. Couple minor bug fixes.~
+~~~
+- Updated MFFS/CalclaviaCore/UEcore to v3.6.2.59, v1.2.0.312, and v3.1.0.74 respectively. Too many changes to list here. Check out the UE website for more info. (We were running quite an outdated version)~
+~
+- Updated Carpenter’s Blocks to v2.0.8. Fixed crashes and some bugs (particularly a BoP crash). Added BlockRotatedPillar as a rotatable block, dynamic partial depth ambient occlusion, ability for slope selection while in hand (shift+scroll wheel).~
+~~~
+- Updated Chisel to v1.6.0.3. This version is by delta and adds native FMP support, an autochiseler, and fixes most bugs.~
+~
+- Updated denLib to v3.2.6. Fixes some launcher issues and MCPC issues (still unsupported, but we threw it in anyway).~
+~~~
+- Updated Dimensional Anchors to v57.1.95. Some multiworld related bug fixes.~
+~
+- Updated Emashers Resource to v1.2.3.4 (lol) and Engineers TOolbox to v1.1.8.3. Minor bug fixes. Added hinges, ender hinges, lazy susans, elevators, tracks, internal clocks, direction changers, socket frames, accelerometers, magnets. Sockets can also now move through fluids and other replaceable blocks.~
+~~~
+- Updated Enhanced Portals to v3.0.0b5e. Fixes long standing syncing issue.~
+~
+- Updated Extra Utilities to v1.0.3c. Added precision shears. Fixed multipart crash, incorrect oreDict registrations, golden bag of holding crash, ender lilies not growing faster on endstone, filing cabinets not closing when the block is broken. Changed recipe for sandy glass.~
+~~~
+- Updated Forestry to v2.3.1.1. No changelog available.~
+~
+- Updated Immibis Core to v57.2.0 and Immibis Microblocks to v57.6.3. Fixed Intermod conflicts.~
+~
+- Updated Mekanism to v6.0.4.32. Fixed improper charcoal block smelting numbers and bugs pertaining to NPEs.~
+~~~
+- Updated Minefactory Reloaded to v2.6.7-448. Added Rednet Energy Cable, Planter button for not using the last item in a stack, chunk loader, plastic boots. Rednet cable has been completely redone. Autobrewer brews two potions per ingredient, cargo and passenger rails must be on flat ground, must use Fruit Picker to harvest cocoa beans now. Fixed disenchanting TC wand cores (maybe).~
+~~~
+- Updated Advanced Solars and Gravitysuite to v3_4_7 and 1_9_9a. Fixes crafting issues.~
+~
+- Updated Open Peripheral Core to v0.3.3 and Open Perihperal Addon to 0.1.3. Improved TC integration (and TT), added op_dump command to dump all known peripheral APIs to XML, MFR integration, fixed tool forge integration. Fixed PIM dupe bug, terminal glasses crash and fixed peripheral proxy getting stuck after being broken.~
+~~~
+- Updated Open Blocks to 1.2.7. Added XP shower, fan strength is now controlled by redstone, last stand enchantment, fixed block placers/breakers.~
+~
+- Updated OpenModsLib to v0.4b. Added InventoryUtils.swapStack, fixed item slots rendering order, removed FakePlayer caching.~
+~~~
+- Updated Project:RED modules to v4.3.5.30. Fixed CPU issues, memory leaks, fixed backpack slots being locked, volcanoes are slightly more rare, fixed framed alloy wire connection issue, and several crashes.~
+- Updated QuarryPlus to v1.0.3. Hopefully fixed item duct issue (remember, chest THEN itemduct pulling out of that people (should be doing that for everything, itemducts aren’t always treated as valid inventories (MFR, quarries, etc..))).~
+~~~
+- Updated Thaumcraft to v4.1.0g. The runic armour Energetic augment now increases the total regen speed, not just for the augmented piece. The more pieces with this augment, the greater the bonus. Bone bow can now be held properly and accept the repair enchant, infusion matrix will no longer increase essentia costs for missing essentia (but still for missing items), Wisp spawners are now fixed in hilltop spawners, changed aspect combos and numerous bugfixes, enhancements and additions were added.~
+~~~
+- Updated Thaumic Tinkerer to v2.3-137. Added computercraft support for basic essentia pipes, Fixed some problems with the dislocator, Made Kami armor toggleable individually, and attached to a keybind, Fixed various rendering issues, Fixed overlapping research, Fixed Relay needing Motus, Fixed problem with tablet and mods that alter Player inventory.~
+~~~
+- Updated TPPItweaks to v0.9.0_gradle3. New build system, full changes below in config/modpack tweaks.~
+~
+- Updated Witchery to v0-16-3_164. So many new things and tweaks it would take 30 pages. Check out the forum thread.~
+~~~
+Config/Modpack Tweaks~
+- Disabled Infernal Mobs sticky ability~
+~
+- Added nether ores, essence ore, and iridium ore to TT bedrock blacklist.~
+~
+- Fixed Cardboard box not picking up FZ barrels.~
+~~~
+- Renabled steam generator since it accepting any fluids was fixed.~
+~
+- Actually renabled graves this time.~
+~
+- Added planks, logs, saplings, Project:RED items, black and brown dye to MFR unifier blacklist.~
+~~~
+- Removed moreHealth and flight options from Advanced Genetics. Not possible to balance it against other forms of flight without making the mod useless. Morehealth has adding too much health with TiC.~
+~
+- Wool->Pulverizer is disabled due to exploit with unlimited dye of choice.~
+~~~
+- Added various mod blocks to Forestry backpacks.~
+~
+- Fixed GC ID conflict.~
+~
+- TF is included by default now! :D~
+~~~
+- Mariculture is permanently removed~
+~
+- Removed Essence Seed recipe.~
+~~~
+- All in all, one major step closer to “perfect” balance and full stability. Enjoy!~
+~
+— TPPI Team~
+~~~
 TPPIv0.3.0~
 - Added Advanced Genetics! Adds genetic science to Minecraft. This replaces morph abilities. Fly as a squid or shear yourself as a bat, its up to you. Note: The auto output upgrade is disabled by default due to rare crashes.~
 ~~~
-- Added ServerTools! No longer do you have to worry about world corruption and chunk resets. This mod will backup your game for you in the /backups folder in your Minecraft directory. This is disabled by default, and you will have to renable it and set the time intervals in the config.~
+- Added ServerTools! No longer do you have to worry about world corruption and chunk resets. This mod will backup your game for you in the backups folder in your Minecraft directory. This is disabled by default, and you will have to renable it and set the time intervals in the config.~
 ~~~
 - The mod also works in SSP. This also adds a bunch of server commands and tools. Check the config for a complete listing.~
 ~
