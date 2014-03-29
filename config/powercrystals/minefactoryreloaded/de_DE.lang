@@ -42,6 +42,7 @@ tile.mfr.machine.fruitpicker.name = Fruchtsammler
 tile.mfr.machine.blockplacer.name = Block-Platzierer
 tile.mfr.machine.mobcounter.name = Mob-Z\u00e4hler
 tile.mfr.machine.steamturbine.name = Dampfturbine
+tile.mfr.machine.chunkloader.name = Chunk-Loader
 
 tile.mfr.conveyor.default.name = F\u00f6rderband
 tile.mfr.conveyor.white.name = Wei\u00dfes F\u00f6rderband
@@ -146,6 +147,9 @@ tile.mfr.rail.passenger.dropoff.name = Aussteigegleis
 tile.mfr.rail.passenger.pickup.name = Einsteigegleis
 
 tile.mfr.cable.redstone.name = RedNet-Kabel
+tile.mfr.cable.redstone.glass.name = RedNet-Kabel
+tile.mfr.cable.redstone.energy.name = RedNet-Energiekabel
+tile.mfr.cable.redstone.energyglass.name = RedNet-Energiekabel
 tile.mfr.rednet.logic.name = Programmierbarer RedNet-Controller
 tile.mfr.rednet.panel.historian.name = Graph
 
@@ -177,6 +181,11 @@ item.mfr.bucket.plasticcup.suffix.name =
 item.mfr.bucket.plasticcell.name = Plastikzelle
 item.mfr.bucket.plasticcell.prefix.name = Zelle mit
 item.mfr.bucket.plasticcell.suffix.name =
+
+item.mfr.armor.helm.plastic.name  = Plastikhelm
+item.mfr.armor.chest.plastic.name = Plastikbrustpanzer
+item.mfr.armor.legs.plastic.name  = Plastikbeinschutz
+item.mfr.armor.boots.plastic.name = Plastikstiefel
 
 item.mfr.hammer.name = Schmiedehammer
 item.mfr.fertilizer.name = Industried\u00fcnger
@@ -347,6 +356,9 @@ circuit.mfr.xor.2 = XOR (2 Eing\u00e4nge)
 circuit.mfr.xor.3 = XOR (3 Eing\u00e4nge)
 circuit.mfr.xor.4 = XOR (4 Eing\u00e4nge)
 
+container.mfr.radius = Radius:
+container.mfr.power = Energieverbrauch:
+
 chat.info.mfr.safarinet.capture = Gewechselt in Fangmodus
 chat.info.mfr.safarinet.release = Gewechselt in Freilassmodus
 
@@ -379,6 +391,12 @@ chat.info.mfr.rednet.connection.cableonly = Kabel auf Nur-Kabel-Verbindungsmodus
 
 chat.info.mfr.bag.stacksize = Du kannst nur eine T\u00fcte zur Zeit \u00f6ffnen
 
+tip.info.mfr.cannotplace = Kann f\u00fcr %s weitere Sekunden nichts platzieren.
+
+tip.info.mfr.holdShift1 = Halte
+tip.info.mfr.holdShift2 = Shift
+tip.info.mfr.holdShift3 = f\u00fcr weitere Informationen
+
 tip.info.mfr.safarinet.mode = Shift-klicke, um Modus zu \u00e4ndern
 tip.info.mfr.safarinet.jailer = Freigelassene Kreaturen verschwinden nicht auf normale Weise
 tip.info.mfr.safarinet.mystery = Es ist ein Mysterium
@@ -397,7 +415,8 @@ tip.info.mfr.dsu.contains = Enth\u00e4lt
 
 tip.info.mfr.mobcounter = Sendet ein analoges Redstone-Signal aus,\nproportional zur Menge an\nLebewesen in Reichweite.
 
-tip.info.mfr.laserdrill = Wird \u00fcber einem bis Bedrock gehenden Loch platziert
+tip.info.mfr.laserdrill = Wird \u00fcber einem bis Bedrock oder ins Leere gehenden Loch platziert
+tip.info.mfr.laserdrillprecharger = Wird einen Block von einem g\u00fcltigen Laser-Ziel entfernt platziert
 
 death.attack.mfr.slaughterhouse = %1$s wurde zu fl\u00fcssigem Fleisch verarbeitet
 death.attack.mfr.slaughterhouse.player = %1$s wurde von %2$s dazu verdammt, zu fl\u00fcssigem Fleisch verarbeitet zu werden
