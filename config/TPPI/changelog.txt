@@ -1,4 +1,5 @@
 TPPIv1.0PreRelease~
+~
 - Yes, it is true! This is hopefully the last beta version. We feel confident enough in the balance and stability of the pack to fully release this in what will hopefully be the next version!~
 ~~~
 - Removed Gascraft~
@@ -17,7 +18,9 @@ TPPIv1.0PreRelease~
 ~~~
 - It will have to be enabled on the server and the other option will have to be enabled on the client. This is great because not everybody will be a huge fan of this like we are. This is much better than having to disable the mod. It is up to you now!~
 ~~~
-- Updated Big Reactors to v0.3.0A. Reactor mechanics have been completely rewritten-smaller reactors will heat up more, fuel consumption has been increased, and active cooling with Reactor Coolant Ports. Added multiblock turbines. Check out the Big Reactor website for a full list of changes.~
+- Updated Big Reactors to v0.3.0A. Reactor mechanics have been completely rewritten-smaller reactors will heat up more, fuel consumption has been increased, and active cooling with Reactor Coolant Ports. Added multiblock turbines.~
+~~~
+Check out the Big Reactor website for a full list of changes.~
 ~~~
 - Updated Blood Magic to v1.0.0. Full release time, so this means a new spell system, Ballad of the Alchemy, more alchemy recipes, and NEI integration.~
 ~
@@ -35,7 +38,9 @@ TPPIv1.0PreRelease~
 ~~~
 - Updated Emashers Resource to v1.2.3.4 and Engineers Toolbox to v1.1.8.3. Minor bug fixes. Added hinges, ender hinges, lazy susans, elevators, tracks, internal clocks, direction changers, socket frames, accelerometers, magnets.~
 ~~~
-- Updated Extra Utilities to v1.0.3c. Added precision shears. Fixed multipart crash, incorrect oreDict registrations, golden bag of holding crash, ender lilies not growing faster on endstone, filing cabinets not closing when the block is broken. Changed recipe for sandy glass.~
+- Updated Extra Utilities to v1.0.3c. Added precision shears. Fixed multipart crash, incorrect oreDict registrations, golden bag of holding crash, ender lilies not growing faster on endstone, filing cabinets not closing when the block is broken.~
+~~~
+Changed recipe for sandy glass.~
 ~~~
 - Updated Forestry to v2.3.1.1. No changelog available.~
 ~
@@ -71,8 +76,10 @@ TPPIv1.0PreRelease~
 ~~~
 - Fixed overlapping research, Fixed Relay needing Motus, Fixed problem with tablet and mods that alter Player inventory.~
 ~~~
-- Updated TPPItweaks to v0.9.0_gradle3. New build system, full changes below in config/modpack tweaks.~
+- Updated Tinker's Construct to DEV.10a19df.CUSTOM, removes pipe interaction with Crafting Stations.~
 ~
+- Updated TPPItweaks to v1.0.0. New build system, full changes below in config/modpack tweaks.~
+~~~
 - Updated Witchery to v0-16-3_164. So many new things and tweaks that it would take 30 pages. Check out the forum thread.~
 ~~~
 Config/Modpack Tweaks~
@@ -101,6 +108,8 @@ Config/Modpack Tweaks~
 - Mariculture is permanently removed~
 ~
 - Removed Essence Seed recipe.~
+~
+- EnderIO conduits back to default size due to FPS issues.~
 ~~~
 - All in all, one major step closer to next-to-perfect balance and full stability. Enjoy!~
 ~
