@@ -107,7 +107,7 @@ Config/Modpack Tweaks~
 ~~~
 - Mariculture is permanently removed~
 ~
-- Removed Essence Seed recipe.~
+- Removed Essence Seeds.~
 ~
 - EnderIO conduits back to default size due to FPS issues.~
 ~~~
