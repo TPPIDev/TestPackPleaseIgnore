@@ -5,7 +5,7 @@
 ####################
 
 enablelangfile {
-    B:UseThisFileAsLanguageFile=false
+    B:UseThisFileAsLanguageFile=true
 }
 
 
@@ -1440,8 +1440,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.1031.tooltip=Mn
     S:item.GregTech_MetaGenerated_Item_01.1032.name=Small Pile of Iron Dust
     S:item.GregTech_MetaGenerated_Item_01.1032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.1033.name=Small Pile of Cobalt Dust
-    S:item.GregTech_MetaGenerated_Item_01.1033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.1033.name=Small Pile of Gregorium Dust
+    S:item.GregTech_MetaGenerated_Item_01.1033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.1034.name=Small Pile of Nickel Dust
     S:item.GregTech_MetaGenerated_Item_01.1034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.1035.name=Small Pile of Copper Dust
@@ -1528,8 +1528,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.11028.tooltip=Ti
     S:item.GregTech_MetaGenerated_Item_01.11030.name=Chrome Ingot
     S:item.GregTech_MetaGenerated_Item_01.11030.tooltip=Cr
-    S:item.GregTech_MetaGenerated_Item_01.11033.name=Cobalt Ingot
-    S:item.GregTech_MetaGenerated_Item_01.11033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.11033.name=Gregorium Ingot
+    S:item.GregTech_MetaGenerated_Item_01.11033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.11034.name=Nickel Ingot
     S:item.GregTech_MetaGenerated_Item_01.11034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.11035.name=Copper Ingot
@@ -1898,8 +1898,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.17030.tooltip=Cr
     S:item.GregTech_MetaGenerated_Item_01.17032.name=Iron Plate
     S:item.GregTech_MetaGenerated_Item_01.17032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.17033.name=Cobalt Plate
-    S:item.GregTech_MetaGenerated_Item_01.17033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.17033.name=Gregorium Plate
+    S:item.GregTech_MetaGenerated_Item_01.17033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.17034.name=Nickel Plate
     S:item.GregTech_MetaGenerated_Item_01.17034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.17035.name=Copper Plate
@@ -2200,8 +2200,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.1825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.1826.name=Small Pile of Cinnabar Dust
     S:item.GregTech_MetaGenerated_Item_01.1826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.1827.name=Small Pile of Cobaltite Dust
-    S:item.GregTech_MetaGenerated_Item_01.1827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.1827.name=Small Pile of Gregoriumite Dust
+    S:item.GregTech_MetaGenerated_Item_01.1827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.1828.name=Small Pile of Cooperite Dust
     S:item.GregTech_MetaGenerated_Item_01.1828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.1829.name=Small Pile of Deep Iron Dust
@@ -2252,7 +2252,7 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.1851.tooltip=
     S:item.GregTech_MetaGenerated_Item_01.1852.name=Small Pile of Blueschist Dust
     S:item.GregTech_MetaGenerated_Item_01.1852.tooltip=
-    S:item.GregTech_MetaGenerated_Item_01.1853.name=Small Pile of Cobalt Hexahydrate Dust
+    S:item.GregTech_MetaGenerated_Item_01.1853.name=Small Pile of Gregorium Hexahydrate Dust
     S:item.GregTech_MetaGenerated_Item_01.1853.tooltip=
     S:item.GregTech_MetaGenerated_Item_01.1854.name=Small Pile of Construction Foam Dust
     S:item.GregTech_MetaGenerated_Item_01.1854.tooltip=
@@ -2346,8 +2346,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.2031.tooltip=Mn
     S:item.GregTech_MetaGenerated_Item_01.2032.name=Iron Dust
     S:item.GregTech_MetaGenerated_Item_01.2032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.2033.name=Cobalt Dust
-    S:item.GregTech_MetaGenerated_Item_01.2033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.2033.name=Gregorium Dust
+    S:item.GregTech_MetaGenerated_Item_01.2033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.2034.name=Nickel Dust
     S:item.GregTech_MetaGenerated_Item_01.2034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.2035.name=Copper Dust
@@ -2456,8 +2456,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.23030.tooltip=Cr
     S:item.GregTech_MetaGenerated_Item_01.23032.name=Iron Rod
     S:item.GregTech_MetaGenerated_Item_01.23032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.23033.name=Cobalt Rod
-    S:item.GregTech_MetaGenerated_Item_01.23033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.23033.name=Gregorium Rod
+    S:item.GregTech_MetaGenerated_Item_01.23033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.23034.name=Nickel Rod
     S:item.GregTech_MetaGenerated_Item_01.23034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.23035.name=Copper Rod
@@ -2758,8 +2758,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.25030.tooltip=Cr
     S:item.GregTech_MetaGenerated_Item_01.25032.name=Iron Round
     S:item.GregTech_MetaGenerated_Item_01.25032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.25033.name=Cobalt Round
-    S:item.GregTech_MetaGenerated_Item_01.25033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.25033.name=Gregorium Round
+    S:item.GregTech_MetaGenerated_Item_01.25033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.25034.name=Nickel Round
     S:item.GregTech_MetaGenerated_Item_01.25034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.25035.name=Copper Round
@@ -3010,8 +3010,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.26030.tooltip=Cr
     S:item.GregTech_MetaGenerated_Item_01.26032.name=Iron Bolt
     S:item.GregTech_MetaGenerated_Item_01.26032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.26033.name=Cobalt Bolt
-    S:item.GregTech_MetaGenerated_Item_01.26033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.26033.name=Gregorium Bolt
+    S:item.GregTech_MetaGenerated_Item_01.26033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.26034.name=Nickel Bolt
     S:item.GregTech_MetaGenerated_Item_01.26034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.26035.name=Copper Bolt
@@ -3196,8 +3196,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.27030.tooltip=Cr
     S:item.GregTech_MetaGenerated_Item_01.27032.name=Iron Screw
     S:item.GregTech_MetaGenerated_Item_01.27032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.27033.name=Cobalt Screw
-    S:item.GregTech_MetaGenerated_Item_01.27033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.27033.name=Gregorium Screw
+    S:item.GregTech_MetaGenerated_Item_01.27033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.27034.name=Nickel Screw
     S:item.GregTech_MetaGenerated_Item_01.27034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.27035.name=Copper Screw
@@ -3382,8 +3382,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.28030.tooltip=Cr
     S:item.GregTech_MetaGenerated_Item_01.28032.name=Iron Ring
     S:item.GregTech_MetaGenerated_Item_01.28032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.28033.name=Cobalt Ring
-    S:item.GregTech_MetaGenerated_Item_01.28033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.28033.name=Gregorium Ring
+    S:item.GregTech_MetaGenerated_Item_01.28033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.28034.name=Nickel Ring
     S:item.GregTech_MetaGenerated_Item_01.28034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.28035.name=Copper Ring
@@ -3494,8 +3494,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.2825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.2826.name=Cinnabar Dust
     S:item.GregTech_MetaGenerated_Item_01.2826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.2827.name=Cobaltite Dust
-    S:item.GregTech_MetaGenerated_Item_01.2827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.2827.name=Gregoriumite Dust
+    S:item.GregTech_MetaGenerated_Item_01.2827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.2828.name=Cooperite Dust
     S:item.GregTech_MetaGenerated_Item_01.2828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.2829.name=Deep Iron Dust
@@ -3634,7 +3634,7 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.2852.tooltip=
     S:item.GregTech_MetaGenerated_Item_01.28521.name=Force Ring
     S:item.GregTech_MetaGenerated_Item_01.28521.tooltip=
-    S:item.GregTech_MetaGenerated_Item_01.2853.name=Cobalt Hexahydrate Dust
+    S:item.GregTech_MetaGenerated_Item_01.2853.name=Gregorium Hexahydrate Dust
     S:item.GregTech_MetaGenerated_Item_01.2853.tooltip=
     S:item.GregTech_MetaGenerated_Item_01.2854.name=Construction Foam Dust
     S:item.GregTech_MetaGenerated_Item_01.2854.tooltip=
@@ -3814,8 +3814,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.3032.tooltip=Fe
     S:item.GregTech_MetaGenerated_Item_01.30324.name=Naquadah Cell
     S:item.GregTech_MetaGenerated_Item_01.30324.tooltip=
-    S:item.GregTech_MetaGenerated_Item_01.3033.name=Impure Pile of Cobalt Dust
-    S:item.GregTech_MetaGenerated_Item_01.3033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.3033.name=Impure Pile of Gregorium Dust
+    S:item.GregTech_MetaGenerated_Item_01.3033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.3034.name=Impure Pile of Nickel Dust
     S:item.GregTech_MetaGenerated_Item_01.3034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.3035.name=Impure Pile of Copper Dust
@@ -3938,7 +3938,7 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.3084.tooltip=Ir
     S:item.GregTech_MetaGenerated_Item_01.3085.name=Impure Pile of Platinum Dust
     S:item.GregTech_MetaGenerated_Item_01.3085.tooltip=Pt
-    S:item.GregTech_MetaGenerated_Item_01.30853.name=Cobalt Hexahydrate Cell
+    S:item.GregTech_MetaGenerated_Item_01.30853.name=Gregorium Hexahydrate Cell
     S:item.GregTech_MetaGenerated_Item_01.30853.tooltip=
     S:item.GregTech_MetaGenerated_Item_01.3086.name=Impure Pile of Gold Dust
     S:item.GregTech_MetaGenerated_Item_01.3086.tooltip=Au
@@ -4094,8 +4094,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.328.tooltip=
     S:item.GregTech_MetaGenerated_Item_01.329.name=Tiny Pile of Tritanium Dust
     S:item.GregTech_MetaGenerated_Item_01.329.tooltip=
-    S:item.GregTech_MetaGenerated_Item_01.33.name=Tiny Pile of Cobalt Dust
-    S:item.GregTech_MetaGenerated_Item_01.33.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.33.name=Tiny Pile of Gregorium Dust
+    S:item.GregTech_MetaGenerated_Item_01.33.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.330.name=Tiny Pile of Thaumium Dust
     S:item.GregTech_MetaGenerated_Item_01.330.tooltip=Ma
     S:item.GregTech_MetaGenerated_Item_01.3307.name=Impure Pile of Pig Iron Dust
@@ -4234,8 +4234,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.3825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.3826.name=Impure Pile of Cinnabar Dust
     S:item.GregTech_MetaGenerated_Item_01.3826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.3827.name=Impure Pile of Cobaltite Dust
-    S:item.GregTech_MetaGenerated_Item_01.3827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.3827.name=Impure Pile of Gregoriumite Dust
+    S:item.GregTech_MetaGenerated_Item_01.3827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.3828.name=Impure Pile of Cooperite Dust
     S:item.GregTech_MetaGenerated_Item_01.3828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.3829.name=Impure Pile of Deep Iron Dust
@@ -4308,8 +4308,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.4031.tooltip=Mn
     S:item.GregTech_MetaGenerated_Item_01.4032.name=Purified Pile of Iron Dust
     S:item.GregTech_MetaGenerated_Item_01.4032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.4033.name=Purified Pile of Cobalt Dust
-    S:item.GregTech_MetaGenerated_Item_01.4033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.4033.name=Purified Pile of Gregorium Dust
+    S:item.GregTech_MetaGenerated_Item_01.4033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.4034.name=Purified Pile of Nickel Dust
     S:item.GregTech_MetaGenerated_Item_01.4034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.4035.name=Purified Pile of Copper Dust
@@ -4490,8 +4490,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.4825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.4826.name=Purified Pile of Cinnabar Dust
     S:item.GregTech_MetaGenerated_Item_01.4826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.4827.name=Purified Pile of Cobaltite Dust
-    S:item.GregTech_MetaGenerated_Item_01.4827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.4827.name=Purified Pile of Gregoriumite Dust
+    S:item.GregTech_MetaGenerated_Item_01.4827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.4828.name=Purified Pile of Cooperite Dust
     S:item.GregTech_MetaGenerated_Item_01.4828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.4829.name=Purified Pile of Deep Iron Dust
@@ -4562,8 +4562,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.5031.tooltip=Mn
     S:item.GregTech_MetaGenerated_Item_01.5032.name=Crushed Iron Ore
     S:item.GregTech_MetaGenerated_Item_01.5032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.5033.name=Crushed Cobalt Ore
-    S:item.GregTech_MetaGenerated_Item_01.5033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.5033.name=Crushed Gregorium Ore
+    S:item.GregTech_MetaGenerated_Item_01.5033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.5034.name=Crushed Nickel Ore
     S:item.GregTech_MetaGenerated_Item_01.5034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.5035.name=Crushed Copper Ore
@@ -4820,8 +4820,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.5825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.5826.name=Crushed Cinnabar Ore
     S:item.GregTech_MetaGenerated_Item_01.5826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.5827.name=Crushed Cobaltite Ore
-    S:item.GregTech_MetaGenerated_Item_01.5827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.5827.name=Crushed Gregoriumite Ore
+    S:item.GregTech_MetaGenerated_Item_01.5827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.5828.name=Crushed Cooperite Ore
     S:item.GregTech_MetaGenerated_Item_01.5828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.5829.name=Crushed Deep Iron Ore
@@ -4888,8 +4888,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.6031.tooltip=Mn
     S:item.GregTech_MetaGenerated_Item_01.6032.name=Purified Iron Ore
     S:item.GregTech_MetaGenerated_Item_01.6032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.6033.name=Purified Cobalt Ore
-    S:item.GregTech_MetaGenerated_Item_01.6033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.6033.name=Purified Gregorium Ore
+    S:item.GregTech_MetaGenerated_Item_01.6033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.6034.name=Purified Nickel Ore
     S:item.GregTech_MetaGenerated_Item_01.6034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.6035.name=Purified Copper Ore
@@ -5078,8 +5078,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.6825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.6826.name=Purified Cinnabar Ore
     S:item.GregTech_MetaGenerated_Item_01.6826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.6827.name=Purified Cobaltite Ore
-    S:item.GregTech_MetaGenerated_Item_01.6827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.6827.name=Purified Gregoriumite Ore
+    S:item.GregTech_MetaGenerated_Item_01.6827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.6828.name=Purified Cooperite Ore
     S:item.GregTech_MetaGenerated_Item_01.6828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.6829.name=Purified Deep Iron Ore
@@ -5148,8 +5148,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.7031.tooltip=Mn
     S:item.GregTech_MetaGenerated_Item_01.7032.name=Centrifuged Iron Ore
     S:item.GregTech_MetaGenerated_Item_01.7032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.7033.name=Centrifuged Cobalt Ore
-    S:item.GregTech_MetaGenerated_Item_01.7033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.7033.name=Centrifuged Gregorium Ore
+    S:item.GregTech_MetaGenerated_Item_01.7033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.7034.name=Centrifuged Nickel Ore
     S:item.GregTech_MetaGenerated_Item_01.7034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.7035.name=Centrifuged Copper Ore
@@ -5342,8 +5342,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.7825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.7826.name=Centrifuged Cinnabar Ore
     S:item.GregTech_MetaGenerated_Item_01.7826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.7827.name=Centrifuged Cobaltite Ore
-    S:item.GregTech_MetaGenerated_Item_01.7827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.7827.name=Centrifuged Gregoriumite Ore
+    S:item.GregTech_MetaGenerated_Item_01.7827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.7828.name=Centrifuged Cooperite Ore
     S:item.GregTech_MetaGenerated_Item_01.7828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.7829.name=Centrifuged Deep Iron Ore
@@ -5436,8 +5436,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.825.tooltip=FeCr2O4
     S:item.GregTech_MetaGenerated_Item_01.826.name=Tiny Pile of Cinnabar Dust
     S:item.GregTech_MetaGenerated_Item_01.826.tooltip=HgS
-    S:item.GregTech_MetaGenerated_Item_01.827.name=Tiny Pile of Cobaltite Dust
-    S:item.GregTech_MetaGenerated_Item_01.827.tooltip=CoAsS
+    S:item.GregTech_MetaGenerated_Item_01.827.name=Tiny Pile of Gregoriumite Dust
+    S:item.GregTech_MetaGenerated_Item_01.827.tooltip=GregAsS
     S:item.GregTech_MetaGenerated_Item_01.828.name=Tiny Pile of Cooperite Dust
     S:item.GregTech_MetaGenerated_Item_01.828.tooltip=Pt3NiSPd
     S:item.GregTech_MetaGenerated_Item_01.829.name=Tiny Pile of Deep Iron Dust
@@ -5544,7 +5544,7 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.8528.tooltip=(Ca3Fe2Si3O12)5(Ca3Al2Si3O12)8(Ca3Cr2Si3O12)3
     S:item.GregTech_MetaGenerated_Item_01.8529.name=Vinteum
     S:item.GregTech_MetaGenerated_Item_01.8529.tooltip=Ma
-    S:item.GregTech_MetaGenerated_Item_01.853.name=Tiny Pile of Cobalt Hexahydrate Dust
+    S:item.GregTech_MetaGenerated_Item_01.853.name=Tiny Pile of Gregorium Hexahydrate Dust
     S:item.GregTech_MetaGenerated_Item_01.853.tooltip=
     S:item.GregTech_MetaGenerated_Item_01.8530.name=Apatite
     S:item.GregTech_MetaGenerated_Item_01.8530.tooltip=Ca5(PO4)3Cl
@@ -5626,8 +5626,8 @@ languagefile {
     S:item.GregTech_MetaGenerated_Item_01.9030.tooltip=Cr
     S:item.GregTech_MetaGenerated_Item_01.9032.name=Iron Nugget
     S:item.GregTech_MetaGenerated_Item_01.9032.tooltip=Fe
-    S:item.GregTech_MetaGenerated_Item_01.9033.name=Cobalt Nugget
-    S:item.GregTech_MetaGenerated_Item_01.9033.tooltip=Co
+    S:item.GregTech_MetaGenerated_Item_01.9033.name=Gregorium Nugget
+    S:item.GregTech_MetaGenerated_Item_01.9033.tooltip=Greg
     S:item.GregTech_MetaGenerated_Item_01.9034.name=Nickel Nugget
     S:item.GregTech_MetaGenerated_Item_01.9034.tooltip=Ni
     S:item.GregTech_MetaGenerated_Item_01.9035.name=Copper Nugget
