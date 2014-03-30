@@ -22,7 +22,7 @@ BuildCraft v4.2.2
 BuildCraft Colour Router Addon v0.3.4
 Calclavia Core v1.2.0.312
 Carpenter's Blocks v2.0.8
-Chisel v1.6.0.3
+Chisel v1.5.1 (Big thanks to asie)
 Code Chicken Core v0.9.0.9
 Code Chicken Lib v1.0.0.62
 COFH Core v2.0.0.2
@@ -31,7 +31,7 @@ Damage Indicators v2.9.2.3
 DartCraft v0.2.17
 DenLib v3.2.6
 Dimensional Anchors v57.1.95
-ElectroMagicTools v1.0.8
+ElectroMagicTools v1.0.9
 Emashers Resource v1.2.3.4  (lol)
 EnderIO v0.11.3.331
 Ender Prospecting v1.0.1.6
@@ -103,13 +103,13 @@ SortFix v1.0
 Steve's Carts 2.0.0b10
 Steve's Factory Manager vA78
 Thaumcraft v4.1.0g
-Thaumic Reliquary v1.0.2
+Thaumic Reliquary v1.1.1
 Thaumic Tinkerer v2.3-137
 Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.2
 Tinker's Construct v1.6.4-513
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v0.9.0
+TPPITweaks v1.0.0-10
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
