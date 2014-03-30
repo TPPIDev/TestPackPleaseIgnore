@@ -1,3 +1,9 @@
+TPPIv1.0.1PreRelease~
+~
+- Hotfix for broken libraries~
+~
+- Enable Minetweaker on client
+~~~
 TPPIv1.0PreRelease~
 ~
 - Yes, it is true! This is hopefully the last beta version. We feel confident enough in the balance and stability of the pack to fully release this in what will hopefully be the next version!~
@@ -107,7 +113,7 @@ Config/Modpack Tweaks~
 ~~~
 - Mariculture is permanently removed~
 ~
-- Removed Essence Seeds.~
+- Removed Essence Seed recipe.~
 ~
 - EnderIO conduits back to default size due to FPS issues.~
 ~~~
