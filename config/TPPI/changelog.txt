@@ -1,3 +1,28 @@
+TPPIv1.0.2PreRelease~
+- Yay, more fixes \o/~
+~
+- Actually fixed libraries this time~
+~
+- Updated Thaumic Reliquary to v1.1.1. MCPC compat.~
+~~~
+- Lowered Botania flower spawn rate. If you are still having issues with FPS (though you should not, even with a lower end pc), you can lower these even further in the botania config. They can be safely spawned with bonemeal.~
+~~~
+- Reverted (and updated) Chisel to 1.5.1. Most of your problems should be gone.~
+~
+- Updated TPPItweaks to 1.0.0-10. Fixes IC2 issues, adds some security to the txt reading.~
+~
+- Fixed anvil auto-smelting dupe.~
+~~~
+- Updated ElectroMagicTools to v1.0.9. Fixes crash with essential generators.~
+~
+- Readded chisel blocks to FMP config~
+~~~
+Notes about updating~
+~
+- If you are getting advanced genetics spam, just suicide (we would rather you not tenable the features we specifically disabled).~
+~
+- Chisel blocks may disappear. This is unavoidable.~
+~~~
 TPPIv1.0.1PreRelease~
 ~
 - Hotfix for broken libraries~
