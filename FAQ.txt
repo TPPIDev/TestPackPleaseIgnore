@@ -1,4 +1,4 @@
-Frequently Asked Questions
+﻿Frequently Asked Questions
 
 Q. What items/blocks/other stuffs are removed that are normally craftable?
 A. Auto-Output Upgrade (Advanced Genetics - Prevents crashing) 
@@ -23,6 +23,7 @@ All AM2 mobs except Mana Creepers are disabled (Lag, annoyance. To summon nature
 Removed Flight from Advanced Genetics (Obvious balance reasons - controversial, but necessary to keep various mod items from being made completely obsolete)
 Removed More Health Option from Advanced Genetics (Stacks improperly with TiC hearts, leading to massive amounts of health)
 Ethereal Processor from ElectroMagicTools (Prevents dupes with GT)
+Turrets from Portal Gun. (Prevents infinite mob essence because they drop themselves on death)
 
 There may be more, but this is all I can see/remember for now.
 
