@@ -1,7 +1,7 @@
 "Test Pack Please Ignore" -FTB Modpack
 ===============
 
-A github for public updates to the pack. We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/ . Thanks for reading!
+A Git repository for public updates to the pack. We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/ . Thanks for reading!
 
 Information
 ===============
@@ -9,7 +9,7 @@ Information
 
 To get the pack, enter the code "MegaSharkPunch" (no quotes) into the FTB private packs option.
 
-This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. To set the permgen, go to the options tab and click on "Advanced Options". In additional java parameters, add the following (without the quotes): "-XX:PermSize=256M".
+This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. To set the permgen, go to the options tab and click on "Advanced Options". In additional java parameters, add the following (without the quotes): "-XX:PermSize=256M". If using Java 8, setting permgen is not required.
 
 When you enter a new world, our book, like the Tinker’s Construct one, will show up in your inventory. Read it!
 
