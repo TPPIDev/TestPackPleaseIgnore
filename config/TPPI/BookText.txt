@@ -1,0 +1,80 @@
+**This is the file that TPPI Tweaks reads its info from, it is used for changelogs and information on the modpack**
+**To add to the file, type what you want, and separate pages by using the phrase ~~~ **
+**The code will interpret "~~~" as a page break, and format the book accordingly**
+**In addition, adding a "~" to the end of a line will add a line break**
+**Two asterisks at the beginning of a line is a comment**
+**Three asterisks and a number will skip that amount of lines following**
+
+***12
+Example:
+This is some very useful info
+And I am typing it on multiple lines
+to make this text file easier to read.
+These lines don't have line breaks between them
+in the book though because they don't end with "~".
+~~~
+Now I am on page 2~
+Now I am one line down~
+~
+Now I am after a blank line
+
+**Begin book text after asterisks**
+****************************************************************************
+Greetings everyone, and welcome to Test Pack Please Ignore!~
+~
+~
+We're really excited to bring this pack to you all.
+~~~
+We also couldn't have done so without the Feed The Beast subreddit community, 
+who the pack is made by and for.~
+~
+Thank you all so very much for making TPPI possible!
+~~~
+This book you're reading is added by our own custom mod, TPPI Tweaks.~
+~
+It will always automatically contain the most up-to-date information 
+on the pack, so check it often!~
+~
+Should you want a new copy, you can craft one with an iron ingot and three paper,
+but this is not necessary to recieve new info!.
+~~~
+Another feature of TPPI Tweaks is the in-game commands it adds.~
+~
+The changelog can be found by typing /tppi changelog, which will of course always 
+be up to date, no need to ever get a new copy.~
+~
+We're also working on a project to add in-game documentation for all 
+the mods in the pack, to be accessed via commands.~
+~~~
+Type /tppi guide to receive an all-around guide to the documentation system, 
+the easiest way to obtain info on any mod you wish.~
+~~~
+Type /tppi mods <modname> to get an individual book for a mod, or to get
+a link if the mod has not had in-game documentation written for it yet.~
+/tppi mods list will give you a list of all mods that are possible to be used in the command.
+~~~
+Naturally, this is a big job, and it's not yet finished.
+~
+It is our hope that the community will get 
+involved in documenting these mods via our mod's system.~
+~
+If you'd like to help out with this documentation project or any other parts of TPPI's 
+development, feel free to type the command /tppi getInvolved to learn more.
+~~~
+Lastly, the /tppi ores command will give you a book on TPPI's unique layer-based 
+ore generation system.~
+~
+Judge has worked very hard on it, and we're very happy that almost everyone sees it as a good change.
+~~~
+That's about it. Have fun!~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+         Love,~
+        -The Dev Team
