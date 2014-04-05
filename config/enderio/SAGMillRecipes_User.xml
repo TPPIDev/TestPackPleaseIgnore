@@ -301,8 +301,8 @@ found in the core file.
         <itemStack oreDictionary="oreNetherDiamond"/>
       </input>
       <output>
-        <itemStack oreDictionary="gemDiamond" number="4"/>
-        <itemStack oreDictionary="gemDiamond" number="1" chance="0.1"/>
+        <itemStack itemID="264" number="4"/>
+        <itemStack itemID="264" number="1" chance="0.1"/>
         <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
       </output>
     </recipe>
@@ -457,7 +457,7 @@ found in the core file.
       <output>
         <itemStack oreDictionary="dustPlatinum" number="4"/>
         <itemStack oreDictionary="dustNickel" number="1" chance="0.5"/>
-        <itemStack oreDictionary="gemDiamond" number="1" chance="0.01"/>
+        <itemStack itemID="264" number="1" chance="0.01"/>
         <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
       </output>
     </recipe>
@@ -490,7 +490,7 @@ found in the core file.
       </input>
       <output>
         <itemStack oreDictionary="dustIridium" number="4"/>
-        <itemStack oreDictionary="gemDiamond" number="1" chance="0.25"/>
+        <itemStack itemID="264" number="1" chance="0.25"/>
         <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
       </output>
     </recipe>
