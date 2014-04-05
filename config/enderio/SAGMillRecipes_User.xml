@@ -97,6 +97,30 @@ found in the core file.
     </recipe>
 </recipeGroup>
 
+<recipeGroup name="IC2">
+    <recipe name="Uranium Ore" energyCost="360">
+      <input>
+        <itemStack oreDictionary="oreUranium"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="crushedUranium" number="2"/>
+        <itemStack itemID="4" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+</recipeGroup>
+
+<recipeGroup name="GT">
+    <recipe name="Sheldonite Ore" energyCost="360">
+      <input>
+        <itemStack oreDictionary="oreCooperite"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustPlatinum" number="2"/>
+        <itemStack itemID="4" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+</recipeGroup>
+
 <recipeGroup name="Engineer's Toolbox">
     
     <!-- Metals -->
@@ -257,5 +281,231 @@ found in the core file.
       </output>
     </recipe>
   </recipeGroup>
+  
+  
+<recipeGroup name="Nether Ores">
+  
+    <recipe name="Nether Coal" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherCoal"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="coal" number="4"/>
+        <itemStack oreDictionary="coal" number="1" chance="0.25"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Diamond" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherDiamond"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="gemDiamond" number="4"/>
+        <itemStack oreDictionary="gemDiamond" number="1" chance="0.1"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Gold" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherGold"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustGold" number="4"/>
+        <itemStack oreDictionary="dustCopper" number="1" chance="0.5"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Iron" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherIron"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustIron" number="4"/>
+        <itemStack oreDictionary="dustTin" number="1" chance="0.1"/>
+        <itemStack oreDictionary="dustNickel" number="1" chance="0.2"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Lapis" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherLapis"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="gemLapis" number="24"/>
+        <itemStack oreDictionary="gemLapis" number="4" chance="0.2"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Redstone" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherRedstone"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustRedstone" number="24"/>
+        <itemStack oreDictionary="dustRedstone" number="4" chance="0.2"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Copper" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherCopper"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustCopper" number="4"/>
+        <itemStack oreDictionary="dustGold" number="1" chance="0.5"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Tin" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherTin"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustTin" number="4"/>
+        <itemStack oreDictionary="dustIron" number="1" chance="0.1"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Emerald" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherEmerald"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="gemEmerald" number="4"/>
+        <itemStack oreDictionary="dustEmerald" number="1" chance="0.25"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Silver" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherSilver"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustSilver" number="4"/>
+        <itemStack oreDictionary="dustLead" number="1" chance="0.5"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Lead" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherCopper"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustLead" number="4"/>
+        <itemStack oreDictionary="dustSilver" number="1" chance="0.5"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+       
+    <recipe name="Nether Uranium" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherUranium"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="crushedUranium" number="4"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+       
+    <recipe name="Nether Ruby" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherRuby"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="gemRuby" number="4"/>
+        <itemStack oreDictionary="dustRuby" number="1" chance="0.25"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+       
+    <recipe name="Nether Peridot" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherOlivine"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="gemOlivine" number="4"/>
+        <itemStack oreDictionary="dustOlivine" number="1" chance="0.25"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+       
+    <recipe name="Nether Sapphire" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherSapphire"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="gemSapphire" number="4"/>
+        <itemStack oreDictionary="dustSapphire" number="1" chance="0.25"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+       
+    <recipe name="Nether Platinum" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherPlatinum"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustPlatinum" number="4"/>
+        <itemStack oreDictionary="dustNickel" number="1" chance="0.5"/>
+        <itemStack oreDictionary="gemDiamond" number="1" chance="0.01"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+       
+    <recipe name="Nether Nickel" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherNickel"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustNickel" number="4"/>
+        <itemStack oreDictionary="dustIron" number="1" chance="0.5"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+           
+    <recipe name="Nether Steel" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherSteel"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustSteel" number="4"/>
+        <itemStack oreDictionary="dustIron" number="1" chance="0.25"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe> 
+    
+    <recipe name="Nether Iridium" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherIridium"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustIridium" number="4"/>
+        <itemStack oreDictionary="gemDiamond" number="1" chance="0.25"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+    <recipe name="Nether Osmium" energyCost="480">
+      <input>
+        <itemStack oreDictionary="oreNetherOsmium"/>
+      </input>
+      <output>
+        <itemStack oreDictionary="dustOsmium" number="4"/>
+        <itemStack oreDictionary="dustOsmium" number="2" chance="0.15"/>
+        <itemStack oreDictionary="stoneNetherrack" number="1" chance="0.25"/>
+      </output>
+    </recipe>
+    
+</recipeGroup>
 
 </SAGMillRecipes>
