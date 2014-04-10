@@ -41,7 +41,7 @@ Enhanced Portals v3.0.0b5e
 EVOC v1.0.0a
 Extra Cells v1.6.7d
 Extra Utilities v1.0.3c
-Factorization v0.8.3.3
+Factorization v0.8.34
 FlatSigns v1.4.0.15
 ForbiddenMagic pr0.32
 Forestry v2.3.1.1\

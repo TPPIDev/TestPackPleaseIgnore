@@ -11,7 +11,9 @@ _Test Pack Please Ignore_ is a third-party FTB pack made by members of the /r/Fe
 
 To get the pack, enter the code __MegaSharkPunch__ into the FTB private packs option.
 
-This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. Permgen is automatically set by the FTB launcher, but to set the permgen in a different launcher add the following java parameter: __-XX:PermSize=256M__
+Clients: This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. Permgen is automatically set by the FTB launcher, but to set the permgen in a different launcher add the following java parameter: __-XX:PermSize=256M__
+
+Servers: The server download comes with recommended Java arguments. Those were used when initially testing this pack before it released, and it worked great. You may need to allocate more RAM if you have lots of concurrent players online. Never try and allocate too much, Java hates that.
 
 
 When you enter a new world, our book, like the Tinker’s Construct one, will show up in your inventory. ___Read it!___
