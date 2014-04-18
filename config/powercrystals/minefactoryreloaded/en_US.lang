@@ -43,6 +43,8 @@ tile.mfr.machine.blockplacer.name = Block Placer
 tile.mfr.machine.mobcounter.name = Mob Counter
 tile.mfr.machine.steamturbine.name = Steam Turbine
 tile.mfr.machine.chunkloader.name = Chunk Loader
+tile.mfr.machine.fountain.name = Fountain
+tile.mfr.machine.mobrouter.name = Mob Router
 
 tile.mfr.conveyor.default.name = Conveyor Belt
 tile.mfr.conveyor.white.name = Conveyor Belt (White)
@@ -116,6 +118,8 @@ tile.mfr.decorativebrick.snow_large.name = Large Snow Bricks
 tile.mfr.decorativebrick.prc.name = Programmable RedNet Controller Housing
 tile.mfr.decorativebrick.meat.raw.name = Raw Meat Block
 tile.mfr.decorativebrick.meat.cooked.name = Cooked Meat Block
+tile.mfr.decorativebrick.pavedstone_large.name = Large Paved Stone Bricks
+tile.mfr.decorativebrick.brick_large.name = Large Bricks
 
 tile.mfr.decorativestone.black.smooth.name = Smooth Blackstone
 tile.mfr.decorativestone.black.cobble.name = Cobble Blackstone
@@ -140,6 +144,7 @@ tile.mfr.rubberwood.sapling.name = Rubber Sapling
 tile.mfr.rubberwood.sapling.massive.name = Sacred Rubber Sapling
 tile.mfr.rubberwood.log.name = Rubber Wood
 tile.mfr.rubberwood.leaves.name = Rubber Leaves
+tile.mfr.rubberwood.leaves.dry.name = Dry Rubber Leaves
 
 tile.mfr.rail.cargo.dropoff.name = Cargo Dropoff Rail
 tile.mfr.rail.cargo.pickup.name = Cargo Pickup Rail
@@ -393,6 +398,8 @@ chat.info.mfr.rednet.connection.forcedstrong = Set side to strong-connection mod
 chat.info.mfr.rednet.connection.cableonly = Set side to cable-only connection mode
 
 chat.info.mfr.bag.stacksize = You can only open one bag at a time
+
+chat.info.mfr.chunkloader.noticket = You have too many chunk loaders and this one cannot function.
 
 tip.info.mfr.cannotplace = Cannot place for %s more seconds.
 
