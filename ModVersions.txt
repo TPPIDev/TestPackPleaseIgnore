@@ -1,7 +1,7 @@
 Current Mod Versions
 
 Additional Buildcraft Objects v1.0.7.558
-Advanced Genetics v1.4.1
+Advanced Genetics v1.4.2
 Advanced Solar Panels v3.4.7
 Applied Energistics rv14finale3
 Armor Status HUD v1.15
@@ -110,7 +110,7 @@ Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.2
 Tinker's Construct v1.5.4
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.0.0-35
+TPPITweaks v1.0.0-36
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
