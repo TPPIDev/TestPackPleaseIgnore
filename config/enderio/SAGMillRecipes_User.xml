@@ -205,8 +205,8 @@ found in the core file.
         <itemStack oreDictionary="oreDiamond" />
       </input>
       <output>
-        <itemStack oreDictionary="gemDiamond" />
-        <itemStack oreDictionary="gemDiamond" chance="0.15" />
+        <itemStack itemID="264" />
+        <itemStack itemID="264" chance="0.15" />
         <itemStack itemID="4" chance="0.15" />
       </output>
     </recipe>
