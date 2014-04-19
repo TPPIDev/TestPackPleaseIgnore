@@ -682,7 +682,7 @@ found in the core file.
     
     <recipe name="Nether Lead" energyCost="480">
       <input>
-        <itemStack oreDictionary="oreNetherCopper"/>
+        <itemStack oreDictionary="oreNetherLead"/>
       </input>
       <output>
         <itemStack oreDictionary="dustLead" number="4"/>
