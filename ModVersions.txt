@@ -31,7 +31,7 @@ Damage Indicators v2.9.2.3
 DartCraft v0.2.18
 DenLib v3.2.6
 Dimensional Anchors v57.1.96
-ElectroMagicTools v1.0.9d
+ElectroMagicTools v1.0.9e
 Emashers Resource v1.2.3.4  (lol)
 EnderIO v1.0.1.353
 Ender Prospecting v1.0.1.6
@@ -63,8 +63,8 @@ JourneyMap Unlimited v3.3.2
 Logistics Pipes v0.7.4dev.145
 Magical Crops v3.2.0_Beta15a
 Magic Bees v2.1.11
-Mekanism v6.0.4.33
-Mekanism Generators v6.0.4.33
+Mekanism v6.1.0.CUSTOM (combined jar)
+Mekanism Generators v6.1.0.CUSTOM (combined jar)
 MineFactoryReloaded v2.7.8-482
 Minetweaker v2.3.1
 Mobius Core v1.2.0
@@ -104,13 +104,13 @@ SortFix v1.0
 Steve's Carts 2.0.0b10
 Steve's Factory Manager vA83
 Thaumcraft v4.1.0g
-Thaumic Reliquary v1.1.1
+Thaumic Reliquary v1.1.1.TPPI
 Thaumic Tinkerer v2.3-137
 Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.2
 Tinker's Construct v1.5.4
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.0.0-36
+TPPITweaks v1.1.0-44
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
