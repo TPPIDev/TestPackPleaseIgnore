@@ -38,7 +38,7 @@ Ender Prospecting v1.0.1.6
 Ender Storage v1.4.3.6
 Engineer's Toolbox v1.1.8.3
 EVOC v1.0.0a
-Extra Cells v1.6.7d
+Extra Cells v1.6.8f
 Extra Utilities v1.0.3c
 Factorization v0.8.34
 FlatSigns v1.4.0.15
@@ -108,9 +108,9 @@ Thaumic Reliquary v1.1.1.TPPI
 Thaumic Tinkerer v2.3-137
 Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.2
-Tinker's Construct v1.5.4
+Tinker's Construct v1.5.5.4
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.1.0-44
+TPPITweaks v1.1.0-45
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74

@@ -58,6 +58,8 @@ Mod Changes:~
 ~~~
 - Updated  EnderIO to 1.0.1.353. Fixing crashes and FPS drops. Also out of beta!~
 ~
+- Updated ExtraCells to 1.6.8f, Many bugfixes, including the dupe bug with railcraft tanks.~
+~~~
 - Updated Factorization to 0.8.34. Modified pressurizer (now called Pressure Generator) a bit, added some documentation and fixed some bugs.~
 ~~~
 - Updated ForbiddenMagic to pr0.333. Added netherstar block, lord of hellfire research, livingwood wand (botania), manasteel (botania), blood staff, transcendent blood orb, enternal enchantment. Restructured Thaumonomicon entries.~
@@ -91,8 +93,10 @@ Mod Changes:~
 - Updated Steves Factory Manager to A83. Added some user preferences in the Machine Inventory Manager. Added the sign updater. Fixed several bugs.~
 ~~~
 - Updated Thaumic Reliquary to 1.1.1.TPPI.  Added option to config file regarding Tome of Alkahestry, and changed lilypad of fertility recipe to be more in line with older version.~
+~~~
+- Updated Tinker's Construct to 1.5.5.4, Fixes dupe bug with Crafting Station (officially) and other bugs. Final 1.6 version~
 ~
-- Updated TPPI Tweaks to 1.0.0-44.~
+- Updated TPPI Tweaks to 1.0.0-45.~
 ~~~
 TPPIv1.0.2PreRelease~
 - Yay, more fixes \o/~
