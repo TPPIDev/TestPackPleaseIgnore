@@ -1,0 +1,1030 @@
+**This is the file of supported mods and the info to go along with them**
+**To add a mod to the file, type >ModCommandName, ModProperName<**
+**The ModCommandName cannot have spaces, and will be used to call the mod's info command.**
+**The ModProperName can have spaces - this is the "real name" of the mod, to be used in its guidebook title.**
+**Example: >ThermalExpansion, Thermal Expansion 3<**
+**After that, type any info about the mod. Mod information is naturally separated by the names of mods (inside ><)**
+**To just specify a link, use <> (ex. <http://google.com>) and this will be put into the chat instead of a book**
+**You CANNOT have a mod's documentation be both a book and a link, due to current limitations of the mod**
+**That means, for mods where you want to link to a wiki, the link should be all that's there under it in this**
+**documentation file.**
+**The code will interpret "~~~" as a page break, and format the book accordingly**
+**In addition, adding a "~" to the end of a line will add a line break**
+**Two asterisks at the beginning of a line is a comment**
+**Three asterisks and a number will skip that amount of lines following**
+
+
+**Linked means there is a link to the wiki/website, but I (gr8pefish) still want to document it in-game if I have time**
+**Incomplete means there is some documentation, but not as much as I would like**
+**If you alter this code please update this to-do. Or if you are working on one, put your name next to it. Thanks!**
+**TO DO:**
+**additional builcraft objects**
+**applied energistics [Linked]**
+**bibliocraft [Linked]**
+**big reactors [Linked]**
+**blood magic [Linked]**
+**buildcraft [Incomplete]**
+**computercraft [Linked]**
+**engineers toolbox [Linked]**
+**extra cells [Linked]**
+**extra bees**
+**extra trees**
+**factorization [Linked]**
+**forestry-machines [Linked]**
+**forestry-bees [Linked]**
+**forestry-trees [Linked]**
+**gregtech? [linked] (Maybe just a basics guide?)**
+**hardcore ender expansion [Linked]**
+**industrial craft [Burn477?] (posted in r/TPPI)**
+**logistics pipes [Linked]**
+**magical crops [Linked]**
+**mekanism [Linked]**
+**MFFS [Linked]**
+**MPS [Linked]**
+**MPSA [Linked]**
+**MystCraft-WritingAges [Linked]**
+**MystCraft-General [Linked]**
+**Nuclear control [Linked]**
+**Open blocks**
+**portal gun [Linked]**
+**project red [Linked]**
+**quarry plus**
+**railcraft-rails [Linked]**
+**railcraft-other [Linked]**
+**redstone arsenal [Incomplete]**
+**reliquary {Linked}**
+**steve's carts [Linked]**
+**steve's factory manager [Linked]**
+**thermal expansion (incomplete)**
+**twilight forest [Linked]**
+**witchery [Incomplete?]**
+
+
+***15
+Example:
+>ModName<
+This is some very useful info
+and I am typing it on multiple lines 
+to make this text file easier to read. 
+These lines don't have line breaks between them 
+in the book though because they don't end with "~".
+~~~
+Now I am on page 2~
+Now I am one line down~
+~
+Now I am after a blank line
+>ModName2<
+<http://google.com>
+
+**Begin line after asterisks**
+****************************************************************************
+**>AdditionalBuildcraftObjects, Additional Buildcraft Objects<**
+
+>AdvancedSolarPanels, Advanced Solar Panels<
+Advanced Solar Panels is an addon for Industrial Craft 2 (IC2). It only adds a couple of blocks, and they are mostly 
+solar panels that deliver high output for a very high initial material cost.~
+~
+The advanced solar panel generates 8 eu/t in daytime, 1 eu/t at night~
+The hybrid solar panel generates 64 eu/t in daytime, 8 eu/t at night~
+The ultimate hybrid solar panel generates 512 eu/t in daytime, 64 eu/t at night~
+~
+The mollecular assembler converts items into better versions of themselves for a high energy cost. For example, 1 Glowstone 
+becomes 1 Sunnarium (needed for the ultimate hybrid solar panel) with the input of 9,000,000 EU. THis machine can accept 
+any amount of energy, and any number of packets of energy (i.e. It won't explode).
+
+>AppliedEnergistics, Applied Energistics<
+<http://ae-mod.info/>
+
+>ArsMagica, Ars Magica 2<
+Ars Magica 2 is a magical mod with RPG elements. Think mana, spellcasting, levelling up, and fighting fearsome enemies!~
+~
+It's worth noting that, due to our having had to disable Dryads in TPPI, Nature Guardians must be summoned from their spawn eggs, which we've added a crafting recipe for.
+~~~
+Other than that, check out the mod's own in-game guide!~
+~
+To get it, craft an Item Frame and
+a normal Book, and get exploring!~
+~
+You'll have to find liquid Essence; a cyan liquid found in pools in forests and similar biomes.~
+~~~
+Once you've found an essence pool, place the Item Frame so that it is directly above
+the pool of Essence, and place the Book inside the Item Frame.~
+~
+After some flashes and sparkles, your guidebook will be ready!
+~~~
+If you find the book confusing, the first things you should craft to unlock the rest of the mod would be the
+oculus, inscription table, and crafting alter, respectively.~
+~
+After doing that, the rest of the mod is yours to explore!
+
+
+>BiblioCraft, BiblioCraft<
+<http://www.bibliocraftmod.com/?page_id=55>
+**Will document fully when I have time**
+
+>BigReactors, Big Reactors<
+<http://wiki.technicpack.net/Big_Reactors>
+
+>BiomesOPlenty, Biomes O Plenty<
+Biomes O' Plenty (BOP) adds a large number of biomes to the world generation. It is also highly configurable; you can adjust which 
+biomes appear as well as adjust the landmass perecentage, village rarity and more.~
+~
+BOP also adds another Dimension, called "The Promised Land," which can be found by combining end stone and various ores 
+found in differnt biomes. The gems and their biome locations are as follows:~
+~
+Emerald: Forest/Mountain type biomes~
+Ruby: Desert type biomes~
+Peridot: Grassland type biomes~
+Topaz: Jungle/Tropical type biomes~
+Tanzanite: Snow type biomes~
+Apatite: Swamp type biomes
+
+
+>BloodMagic, Blood Magic<
+<http://www.minecraftforum.net/topic/1899223-164-162-blood-magic-v072a-updated-jan-14/>
+
+**Split into silicon, transport, etc?
+>Buildcraft, Buildcraft 4<
+Buildcraft adds a load of cool ways to automate crafting, processing, and mining.~
+~
+This mod adds "engines" which are ways to produce MJ. You can also use Thermal Expansion's dynamos,
+but you must have an energy conduit between the dynamo and the machine.~
+~
+There are many different machines, for instance, the quarry. The quarry is an semi-automatic way to mine. You can use
+landmarks to set the size of the quarry, but keep in mind 64x64 is the maximum size. Apply a redstone signal to landmarks
+to see a red line extending for 64 blocks. The automatic crafting table crafts stuff, automatically! Totally unexpected!
+~
+You can also use pipes to transport items, for instance you can make a automated smelter. If you want to learn better,
+just start practicing and you'll get the hang of it, or you can watch a mod spotlight.
+~
+
+>BuildcraftAddon, Buildcraft Addon<
+Buildcraft Addon adds only 3 items.~
+~
+The stair placer places stairs from your inventory into the world, similiar to the Builder's wand from Extra Utilities, 
+except this only works with stairs.~
+~
+The color selector and color sorter act as an addition to buildcraft transport's item coloring system. It acts as an improved 
+lazuli transport pipe in that it will color items to be sorted by the dazuli transport pipe. The color selector allows the user 
+to set multiple ghost items in it's GUI (accessed by right clicking) and then select the color the items will be colored to. 
+It requires a small amount of power to operate. It is very similar to Red Power 2's sorter.~
+The color selector lets you easily color a pipe as well. Right click it (while not pointing at anything) to open the GUI.
+
+>CarpentersBlocks, Carpenter's Blocks<
+Carpenter's Blocks adds wooden frames of vanilla items that can be textured with other blocks to change the appearance.~
+~
+This mod is mainly used for aesthetic purposes.~
+~
+There are two tools in addition to the blocks added, the "Carpenter's Hammer" and the "Carpenter's Chisel". These are used 
+to alter the carpenter's blocks.
+~~~
+Basics~
+~
+Once a Carpenter's block is placed in the world, right-click it with any full-size block (except TileEntities: chests, 
+machines, etc.) If the block is compatible, it will take on the appearance of the placed block and also any properties 
+of it (fire-resistance, explosion-resistance, etc.) To remove the block used for texturing shift left-click with the 
+carpenter's hammer. To alter the appearance further left/right click with the chisel to cycle through additional 
+patterns.~
+~
+In general, left-clicking a carpenter's block with the hammer will re-orient it (turn it left/right) while right-clicking 
+will change the block (ex: stairs -> corner stairs -> upside-down stairs -> etc.) 
+~~~
+Additionally, once a carpenter's block has an overlayed appearance another block can be placed on any side to create a 
+cover on the block. These can be altered indepently of the main block.~
+~
+Some items can be used as overlays even though they are not full blocks. These include: seeds, snowballs, vines, string, 
+wheat and mushrooms.~
+~
+All 16 dyes can be used to color a carpenter's blocks. This affects existing overlays, so placing dirt on a carpenter's 
+block and then putting purple dye on that will yield purple dirt! Also, the "chisel" mod plays nicely with this mod, so 
+many overlays are possible with that in mind.~
+~
+Since there are only a handful of blocks the following pages will describe the specifics on each block if special features 
+exist.
+~~~
+Carpenter's Block~
+~
+Left/Right click with the hammer to change the block into a slab. The direction you hit the block changes the orientation 
+of the slab.
+~~~
+Carpenter's Slope~
+~
+This block is amazing. Remember that right clicking with a hammer will change the block (It has many options, try them out!) 
+while left-clicking will re-orient the block.
+~~~
+Carpenter's Door/Hatch~
+~
+Right clicking with the hammer will change the appearance while left-clicking will make the door/hatch open to either the right 
+or the left (or in the hatch's case the top or the bottom as well). Shift right-clicking will make it behave like either 
+an iron door or a wooden door (default). Also, if you have two carpenter's doors side by side, opening/closing one will 
+make both open/close!
+~~~
+Carpenter's Bed~
+~
+Right/Left clicking with the hammer will change the appearance of the bed-sheets/pillow to a few built in patterns. You can 
+still texture the frame of the bed (note it is two blocks so you will need two dye). Shift right-clicking will restore 
+the bed's pattern to default.
+~~~
+Carpenter's Button/Lever/Pressure Plate~
+~
+Left clicking with the hammer will invert the redstone output. For the pressure plate right clicking with the hammer will 
+cycle through triggers so that the pressure plate will only be activated by mobs, animals, players, or everyone.
+~~~
+Carpenter's Collapsible Block~
+~
+This block is affected by left clicking any corner of the block with the hammer, as the corner selected will depress by 
+one pixel (to a maximum of only one pixel left). Right-clicking raises it by one pixel. Only the top of the block will 
+compress this way, trying to make a roof out of these blocks is not a good idea.
+~~~
+Carpenter's Barrier/Gate~
+~
+Right clicking with the hammer will rotate between a few textures. Shift right clicking while on the default fence will 
+alter the size of the gap in the fence by one pixel.
+~~~
+Carpenter's Daylight Sensor~
+~
+Left clicking with a hammer will invert the redstone output. Left clicking will cycle between activating for sunset/sunrise 
+or when light levels are low enough for monsters to spawn.
+~~~
+Carpenter's Ladder~
+~
+The only thing special about this block is that it can be free-floating (It acts as it's own block and doesn't have to 
+be placed on a wall).
+~~~
+Carpenter's Safe~
+~
+Similar to the strongbox from Thermal Expansion, this item is linked to the user. Sneak right click with the hammer to  
+lock/unlock the safe so others can access it. Right click with the hammer to change automation rules (extraction is 
+allowed, not allowed, etc.)~
+~
+The green/red light indicates if the safe is unlocked/locked respectively. The blue bar indicates how full the safe is. 
+Holding a gold ingot and right clicking on the safe will upgrade it to 54 slots (double chest's worth). The only way 
+to get the gold back is to break the safe.
+~~~
+Carpenter's Flower Pot~
+~
+Right click with some soil (dirt) to place it in the pot and allow plants to be placed in it. Covers are supprted, but so 
+are built in patterns (although not both simultaneously). Left/Right click with the hammer to cycle through the patterns. 
+Sneak right click with the hammer to reset it to default.~
+~
+Most plants can be planted in this flower pot, you are no longer limited to flowers and cacti. Sneak left click with the 
+hammer to remove the plant and sneak right click to remove the cover.
+
+
+>Chisel, Chisel<
+Chisel is a mod that adds decorative blocks to minecraft. It modifies existing blocks by use of a chisel to create 
+aesthetic blocks similar to the original one.~
+~
+Chisel adds two blocks to world-generation, marble and limestone. They are purely for looks.~ 
+~
+To get started first craft a chisel with two sticks and an iron ingot (diagonally in a crafting table). There are two ways 
+to use it, either in-world or in a crafting GUI.
+~~~
+To bring up the GUI, right click the chisel while it is in you hotbar. Here you can place the block to modify 
+in the center. Try it out with cobblestone, stone, dirt or something else that you have on hand. You will notice that 
+blocks appear on the blank slots to the sides. To chisel the block in the center simply left click on the desired block 
+that appears on the sides.~ 
+~
+You can hover over the chiseled blocks to get a more detailed description of each one. Some blocks even have connected 
+textures! It should also be noted that if you have 32 blocks in the center and you choose a chiseled block all 32 will be 
+transformed! However, you can chisel an already chiseled block and most chisel recipes will let you use this mechanism to 
+get the vanilla item back from an existing chiseled block.~
+~~~
+To chisel a block in-game simply left click the block to be altered. Keep left-clicking on the block to cycle through 
+the available options. NOTE: THIS IS CURRENTLY BUGGED, IT WILL CREATE AN INVISIBLE BLOCK. IT IS RECCOMENDED YOU USE THE 
+GUI METHOD INSTEAD.~
+~
+There are also some special items that chisel adds:~
+The "Ball O' Moss" creates an Area of effect "explosion" that changes nearbly blocks into mossy versions of them.~
+The "Cloud in a bottle" will spawn a cloud when thrown/broken.~ 
+~
+Finally, there are additional chisel-able blocks that this mod adds. They can be found in NEI. 
+
+
+>ComputerCraft, ComputerCraft<
+<http://computercraft.info/wiki/Getting_Started>
+**People looking at this book will mostly be new to CC so a link gives them other resources to learning Lua**
+**Even though in-game documentation is better, in this case I think they will use the internet anyway**
+**Feel free to document it anyway if you have time/want to though!**
+
+>DamageIndicators, Damge Indicators<
+Damage indicators is a small mod that adds a HUD displaying the health of the entity the player is looking at.~
+~
+Additionally, you can adjust the settings by pressing "."
+
+
+>DartCraft, DartCraft<
+To get started in Dartcraft you must first find some power ore. It glows bright yellow and is found deep in the earth (or 
+in the Nether). Use it, alongside some ingots to craft a force ingot and a force nugget. Then craft these along with a stick 
+in a diagonal to gain a force rod. Right click a bookcase with the force rod to recieve the Book of Mudora, which will have 
+information on all things Dartcraft.
+
+>DimensionalAnchors, Dimensional Anchors<
+This mod adds in only one block, the dimesional anchor. This block loads chunks (16x16 squares) for the player in order 
+to make automation possible even if the player is absent.~
+~
+To open the GUI right click the block. The red arrow will decrease the number of loaded chunks while the green arrow will
+increase them.
+
+>EmasherResource, Emashers Resource<
+Emasher Resource adds various ores and items to the game. It is meant to be an inclusion to the mod Engineer's Toolbox.
+Emasher Resource includes algae, hemp, limestone, red sandstone, and emery ore.~
+~
+Algae can be harvested by hand and when "planted" in water it will spead to every nearby water source block. It can also
+be harvested and burned in a photobioreactor to create hydrogen to be burned as an energy source.~
+~
+Hemp can be used for armor, string, paper, cactus green, and hemp seeds. The seeds can be crafted into hemp seed oil
+which can be used as a fuel.~
+~
+Limestone can be used to make quicklime which is used in Engineer's Toolbox's ore processing.~
+~
+Emery ore is simply used to make the grinder (Engineer's Toolbox). It is about as rare as diamonds.~
+~
+Red Sandstone is aesthetic?
+
+>EnderIO, EnderIO<
+Ender IO adds compact liquid conduits, energy conduits and redstone conduits, power generation, machinery, remote area 
+access, and more. This mod is similar to Thermal Expansion; it supports RF and MJ.~
+~~~
+Machines~
+~
+All Machines consume power (MJ, the bar on the left side of the GUI) and can be upgraded with capacitors to increase their 
+energy storage (and their speed/energy consumption)~
+~
+SAG Mill~
+This item acts as a pulverizer/macerator, grinding ores into dusts to increase output.~
+~
+Alloy Smelter~
+This item acts as both a normal smelter (smelting 3 items at once) as well as an alloy smelter to make special alloys for 
+Ender IO.~
+~
+Painting Machine~
+This item can texture either fused quartz frames or conduit facade with an overlaying block's texture. Place the block with 
+the desired texture in the left hand slot and the frame/facade in the right hand slot.
+~~~
+Energy and Conduits~
+~
+Generators~
+~
+Stirling Generator~
+Your basic generator, burning items such as coal to create power. 10 RF/t.~
+~
+Photovoltaic Cell~
+A solar panel. It produces 10 RF/t in sunlight.~
+~~~
+Power Storage/Information~
+~
+Power Monitor~
+This item allows you to monitor the power of all items connected to your Ender IO power grid and it's peripherals (ex: TE machines). 
+This block has two tabs. One displays information about the network while the other tab is for restone engine control.~
+~
+Capacitor Bank~
+This blcok acts as a scalable power storage option (it can become a multi-block). Each block added to the structure will 
+add it's power storage and at 2, 4, and 8 blocks the power output flow rate will increase.
+~~~
+Conduits~
+~
+All the conduits can exist in the same block as another Ender IO conduit(s), allowing for some very compact setups. In 
+addition, they can be covered with a painted conduit facade to cover them up. Holding a conduit or a Yeta Wrench will 
+render the conduit facades invisible, allowing you to easily find your conduits.~
+~
+The liquid conduit transfers fluids. The rate of transfer is dependent on the fluid.~
+The redstone conduit transmits a redstine signal. A lever/button can be attached to it or a conduit switch can be used. 
+To active the conduit switch right clicj one of the small squares on the end of the conduit.~
+The energy conduits transfer energy at varying capacities.~
+The item conduits tranfer items; the empowered conduit has more filtering options.~
+~
+Both the item and liquid conduits have a GUI which can be accessed by right clicking the square that appears when the condit 
+connects to an inventory. This can be used to set insert/extraction modes. ALternatively a yeta wrench can be used to control 
+the output mode without entering the GUI.
+~~~
+The Dimensional Transceiver~
+~
+This item acts as a tessaract, with the ability to transfer liquids, items, and power across dimensions through a single 
+block (to another transceiver on the same frequency). It has frequency settings in the GUI and will automatically output 
+energy/items to adjacent conduits/inventories.
+~~~
+Tools~
+~
+Power Probe~
+This item will give information about a machine or even a network when right clicked on a machine. It is similar to a 
+portable power monitor.~
+~
+Yeta Wrench~
+This item acts as a wrench, meaning it can pick up machines (except IC2 machines) by shift right clicking the machine. 
+It also can see through facades, and only certain facades, the filter is indicated in the bottom left hand corner of the 
+screen and can be altered by shift right clicking while not aiming at a machine.~
+~~~
+Other~
+~
+Reservoir~
+This item, when built in a 2x2x1 square, will act as an infinite water source, much like in vanilla minecraft. The reservoir 
+can also auto-eject if right clicked with a wrench.~
+~
+Powered Light~
+This item will emit light but will require .1 Mj/t (or 1 Rf/t) to operate. It must be turned on with a redstone signal.~
+~
+Fused Quartz~
+This item acts as aesthetic glass with connected textures. The frame can also be painted by right clicking with a painted 
+fuzed quartz frame.
+
+
+>EnderProspecting, Ender Prospecting<
+Ender Prospecting adds a couple items to assist with manual mining. They are the Eye of Prospecting, the Talisman  
+of Prospecting, and the Totem of Prospecting.~
+~
+The Eye of prospecting can be crafted alongside any ore and will then be "tuned" to this ore. The next time you right 
+click the eye it will fly away from you, much liek an eye of ender, except it will fly toward the tuned ore. It will 
+then break, this item is one-time-use.~
+~
+The (Base) Talisman of Prospecting can be crafted with 5 tuned eyes to yield a tuned Talisman. It acts similarly to the 
+Eye, except it is reusable and has a smaller range. Every time the Talisman is right clicked it will indicate a direction 
+that the tuned or is.~
+~
+The Totem of Prospecting can be crafted/tuned similarly to the Talisman. It doesn't require being right clicked, but it 
+has an even smaller range and doesn't indicate a direction, only that the ore is in close proximity.
+
+
+>EnderStorage, Ender Storage<
+Ender Storage adds the Ender chest, the ender tank and the ender pouch. Each chest/pounch and tank will link to each other
+assuming they are on the same "frequency" (indicated by the wool pads on top). The pads can be colored with each dye,
+either in-game by clicking on the pads with a dye in hand, or by crafting the item below the dye frequency in a crafting
+table.~
+~
+Ender pouches are merely a portable form of ender chests and can be linked to ender chests if they share the same frequency. 
+If you lose an ender item with item(s)/liquid(s) stored in it, they will remain stored in the chest with the frequency
+they were stored in.~
+~
+If you place a diamond in the latch of an ender chest it will become linked to the player that placed the placed the 
+diamond, meaning that each player in a SMP server can have access to all 4096 frequencies.
+
+
+>EngineersToolbox, Engineer's Toolbox<
+<http://emashersmods.wikispaces.com/Socket+Basics>
+
+**>ExtraBees, Extra Bees<**
+
+>ExtraCells, Extra Cells<
+<https://github.com/M3gaFr3ak/ExtraCells/wiki>
+
+**>ExtraTrees, Extra Trees<**
+
+>ExtraUtilities, Extra Utilities<
+Extra Utilities adds a bunch of useful blocks. It even adds it's own in game-documentation! Simply press use ("u") while 
+in NEI while hovering over an extra utilities block to see a description of the block.
+
+>Factorization, Factorization<
+<http://www.minecraftforum.net/topic/1351802-164-factorization-0829/>
+
+>FlatSigns, FlatSigns<
+Flat signs alters existing signs in Minecraft by allowing flat versions of signs to be placed on the floor or the ceiling 
+by shift right clicking a sign on the floor/ceiling.~
+~
+It also allows for signs to be edited by using a sponge or the more durable sponge wipe. To craft a sponge just throw yellow 
+wool into water or on the ground while it is raining.
+
+>Forestry-Machines, Forestry-Machines<
+<http://forestry.sengir.net/wiki.new/doku.php>
+
+>Forestry-Bees, Forestry-Bees<
+<http://forestry.sengir.net/wiki.new/doku.php?id=bees:intro>
+
+>Forestry-Trees, Forestry-Trees<
+<http://forestry.sengir.net/wiki.new/doku.php?id=trees:intro>
+
+>Gendustry, Gendustry<
+Gendustry is a mod that acts as an add-on for Forestry's bee and tree (and butterfly) breeding systems. It adds a number 
+of blocks that will be discussed on the following page(s).~
+~
+Each block can accept EU, MJ, or RF. All blocks can input/output from any side.
+~~~
+The Industrial Apiary~
+~
+This block requires 2 MJ/t to operate, has 4 slots for upgrades (but doesn't support frames), and also doesn't have the 
+90% production reduction of normal apiaries.~
+~
+The gague on the left is for power storage. The left slots are for a Queen/Princess and Drones, the middle 4 slots are for 
+upgrades, and the right 9 slots are for products and offspring.~
+~
+You can hover over the status icon (in the top right) to see more information about the block.~
+~
+Bees can be inserted and products can be extracted from any side. Upgrades cannot be automated, but the automation upgrade 
+will automatically move offspring back into the left slot to continue breeding~
+~
+The upgrades for gendustry are described by hovering over them in NEI.
+~~~
+The Mutagen Producer~
+~
+This item will convert solid items into Mutagen (a liquid used to mutate bees/trees in the Mutatron).~
+~
+Items can be inserted into any side, and liquids will be automatically ejected to any adjacent pipe or tank.~
+~
+The items that are used as valid fuel sources are, in decreasing order of effectiveness, uranium, glowstone, and then 
+redstone. CLick on the recipes bar in the machine to see the detailed values for each item (power needed, mutagen produced).
+~~~
+The Mutatron/Advanced Mutatron~
+~
+The Muatron consumes Mutagen to force mutations. It requires 1 bucket of mutagen (1000mb), 20,000 MJ per operation, and 
+a labware.~
+~
+The gauges on the left are for internal power and mutagen storage. For bees, princesses go in the top slot and 
+drones go in the bottom slot. For trees, saplings go in the top slot and pollen goes in the bottom slot. If a bee is 
+being mutated, the resulting bee will be a pure-bred bee. Ignoble bees have a 10% chance of not surviving the process.~
+~
+Bees and labware can be inserted from any side and results can be extracted from any side.~
+~
+The advanced mutatron allows a selection of mutation if there are multiple possible results. It can work twice as fast if 
+the energy supply is adequate.
+~~~
+The Genetic Sampler/Imprinter~
+~
+Takes genetic samples from Bees, Trees, or even Butterflies, randomly selecting one genetic trait from the input and killing 
+the sampled creature in the process. It can also convert Extra-Bees serums into gendustry samples~
+~
+It consumes labware (top right) and blank samples (top left), as well as 20,000 MJ per operation.~
+~
+To use the samples, craft them with a template (shapeless receipe, any number of samples can be added at once). Every chromosome 
+(ex: fertility, species, etc.) can only be added once to a template, any additions will overwrite previous samples. All 
+samples must belong to the same species (ex: no using tree species on a bee). Unneeded templates/samples can be cleaned 
+by applying heat (ex: putting them in a furnace).~
+~
+The implanter replaces the traits of the input bee with the traits on the template (top left slot).~
+~
+It 80,000 MJ and a labware (top right slot) per operation. The template will not be consumed (or altered). Ignoble bees 
+have a 10% chance to not survive the process.~
+~
+The template can be removed form any side, but only when no imprinting is ongoing and the input slot is empty.
+~~~
+The Industrial Grafter~
+~
+Acts as a powered Forestry grafter, that is very fast but also comsumes a lot of power.~
+~
+It can be charged in any machine that will charge MJ, RF, or tier 2 or higher EU (ex: capacitor bank, energetic infuser,
+MFE).
+
+
+>GregTech, GregTech<
+<gregtechcommunitywiki.wikispaces.com>
+**GregTech is far, far too complex for Minecraft's Written Book format.**
+**I think the only way to provide support for that mod is either a wiki link**
+**Or a book format resembling Thaumcraft's or RotaryCraft's.**
+
+>GraviSuite, Gravitation Suite<
+Gravitation Suite (Gravi Suite) is an addon for IC2 which adds very expenive, but powerful, EU-powered items. It adds both 
+tools and armor.
+~~~
+Armor~
+~
+The Gravi-Chest Plate~
+~
+This item contains all of the functionality of the quantum chest plate as well as additional fucntions. It 
+provides creative mode flight and the ability to charge any EU items in your inventory. To toggle on/off flight, press 'f'. 
+To toggle on/off boost mode press 'ctrl'. This item also has 'hover mode'. This will allow you to fly much faster at an increased energy cost. The Gravi 
+Chest Plate can be charged in a MFSU or higher tier EU storage.~
+~
+Advanced Elextric Jetpack~
+~
+This item combines the electric jetpack and the advanced lappack. This item also has boost mode, hover mode, and, 
+obvioulsy, flight, as well as 1,000,00 EU energy storage.~
+~
+The Ultimate Solar Helmet~
+~
+This combines the ultimate hybrid solar panel from advanced solar panels with the quantum helmet to charge your armor at 512 EU/t 
+while still retaining the functionality of the quantum helmet.~
+~
+The Ultimate lappack~
+~
+This item holds 10,000,000 EU.
+~~~
+Tools~
+~
+The tools can all be charged in a MFE or higher.~
+~
+The Vajra~
+~
+Thsi item can break any block (including bedrock) in one hit, even when flying or swimming, but it costs a very, very large 
+amount of EU per block broken~
+~
+Advanced Drill~
+Thsi drill is 35% faster than the diamond drill but it consumes significantly more power.~
+~
+Advanced Chainsaw~
+This chainsaw has a higher damage (12) than the normal chinsaw and it also operates 35% faster.
+
+>HardcoreEnderExpansion, Hardcore Ender Expansion<
+<http://hardcore-ender-expansion.wikia.com/wiki/Home>
+
+>ImmibisMicroblocks, Immibis Microblocks<
+Immibis Microblocks (along with Forge Multipart) creates the ability to cut down blocks into parts. This allows multiple 
+parts of blocks to exist in the same 1-block space, which wouldn't otherwise be possible. For example, torches are now 
+multiparts and so 2 of them can exist on the same intersection of a two walls. As another example, Thermal Expansion 
+pipes/conduits are multiparts, so a cover can be placed on them to "hide" the wiring while still retaining the 
+aesthetics of your house.~
+~
+To create multiparts simply craft a saw and then follow the NEI instructions to creaft your desired shape/size!~
+~
+Note: A large number of microblocks may cause lag. As long as you don't go beserk with them you should be fine though.
+
+
+**>IndustrialCraft, IndustrialCraft (Experimental)<**
+**Someone in the thread (Burn447) mentioned he was working on this**
+
+>Infinibows, Infinibows<
+Infinibows is a small mod that just removes the need to have an arrow in your inventory to shoot a bow with the infinity 
+enchant.
+
+>LogisticsPipes, Logistics Pipes<
+<http://rs485.thezorro266.com/wiki/Main_Page>
+
+>MagicalCrops, Magical Crops<
+<http://magicalcrops.weebly.com/>
+
+>MagicBees, Magic Bees<
+Magic bees is an addon for the Forestry bee-breeding system that also utilizes Thaumcraft. As a result, all of the information 
+for this mod can be found under the Magic Bees tab in the Thaumonomicon. If you are confused about bees in general, please 
+consult the "Forestry-Bees" book.
+
+>Mekanism, Mekanism<
+<http://mekanism.wikispaces.com/>
+
+>MFFS, Modular ForceField Systems<
+<http://calclavia.com/mffs/documentation/>
+
+>MFR, MineFactory Reloaded<
+MineFactory Reloaded is a vast mod, comprising many useful 
+machines and automation devices.  From conveyor belts to tree farms, 
+there is something in MFR for everybody.~
+~
+To get started, most of the MFR machines require rubber.  Rubber trees are 
+generated throughout the landscape.  Break the wood to acquire the flexible 
+material, then smelt it into rubber bars, and then again into raw plastic.  
+This plastic can then be crafted into sheets of plastic, which are the foundation 
+for most of the machines.
+~
+Authors: Powercrystals, skyboy026
+
+>ModularPowersuits, Modular Powersuits<
+<http://machinemuse.net/index.php>
+
+>Morph, Morph<
+Morph is a mod that allows you to take on the characteristics (shape/size/ability(s)) of any creature you kill (except 
+bosses, although that is a config option).~
+~
+The flight ability is not able to be used until you reach the Nether, and do note that you will lose your morphs on death.~
+~
+To access your morphs, press "[" or "]", and then scroll down. Press "Enter" to select your morph.~
+~
+Morph also has a wheel for your favorite morphs, accessed by pressing "~"/"`". To add a morph to your favorites, press 
+the same key, "~", while selecting the desired morph in the menu.
+
+>MPSA, Modular Powersuits Addons<
+<http://www.minecraftforum.net/topic/1901818-152-modular-powersuits-addons-mpsa-requires-modular-powersuits/>
+
+>MystCraft-WritingAges, MystCraft-Writing<
+<http://binarymage.com/wiki/doku.php?id=writing:writing>
+
+>MystCraft-General, MystCraft-General<**
+<http://binarymage.com/wiki/doku.php?id=start>
+
+>Natura, Natura<
+Natura adds world-generation, mainly in the form of some additional trees and some new blocks.~ 
+~
+The most notable are the berry bushes. These are found in the wild and will grow up and out and will produce berries 
+that can be harvested by right clicking on the bush. The berries don't fill your hunger very much, but they will 
+increase your saturation (a hidden value that determines when you will become hungry again), and you can even eat the 
+berries when full to max out your saturation.~
+~
+This mod also adds in generation to the Nether, allowing you to make bows that have a higher durability than vanilla ones.~
+~
+This mod also adds in cotton plants. These will grow until white balls appear on the plant, then can be harvested and will 
+revert to an earlier stage of growth rather than having to be replanted.~
+Finally, wheat/barley (wild form of wheat) can be crafted shapelessly into flour, which can then be smelted into bread.
+
+>NEI, Not Enough Items<
+Not Enough Items (or NEI for short) adds the menu you see on your screen when opening your (or any) inventory. It is primarilly 
+used to show how to craft items and what items are used for. It can be disabled/hidden by pressing "o".~
+~
+To use NEI, hover over an item in the menu and press "r" for recipe to bring up how to make that item or press "u" for 
+use or what that item is used for. You will notice you also have a search bar on the bottom slot of your screen. This 
+can be used to limit the results shown on the right hand side tab. Double clicking the search bar will highlight results 
+that match whatever is typed into the search bar. Double clicking it agin will reset it.~
+~
+The left hand side of your screen contains saves, you can store your inventory in this save, and then loading it will 
+replace your inventory with the saved one (if cheat mode is enabled). In the top left you will see many options. Most 
+are self-explanatory, but the one you will likely use the most is next to the magnet; it will change your game mode.~
+~~~
+Options/NEI Modes~
+~
+At the bottom left you will see "options". Clicking on that will bring you to another menu screen. The most useful one 
+is the topmost one, "Inventory". There you can change between "recipe mode", "cheat mode", and "utility mode". Utility 
+mode will let you use the utilities in-game. Recipe mode will, when you left click an item on the main NEI panel, do the 
+same thing as pressing "r", while right clicking will do the same thing as pressing "u". Cheat mode will allow you to 
+obtain any number of items from the main NEI panel by clicking on them. Left clicking will give you 64 (a stack) of items, 
+while right clicking will give you one of the selected item. While in cheat mode you can drag items to the right hand 
+panel to delete them.
+~~~
+Tips/Tricks~
+~
+Type in "@modnamehere" to see all the items from a specific mod.~
+You can right click the search bar to instantly clear it!!
+In any crafting inventory, left clicking on the little '?' will overlay ghost images on the crafting grid to make it easy 
+to see what components go where. Shift left clicking will, if you have the items in your inventory, automatically put them 
+in the crafting grid in the correct location(s).
+
+>NetherOres, Nether Ores<
+Nether ores adds ore generation to the Nether. These ores have a higher yield than their overworld counterparts, but 
+they also have a propesity to explode, so caution is necessary.
+
+>NotEnoughKeys, Not Enough Keys<
+This mod adds a key-binding menu so it is more simple to navigat through the mess of conflicting keybinds. To access it 
+simply go into options -> controls and then modify as you see fit.
+
+>NuclearControl, Nuclear Control<
+<http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915>
+
+>ObsidiPlates, Obsidian Pressure Plates<
+This mod adds a few pressure plates to the game.~
+~
+Obsidian Pressure Plates~ 
+Will only give off a redstone signal if a player is standing on them.~ 
+~
+Mossy Cobblestone Pressure Plates~ 
+Will only give off a signal if a NPC (ex: a villager) is standing on them.~ 
+~
+Both pressure plates can be silent (no clicking sound) and shrouded (see-through). It should be noted that to create a 
+silent and shrouded pressure plate you must apply silent first and then shrouded.
+
+**>OpenBlocks, OpenBlocks<**
+
+>OpenPeripheral, OpenPeripheral<
+Open peripheral is an addon for ComputerCraft. It allows you to wrap a variety of items as peripherals.~ 
+~
+To see if an item is a valid peripheral (and to get the commands for it) do the following:~ 
+"side" is the side of the computer that the item to be wrapped as a peripheral is located (ex: "left", "top", etc). 
+The side should be enclosed in quotation marks.~ 
+p = peripheral.wrap("side")~ 
+print (p.listMethods())~ 
+~
+There are also some items that this mod adds, explained in the following page(s).
+~~~
+PIM~
+This item allows you to access a player's inventory (if he/she) is standing on it.~
+~
+Sensor~
+This item allows you to scan the nearby area for information. Use listMethods() for more information.~
+~
+Peripheral Proxy~
+This item allows you to wrap certain items as peripherals through a modem. Make sure the arrows are facing the item to be 
+wrapped and the modem is on and is located on the back of the proxy.~
+~
+Ticket Machine~
+This item can be used to print out tickets for Railcraft.~
+~
+Terminal Glasses/Termianl Glasses Bridge~
+The glasses can be worn by a player and the information passed to the bridge will appear on the player's HUD.~
+~
+Duck Antenna~
+No idea :P
+
+>PluginsForForestry, Plugins for Forestry<
+Plugins for forestry adds compatability between forestry and other mods. It adds the ability to use sugar and cactus in 
+a coke oven (railcraft) to make sugar/coal charcoal/coke for power.
+
+>PortalGun, Portal Gun<
+<http://ichun.us/w/index.php?title=Portal_Gun>
+
+>ProjectRed, Project Red<
+<http://projectredwiki.com/wiki/Main_Page>
+
+**>QuarryPlus, Quarry Plus<**
+
+>Railcraft-Rails, Railcraft<
+<http://railcraft.wikispaces.com/>
+
+>Railcraft-Other, Railcraft-Other<
+<http://railcraft.wikispaces.com/>
+
+>RCDusts, RCDusts<
+This mod adds metal dusts and recipes to the Railcraft rock crusher to 
+make it a fully capable ore processing machine, as well as adding several 
+tweaks for compatibility and some useful dust and railcraft-related configuration options.
+
+>RedstoneArsenal, Redstone Arsenal<
+Redstone Arsenal adds tools and weaponry which harness the power of Redstone Flux, the 
+energy system added by Thermal Expansion.
+
+>Reliquary, Reliquary<
+<http://www.minecraftforum.net/topic/1596973-xenos-reliquary-v106d/>
+**Outdated source but I don't think a lot has changed, it was merely ported to 1.6**
+
+>RemoteIO, RemoteIO<
+Remote IO is a mod that allows you to link IO blocks to inventories, you are no longer limited to just 6 sides!~
+~
+For documentation on specific items simply craft the "Documentation Screen" and place any Remote IO item in the top 
+right hand slot to read a description on the block.
+
+>StevesCarts, Steve's Carts 2<
+<http://stevescarts2.wikispaces.com/>
+
+>StevesFactoryManager, Steve's Factory Manager<
+<http://stevesfactorymanager.wikispaces.com/>
+
+>Thaumcraft, Thaumcraft 4<
+Thaumcraft is a magical mod that requires you to "research" its items before you can craft them.~
+~
+There's all kinds of magical swag that you can build and play with, but it's probably best for you to 
+learn about it on your own.~
+~
+To get started, craft a iron capped wooden wand, 
+place a bookshelf on the ground, and right-click your wand on it.~
+~
+It should transform into a Thaumonomicon; the true guidebook for Thaumcraft!~
+~
+The only thing to know that is not documented in the book is that some research will be impossible, you can throw it 
+away and restart with newly generated research notes at any time though.
+ 
+>ThaumicTinkerer, Thaumic Tinkerer<
+Thaumic Tinkerer is an addon to Thaumcraft (a magical mod). All the information is documented in the Thaumonomicon.
+ 
+>ThermalExpansion, Thermal Expansion 3<
+Thermal Expansion (TE) is a "technology" mod that adds a power system called Redstone Flux (RF). 
+It has itemducts, fluiducts, and energy conduits for transporting items, liquids, and RF power 
+respectively, as well as a bunch of useful blocks for ore processing, automatic crafting, storage, and more.~
+~
+You can start generating RF power using the mod's dynamos and some energy conduits, with leadstone conduits being the 
+lowest tier. All TE conduits convert RF to MJ (Buildcraft energy) if needed. 
+You can rotate and pick up machines by right clicking and shift right clicking with a Crescent Hammer, 
+the mod's version of a wrench.~
+~~~
+All machines in the mod have their own configuration settings in their GUIs.~
+~
+The redstone behavior tab lets you choose how the machine will respond to redstone.~
+The configuration tab lets you choose where the machine will input and output its products, 
+be that energy, liquids, or power, on a per block face basis.~
+~
+Blue indicates an input on a given face, while orange indicates an output.~
+There are other colors used situationally depending on the machine. 
+For these, it's best to select that color in the configuration menu, then look 
+back at the main GUI of the machine.~
+The slot in the machine associated with that color will 
+be highlighted in that color. This should help indicate what that color's purpose is 
+for that particular machine.
+~
+
+>TinkersConstruct, Tinkers' Construct<
+Tinkers' Construct is a mod that lets you build custom tools out of 
+various materials, each with their own special properties.~
+~
+To get started with the basics, check out the book "Materials And You" that 
+you should have spawned with.
+~
+
+>TinkersMechworks, Tinkers' Mechworks<
+Tinker's Mechworks is an addon for Tinkers' Construct. It adds drawbridges, an igniter, and signal busses/terminals, all 
+of which are described on the following pages.
+~~~
+Drawbridge~
+~
+The drawbridge can extend and retract 15 blocks in the direction it is facing. It is activated with a redstone signal. 
+The left slot is for a block that "disguises" the drawbridge to make it look like the block in the left slot. 
+The right slot is for the blocks that are to be extended/retracted.~ 
+~
+The extended drawbridge can extend up to 64 blocks.~
+~
+The advanced drawbridge can extend more than one type of block, as each block is placed in the GUI.
+~~~
+Igniter~
+~
+The igniter will light the block in front of it on fire when given a redstoen signal and will extinguish the flame when 
+the resdtone signal is turned off.
+~~~
+Signal Bus/Terminal/Wire~
+~
+These items function as redstone that can travel through blocks. To get started, craft a spool of wire by surrounding a 
+stone tool rod with 8 lengths of wire in a crafting table. The spool of wire can be crafted with additional lengths of wire 
+(up to 8 at a time maximum) to give the length of wire more length. The damage bar underneath the length of wire visually 
+represents how much wire is left.~
+~
+The spool of wire (truly the wire itself) is used to connect signal terminals to signal busses and back to signal terminals. 
+To connect the two right click on the top red part of the terminal with the spool of wire and then right click on the 
+signal bus with the same spool of wire. If you have enough wire and the terminal and the bus are 15 or less blocks away 
+you should see a small red line connecting the two. If you move your cursor away from the spool of wire on your hotbar the 
+red line will dissapear visually. Now you can connect the second terminal to the bus, using the length of wire, to 
+complete the circuit.
+~~~
+Signal Bus/Terminal/Wire (continued)~
+~
+A redstone signal can be applied to the terminal (or the block the terminal is placed upon) and the redstone signal will 
+be transmitted to the terminal at the end of the wire. A terminal can connect to multiple busses but busses cannot connect 
+to other busses.~
+~
+Right clicking the white part of a signal terminal with an open hand will change the terminal's color. Only terminals of 
+the same color will send redstone signals.
+
+>TPPITweaks, TPPI Tweaks<
+TPPITweaks is the mod made especially for the TPPI Modpack, 
+which is the representative modpack for /r/feedthebeast.~
+~
+It contains many tweaks for mods to better improve balance, 
+and some helpful objects to better guide
+~~~
+the player in the modpack.~
+~
+Authors: wha-ha-ha, tterrag
+
+>Translocators, Translocators<
+The Translocators mod adds 2 items to the game, the translocators themselves and a crafting grid.~
+~
+Translocators allow for the movement of items through a 1-block space. More info is on the following page.~
+~
+The crafting grid can be accessed by pressing 'c' (configurable in keybinds) and will bring up a grid to place items in. 
+Right click to place/remove items and press 'c' again on the grid to craft the item(s).
+~~~
+Translocators can be placed on the side of an inventory/machine/tank. There are both item and liquid translocators.~
+~
+Right clicking on the protruding center of the translocator with an open hand will depress the center. Items/liquids will 
+always flow from the translocator with a protruding center to the translocator(s) with an inset center.~
+~
+Right clicking on the plate of the item translocator brings up a configurable filter.
+~~~
+Adding a diamond nugget (a diamond in a crafting table gives 9) puts a translocator in regulate mode. 
+In this mode it will maintain a certain amount of items set in the filter in the inventory it’s attached to. 
+On an inserting face, it will only accept items to fill the inventory to the matching filter. 
+On an ejecting face, it will eject any items that don’t match the filter.~
+~
+Adding glowstone to the plate makes it transfer stacks at a time. 
+Adding redstone lets you toggle input/output with a redstone signal.~
+~
+Adding an iron ingot makes the translocator emit redstone signals to the attached inventory on certain conditions. 
+On an inserting face, it will emit if there is no room for any item that matches the filter. 
+On an ejecting face, it will emit if there is no place where any item can be put that matches the filter.~
+~
+Shift-Right clicking on the plate will strip and drop all upgrades placed on the translocator.
+~~~
+Translocators will follow these rules:~
+~
+Items/liquids will always travel to non-redstone outputs if they can.~ 
+Items/Liquids will be evenly split between available outputs. Items will be taken from the slot with the largest quantity.
+
+>TwilightForest, Twilight Forest<
+<http://twilightforest.wikispaces.com/>
+
+>Waila, Waila<
+WAILA stands for "What Am I Looking At?" It introduces a HUD tooltip which indicates what block you are looking at. 
+It tells you the block name and what mod it is from.~
+~
+By adding the tooltip for the mod name in NEI you can now search "railcraft" instead of "@railcraft" to get the items 
+added by railcraft.~
+~
+It also adds some tooltip values for various items (ex: shows how much heat coal can produce in a firebox)~
+~
+There are also, by default, some (numpad) keybinds that can be used
+as well:~ 
+1: Toggles on and off the HUD~
+2: Toggles on and off showinq liquids~
+3: Shows the uses for the item slected (through NEI)~
+4: SHows how the item selected can be used (through NEI)~
+
+>Witchery, Witchery<
+Witchery is a magical mod. It has it's own in-game documentation. To access it, type "Witchcraft" into NEI and then 
+obtain the books shown. The first one you will want to get is "Herbology" and then "Collectign Fumes." From there on it 
+is self-explanatory.
+**<https://sites.google.com/site/witcherymod/>**
+
+>WRCBE, Wireless Redstone - CBE<
+At it's core Wireless Redstone ChickenBones Edition (WR-CBE) is a very simple mod; it allows you to wirelessly transmit 
+redstone signals. It even works across dimensions!~
+~
+For the items besides the wireless transmitter/receiver and the wireless remote I reccomend you check out ChickenBones' 
+Minecraft Forum page. He also describes SMP permissions commands on that post. However, The items stated above (the 
+only ones you will likely use) will be explained on the following page(s).
+~~~
+Wireless Transmitter/Receiver~
+~
+Right click on the block to open the inventory. You can set a frequency for the redstone signal to transmit/receive from. 
+You can also access the advanced tab from here.~
+~
+In the advanced tab you will notice that you can add/remove names whick you can link to certain frequencies. This makes it 
+simple to remember what your different frequencies do and it is easy to switch back and forth between them.~
+~
+On the right you will notice a GUI that says Phase shift and some arrows. This allows you to color some frequencies with 
+vanilla dyes. Note: This is purely for easy identification, it does not affect the technical properties!
+~~~
+Extra Info:~
+~
+The wireless remote is simply a portable wireless transmitter. It's gui can be opened by right-clicking.~
+~
+WR-CBE has ComputerCraft support. Wrap it as a peripheral and then use peripheral.getFreq(frequency) or 
+peripheral.setFreq(Frequency)
+
+
+>ZansMinimap, Zan's Minimap<
+Zan's Minimap (Voxel Map) provides the player with a convenient mini-map located in the top right hand corner of the 
+screen. It provides a variety of features.~
+~
+Adds an in-game waypoint system (that can show the location of your latest death).~
+~
+Adds a radar that can show a customizable number of mobs, animals, and players.~
+~
+The default key to access the menu is "M". There you can customize the look of your mini-map, configure the other keybinds 
+for the mod, change the radar/waypoints, and more.

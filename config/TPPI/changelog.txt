@@ -1,3 +1,103 @@
+TPPIv1.0.3PreRelease~
+Important Info:~
+- Config for Hardcore Ender Expansion was updated to match FTB universal configs. Blocks and items will disappear due to ID changes.  It is recommended that you generate a new End dimension.~
+~~~
+- Note: There will probably be more blocks disappearing NEXT update, when this pack gets released out of beta, due to merging with the very latest universal configs, which is necessary.~
+~~~
+- Enhanced Portals 3 has been removed. All items and blocks will disappear from your world.~
+~~~
+Adjustments/Changes:~
+- Added pestles, mortars and several blood magic items to the tool rack whitelist.~
+~
+- Altered cost of RF -> EU conversion when using adapter from Engineer's Toolbox from 4:1 to 12:1.~
+~~~
+- Disabled "Disarming" spell component from Ars Magica 2 to prevent exploits.~
+~
+- Added a LOT of recipes to the SAG Mill to increase its utility.  Check NEI to see all recipes added.~
+~~~
+- Changed some of the ServerTools commands to require Op access.~
+~
+- Enabled cooking aluminum in an industrial blast furnace.~
+~~~
+- Removed extra cyanite from processing yellorium ore in a SAG mill, due to turbine recipes.~
+~
+- Enabled mystcraft portals and book receptacles due to removal of Enhanced Portals from the pack.~
+~~~
+- Disabled Disarming ability on Mystcraft Link Panels to prevent exploits.~
+~
+- Explained to vanilla shovels how to dig snow properly.~
+~~~
+- Fixed issues with Infernal Mobs Tweaks. Blasted Kobolds...~
+~
+- Added blacklist to Dig component from Ars Magica 2, to prevent it from breaking blocks that don't agree with it.~
+~~~
+- Removed weak essence drops from harvesting magical crops by hand.~
+~
+- Added tainted soil to items that can go into the digger backpack~
+~~~
+- Added factorization machines and barrels to the cardboard box blacklist, due to cross-mod compatibility issues.~
+~
+- Disabled OpenBlocks block breaker due to duping exploits.~
+~
+- Disabled infinite glowstone easter egg.~
+~~~
+Mod Changes:~
+- Removed Enhanced Portals 3. You shall be missed.~
+~
+- Updated Advanced Genetics to 1.4.2. Mostly Bugfixes~
+~
+- Updated Blood Magic to v1.0.1b. Added Sigil of the Dome and two rituals.  Also bugfixes.~
+~~~
+- Updated Chisel to 1.5.2. Big thanks to Asie on this one. Fixed some dupe bugs.~
+~
+- Updated DartCraft to 0.2.18. Fixed several important bugs.~
+~~~
+- Updated Dimensional Anchors to 57.1.96. No changelog available.~
+~
+- Updated  ElectroMagicTools to 1.0.9e. Bugfixes, and made Mjolnir a bit less rare.~
+~~~
+- Updated  EnderIO to 1.0.1.353. Fixing crashes and FPS drops. Also out of beta!~
+~
+- Updated ExtraCells to 1.6.8f, Many bugfixes, including the dupe bug with railcraft tanks.~
+~~~
+- Updated Factorization to 0.8.34. Modified pressurizer (now called Pressure Generator) a bit, added some documentation and fixed some bugs.~
+~~~
+- Updated ForbiddenMagic to pr0.333. Added netherstar block, lord of hellfire research, livingwood wand (botania), manasteel (botania), blood staff, transcendent blood orb, enternal enchantment. Restructured Thaumonomicon entries.~
+~~~
+- Growth rate on umbral roses increased, enchantment support for osmotic enchanter, blood rod now requires infusion in a blood altar. Fixed several bugs.~
+~~~
+- Updated HardcoreEnderExpansion to 1.5, and moved to FTB universal config.~
+~
+- Updated Iron Chest Universal to 1.6.4-5.4.1.702. Should restore compatibility with Inventory Tweaks.~
+~~~
+- Added JABBA to the pack (version 1.1.3). Recipes have been altered to be built off of Factorization barrels.~
+~
+- Updated LogisticsPipes to 1.6.4-0.7.4.dev.145. Jumped about 50 versions here... not even attempting to summarize changelog...~
+~~~
+- Updated Mekanism to 6.1.0.CUSTOM. FIXED UNIVERSAL CABLES \o/ They will not crash. However, converting from EU->RF will not work. PSA: It will drain all of your EU power without any RF power being gained. Armored jetpacks now actually provide armor.~
+~~~
+- Updated Mine Factory Reloaded to 2.7.8-482. Added mobrouter, fountain, large bricks and large paved bricks, sticky piston->piston recipe, dry rubber leaves, ability to click on conveyor belts with glowstone to increase speed, fruitpicker no longer dries out IC2 rubber spots.~
+~~~
+- Rednet cables can be switched backwords by sneak-RCing again. Autoenchanter no longer applies duplicate enchants.~
+~
+- Updated MobiusCore to 1.2.0. Complete refactoring of how profilers are handled, and added rendering hooks.~
+~~~
+- Added NotEnoughCodecs, which allows OpenBlocks radios to function again.~
+~
+- Updated Opis to 1.2.1. Almost a complete rewrite. Far too many features and bugfixes to list here. Check out ProfMobius' blog!~
+~~~
+- Updated RemoteIO to 1.11. Now requires power. See the ingame documentation.~
+~
+- Updated Server Tools to 1.6.4-build23. Basic code cleanup and tweaked some default settings.~
+~~~
+- Updated Steves Factory Manager to A83. Added some user preferences in the Machine Inventory Manager. Added the sign updater. Fixed several bugs.~
+~~~
+- Updated Thaumic Reliquary to 1.1.1.TPPI.  Added option to config file regarding Tome of Alkahestry, and changed lilypad of fertility recipe to be more in line with older version.~
+~~~
+- Updated Tinker's Construct to 1.5.5.4, Fixes dupe bug with Crafting Station (officially) and other bugs. Final 1.6 version~
+~
+- Updated TPPI Tweaks to 1.0.0-45.~
+~~~
 TPPIv1.0.2PreRelease~
 - Yay, more fixes \o/~
 ~
