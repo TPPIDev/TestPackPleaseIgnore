@@ -119,8 +119,89 @@ After doing that, the rest of the mod is yours to explore!
 
 
 >BiblioCraft, BiblioCraft<
-<http://www.bibliocraftmod.com/?page_id=55>
-**Will document fully when I have time**
+Created by: Joseph 'Nuchaz' Sinclair.~
+~
+BiblioCraft is a mod that adds decorative, yet functional, blocks to Minecraft.~
+Focused on wooden products, such as chairs, tables & bookshelves; BiblioCraft adds dozens of items to fill your builds with.~
+~
+The most notable additions, this mod brings, are it's bookcases.~
+Tired of storing all those guides, enchanted books and other scriptures in chests?~
+~
+Put yourself together one of BiblioCraft's bookcases.~
+It can be made of any vanilla or Biomes o' Plenty wooden planks.~
+Search NEI for 'Bookcase' to find the array of wood styles available.~
+~~~
+While scouring NEI, be sure to lookup 'BiblioCraft' to see what else this mod brings and how to craft them.~
+~
+Following are a list of some of the objects available and their uses;~
+~~~
+Cookie Jars~
+A glass jar for storing cookies.~
+~
+Dinner Plates~
+A ceramic plate for storing 3 types of food.~
+~
+Disc Racks~
+A storage unit for up to 9 records.~
+~~~
+Golden Lanterns & Fancy Lamps~
+Light sources.~
+~
+Tables~
+A piece of furniture capable of displaying an object on it's surface.~
+~~~
+Printing Press~
+A workstation capable of copying written books. Holds a surplus of ink and books.~
+~
+Desks~
+A workstation to writing and prepare written books. Can hold a large array of books.~
+~~~
+Armour Stands~
+A way to show off your armour sets. Able to hold a full set of any armours.~
+~
+Bookcases~
+A storage unit for up to 16 books.~
+~~~
+Labels~
+A small wooden card that can be placed against other blocks to display up to 3 objects.~
+~
+Potion Shelves~
+A storage unit for up to 12 potions.~
+~
+Tool Racks~
+A storage unit for up to 4 tools.~
+~~~
+Wooden Shelves~
+A storage unit for any 4 objects.~
+~
+Cases~
+An elegant storage unit that can be placed against the ground or wall, to store an object.~
+~~~
+Map Frames~
+A wooden panel that can be placed against the floor, wall or ceiling, to storage and display maps.~
+~~~
+Seats~
+An elegant 2 piece structure that combines to make a seat. Combine the seat with one of the 4 different seat backs to finish them off.~
+~
+Tape Measure~
+An useful tool that is able to measure the distance between two selected locations.~
+~~~
+Redstone: Volume 1~
+A book with a hidden secret. Place this within a bookshelf and it will emit a redstone signal. Hidden bookshelf passage, anyone?~
+~
+Reading Glasses, Tinted Glasses & Monocle~
+Fancy eye-wear.~
+~~~
+Screw Gun~
+An useful tool that is able to rotate the array of BiblioCraft blocks. This saves you the trouble of picking them up and placing them back down again.~
+~~~
+Clipboards~
+Your very own to-do list! A tool that you can use to place out your work.~
+~~~
+Drafting Compass and Waypoint Compass ~
+A set of tools that help aid you around your explored worlds. Use these in conjunction with your maps on the map frames to set and locate way-points.~
+~
+
 
 >BigReactors, Big Reactors<
 <http://wiki.technicpack.net/Big_Reactors>
