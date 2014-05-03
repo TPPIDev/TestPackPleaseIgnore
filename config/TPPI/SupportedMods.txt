@@ -246,7 +246,7 @@ The stair placer places stairs from your inventory into the world, similiar to t
 except this only works with stairs.~
 ~
 The color selector and color sorter act as an addition to buildcraft transport's item coloring system. It acts as an improved 
-lazuli transport pipe in that it will color items to be sorted by the dazuli transport pipe. The color selector allows the user 
+lazuli transport pipe in that it will color items to be sorted by the diazuli transport pipe. The color selector allows the user 
 to set multiple ghost items in it's GUI (accessed by right clicking) and then select the color the items will be colored to. 
 It requires a small amount of power to operate. It is very similar to Red Power 2's sorter.~
 The color selector lets you easily color a pipe as well. Right click it (while not pointing at anything) to open the GUI.
