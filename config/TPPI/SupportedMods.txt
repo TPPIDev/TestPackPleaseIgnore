@@ -89,8 +89,8 @@ The hybrid solar panel generates 64 eu/t in daytime, 8 eu/t at night~
 The ultimate hybrid solar panel generates 512 eu/t in daytime, 64 eu/t at night~
 ~
 The mollecular assembler converts items into better versions of themselves for a high energy cost. For example, 1 Glowstone 
-becomes 1 Sunnarium (needed for the ultimate hybrid solar panel) with the input of 9,000,000 EU. THis machine can accept 
-any amount of energy, and any number of packets of energy (i.e. It won't explode).
+becomes 1 Sunnarium (needed for the ultimate hybrid solar panel) with the input of 9,000,000 EU. This machine can accept 
+any amount of energy (i.e. It won't explode).
 
 >AppliedEnergistics, Applied Energistics<
 <http://ae-mod.info/>
@@ -184,7 +184,7 @@ Seats~
 An elegant 2 piece structure that combines to make a seat. Combine the seat with one of the 4 different seat backs to finish them off.~
 ~
 Tape Measure~
-An useful tool that is able to measure the distance between two selected locations.~
+A useful tool that is able to measure the distance between two selected locations.~
 ~~~
 Redstone: Volume 1~
 A book with a hidden secret. Place this within a bookshelf and it will emit a redstone signal. Hidden bookshelf passage, anyone?~
@@ -271,7 +271,7 @@ In general, left-clicking a carpenter's block with the hammer will re-orient it 
 will change the block (ex: stairs -> corner stairs -> upside-down stairs -> etc.) 
 ~~~
 Additionally, once a carpenter's block has an overlayed appearance another block can be placed on any side to create a 
-cover on the block. These can be altered indepently of the main block.~
+cover on the block. These can be altered independently of the main block.~
 ~
 Some items can be used as overlays even though they are not full blocks. These include: seeds, snowballs, vines, string, 
 wheat and mushrooms.~
@@ -376,7 +376,7 @@ the available options. NOTE: THIS IS CURRENTLY BUGGED, IT WILL CREATE AN INVISIB
 GUI METHOD INSTEAD.~
 ~
 There are also some special items that chisel adds:~
-The "Ball O' Moss" creates an Area of effect "explosion" that changes nearbly blocks into mossy versions of them.~
+The "Ball O' Moss" creates an Area of Effect "explosion" that changes nearby blocks into mossy versions of them.~
 The "Cloud in a bottle" will spawn a cloud when thrown/broken.~ 
 ~
 Finally, there are additional chisel-able blocks that this mod adds. They can be found in NEI. 
@@ -389,7 +389,7 @@ Finally, there are additional chisel-able blocks that this mod adds. They can be
 **Feel free to document it anyway if you have time/want to though!**
 
 >DamageIndicators, Damge Indicators<
-Damage indicators is a small mod that adds a HUD displaying the health of the entity the player is looking at.~
+Damage Indicators is a small mod that adds a HUD displaying the health of the entity the player is looking at.~
 ~
 Additionally, you can adjust the settings by pressing "."
 
@@ -401,7 +401,7 @@ in a diagonal to gain a force rod. Right click a bookcase with the force rod to 
 information on all things Dartcraft.
 
 >DimensionalAnchors, Dimensional Anchors<
-This mod adds in only one block, the dimesional anchor. This block loads chunks (16x16 squares) for the player in order 
+This mod adds in only one block, the dimensional anchor. This block loads chunks (16x16 squares) for the player in order 
 to make automation possible even if the player is absent.~
 ~
 To open the GUI right click the block. The red arrow will decrease the number of loaded chunks while the green arrow will
@@ -411,7 +411,7 @@ increase them.
 Emasher Resource adds various ores and items to the game. It is meant to be an inclusion to the mod Engineer's Toolbox.
 Emasher Resource includes algae, hemp, limestone, red sandstone, and emery ore.~
 ~
-Algae can be harvested by hand and when "planted" in water it will spead to every nearby water source block. It can also
+Algae can be harvested by hand and when "planted" in water it will spread to every nearby water source block. It can also
 be harvested and burned in a photobioreactor to create hydrogen to be burned as an energy source.~
 ~
 Hemp can be used for armor, string, paper, cactus green, and hemp seeds. The seeds can be crafted into hemp seed oil
@@ -460,28 +460,28 @@ This item allows you to monitor the power of all items connected to your Ender I
 This block has two tabs. One displays information about the network while the other tab is for restone engine control.~
 ~
 Capacitor Bank~
-This blcok acts as a scalable power storage option (it can become a multi-block). Each block added to the structure will 
+This block acts as a scalable power storage option (it can become a multi-block). Each block added to the structure will 
 add it's power storage and at 2, 4, and 8 blocks the power output flow rate will increase.
 ~~~
 Conduits~
 ~
-All the conduits can exist in the same block as another Ender IO conduit(s), allowing for some very compact setups. In 
+Multiple Ender IO conduits can exist in the same blocks, allowing for some very compact setups. In 
 addition, they can be covered with a painted conduit facade to cover them up. Holding a conduit or a Yeta Wrench will 
 render the conduit facades invisible, allowing you to easily find your conduits.~
 ~
 The liquid conduit transfers fluids. The rate of transfer is dependent on the fluid.~
-The redstone conduit transmits a redstine signal. A lever/button can be attached to it or a conduit switch can be used. 
-To active the conduit switch right clicj one of the small squares on the end of the conduit.~
+The redstone conduit transmits a redstone signal. A lever/button can be attached to it or a conduit switch can be used. 
+To activate the conduit switch right click on one of the small squares on the end of the conduit.~
 The energy conduits transfer energy at varying capacities.~
 The item conduits tranfer items; the empowered conduit has more filtering options.~
 ~
-Both the item and liquid conduits have a GUI which can be accessed by right clicking the square that appears when the condit 
+Both the item and liquid conduits have a GUI which can be accessed by right clicking the square that appears when the conduit 
 connects to an inventory. This can be used to set insert/extraction modes. ALternatively a yeta wrench can be used to control 
 the output mode without entering the GUI.
 ~~~
 The Dimensional Transceiver~
 ~
-This item acts as a tessaract, with the ability to transfer liquids, items, and power across dimensions through a single 
+This item acts as a tesseract, with the ability to transfer liquids, items, and power across dimensions through a single 
 block (to another transceiver on the same frequency). It has frequency settings in the GUI and will automatically output 
 energy/items to adjacent conduits/inventories.
 ~~~
@@ -503,7 +503,7 @@ This item, when built in a 2x2x1 square, will act as an infinite water source, m
 can also auto-eject if right clicked with a wrench.~
 ~
 Powered Light~
-This item will emit light but will require .1 Mj/t (or 1 Rf/t) to operate. It must be turned on with a redstone signal.~
+This item will emit light but will require .1 MJ/t (or 1 RF/t) to operate. It must be turned on with a redstone signal.~
 ~
 Fused Quartz~
 This item acts as aesthetic glass with connected textures. The frame can also be painted by right clicking with a painted 
@@ -514,8 +514,8 @@ fuzed quartz frame.
 Ender Prospecting adds a couple items to assist with manual mining. They are the Eye of Prospecting, the Talisman  
 of Prospecting, and the Totem of Prospecting.~
 ~
-The Eye of prospecting can be crafted alongside any ore and will then be "tuned" to this ore. The next time you right 
-click the eye it will fly away from you, much liek an eye of ender, except it will fly toward the tuned ore. It will 
+The Eye of Prospecting can be crafted alongside any ore and will then be "tuned" to this ore. The next time you right 
+click the eye it will fly away from you, much like an Eye of Ender, except it will fly toward the tuned ore. It will 
 then break, this item is one-time-use.~
 ~
 The (Base) Talisman of Prospecting can be crafted with 5 tuned eyes to yield a tuned Talisman. It acts similarly to the 
@@ -527,7 +527,7 @@ has an even smaller range and doesn't indicate a direction, only that the ore is
 
 
 >EnderStorage, Ender Storage<
-Ender Storage adds the Ender chest, the ender tank and the ender pouch. Each chest/pounch and tank will link to each other
+Ender Storage adds the Ender chest, the ender tank and the ender pouch. Each chest/pouch and tank will link to each other
 assuming they are on the same "frequency" (indicated by the wool pads on top). The pads can be colored with each dye,
 either in-game by clicking on the pads with a dye in hand, or by crafting the item below the dye frequency in a crafting
 table.~
@@ -584,7 +584,7 @@ The Industrial Apiary~
 This block requires 2 MJ/t to operate, has 4 slots for upgrades (but doesn't support frames), and also doesn't have the 
 90% production reduction of normal apiaries.~
 ~
-The gague on the left is for power storage. The left slots are for a Queen/Princess and Drones, the middle 4 slots are for 
+The gauge on the left is for power storage. The left slots are for a Queen/Princess and Drones, the middle 4 slots are for 
 upgrades, and the right 9 slots are for products and offspring.~
 ~
 You can hover over the status icon (in the top right) to see more information about the block.~
@@ -601,7 +601,7 @@ This item will convert solid items into Mutagen (a liquid used to mutate bees/tr
 Items can be inserted into any side, and liquids will be automatically ejected to any adjacent pipe or tank.~
 ~
 The items that are used as valid fuel sources are, in decreasing order of effectiveness, uranium, glowstone, and then 
-redstone. CLick on the recipes bar in the machine to see the detailed values for each item (power needed, mutagen produced).
+redstone. Click on the recipes bar in the machine to see the detailed values for each item (power needed, mutagen produced).
 ~~~
 The Mutatron/Advanced Mutatron~
 ~
@@ -631,16 +631,16 @@ by applying heat (ex: putting them in a furnace).~
 ~
 The implanter replaces the traits of the input bee with the traits on the template (top left slot).~
 ~
-It 80,000 MJ and a labware (top right slot) per operation. The template will not be consumed (or altered). Ignoble bees 
+It uses 80,000 MJ and a labware (top right slot) per operation. The template will not be consumed (or altered). Ignoble bees 
 have a 10% chance to not survive the process.~
 ~
-The template can be removed form any side, but only when no imprinting is ongoing and the input slot is empty.
+The template can be removed from any side, but only when no imprinting is ongoing and the input slot is empty.
 ~~~
 The Industrial Grafter~
 ~
 Acts as a powered Forestry grafter, that is very fast but also comsumes a lot of power.~
 ~
-It can be charged in any machine that will charge MJ, RF, or tier 2 or higher EU (ex: capacitor bank, energetic infuser,
+It can be charged in any machine that will charge MJ, RF, or tier 2 or higher EU (eg. capacitor bank, energetic infuser,
 MFE).
 
 
@@ -651,7 +651,7 @@ MFE).
 **Or a book format resembling Thaumcraft's or RotaryCraft's.**
 
 >GraviSuite, Gravitation Suite<
-Gravitation Suite (Gravi Suite) is an addon for IC2 which adds very expenive, but powerful, EU-powered items. It adds both 
+Gravitation Suite (Gravi Suite) is an addon for IC2 which adds very expensive, but powerful, EU-powered items. It adds both 
 tools and armor.
 ~~~
 Armor~
@@ -663,14 +663,14 @@ provides creative mode flight and the ability to charge any EU items in your inv
 To toggle on/off boost mode press 'ctrl'. This item also has 'hover mode'. This will allow you to fly much faster at an increased energy cost. The Gravi 
 Chest Plate can be charged in a MFSU or higher tier EU storage.~
 ~
-Advanced Elextric Jetpack~
+Advanced Electric Jetpack~
 ~
 This item combines the electric jetpack and the advanced lappack. This item also has boost mode, hover mode, and, 
-obvioulsy, flight, as well as 1,000,00 EU energy storage.~
+obviously, flight, as well as 1,000,00 EU energy storage.~
 ~
 The Ultimate Solar Helmet~
 ~
-This combines the ultimate hybrid solar panel from advanced solar panels with the quantum helmet to charge your armor at 512 EU/t 
+This combines the Ultimate Hybrid Solar Panel from Advanced Solar Panels with the quantum helmet to charge your armor at 512 EU/t 
 while still retaining the functionality of the quantum helmet.~
 ~
 The Ultimate lappack~
@@ -683,14 +683,14 @@ The tools can all be charged in a MFE or higher.~
 ~
 The Vajra~
 ~
-Thsi item can break any block (including bedrock) in one hit, even when flying or swimming, but it costs a very, very large 
+This item can break any block (including bedrock) in one hit, even when flying or swimming, but it costs a very, very large 
 amount of EU per block broken~
 ~
 Advanced Drill~
 Thsi drill is 35% faster than the diamond drill but it consumes significantly more power.~
 ~
 Advanced Chainsaw~
-This chainsaw has a higher damage (12) than the normal chinsaw and it also operates 35% faster.
+This chainsaw has a higher damage (12) than the normal chainsaw and it also operates 35% faster.
 
 >HardcoreEnderExpansion, Hardcore Ender Expansion<
 <http://hardcore-ender-expansion.wikia.com/wiki/Home>
@@ -721,15 +721,15 @@ enchant.
 <http://magicalcrops.weebly.com/>
 
 >MagicBees, Magic Bees<
-Magic bees is an addon for the Forestry bee-breeding system that also utilizes Thaumcraft. As a result, all of the information 
+Magic Bees is an addon for the Forestry bee-breeding system that also utilizes Thaumcraft. As a result, all of the information 
 for this mod can be found under the Magic Bees tab in the Thaumonomicon. If you are confused about bees in general, please 
 consult the "Forestry-Bees" book.
 
 >Mekanism, Mekanism<
 <http://mekanism.wikispaces.com/>
 
->MFFS, Modular ForceField Systems<
-Modular Forcefield Systems, or MFFS for short, is a mod that allows for the creation of a wide array of force fields.~
+>MFFS, Modular Force Field System<
+Modular Force Field System, or MFFS for short, is a mod that allows for the creation of a wide array of force fields.~
 The mod uses it's own form of power, Fortron a telepathic liquid, however can be hooked up to other energy systems from Buildcraft and IndustrialCraft~
 ~~~
 Most of the blocks are made up of Focus Matrixes so it won't be until you have a good source of diamonds, redstone and steel.~
@@ -757,7 +757,7 @@ Sphere Mode~
 Tube Mode~
 ~
 Place this newly crafted item into the slot surrounded by outwardly facing arrows.~
-Next, craft some Scale Module items and place them into the Matrix slots on the left side of the GUI screen.~
+Next, craft some Scale Modules and place them into the Matrix slots on the left side of the GUI screen.~
 Each of these will increase the radius of the projection by a block.~
 Set it to the correct frequency and turn it on. A forcefield of your defined shape and size will start to build.~
 Be sure to note that these are solid blocks.~
@@ -788,7 +788,7 @@ Authors: Powercrystals, skyboy026
 Morph is a mod that allows you to take on the characteristics (shape/size/ability(s)) of any creature you kill (except 
 bosses, although that is a config option).~
 ~
-The flight ability is not able to be used until you reach the Nether, and do note that you will lose your morphs on death.~
+All abilities are disabled, and morphs are purely cosmetic.~
 ~
 To access your morphs, press "[" or "]", and then scroll down. Press "Enter" to select your morph.~
 ~
@@ -834,7 +834,7 @@ are self-explanatory, but the one you will likely use the most is next to the ma
 Options/NEI Modes~
 ~
 At the bottom left you will see "options". Clicking on that will bring you to another menu screen. The most useful one 
-is the topmost one, "Inventory". There you can change between "recipe mode", "cheat mode", and "utility mode". Utility 
+is the topmost one, "Inventory". There you can change between "Recipe Mode", "Cheat Mode", and "Utility Mode". Utility 
 mode will let you use the utilities in-game. Recipe mode will, when you left click an item on the main NEI panel, do the 
 same thing as pressing "r", while right clicking will do the same thing as pressing "u". Cheat mode will allow you to 
 obtain any number of items from the main NEI panel by clicking on them. Left clicking will give you 64 (a stack) of items, 
@@ -854,7 +854,7 @@ Nether ores adds ore generation to the Nether. These ores have a higher yield th
 they also have a propesity to explode, so caution is necessary.
 
 >NotEnoughKeys, Not Enough Keys<
-This mod adds a key-binding menu so it is more simple to navigat through the mess of conflicting keybinds. To access it 
+This mod adds a key-binding menu so it is more simple to navigate through the mess of conflicting keybinds. To access it 
 simply go into options -> controls and then modify as you see fit.
 
 >NuclearControl, Nuclear Control<
