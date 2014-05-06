@@ -93,7 +93,142 @@ becomes 1 Sunnarium (needed for the ultimate hybrid solar panel) with the input 
 any amount of energy (i.e. It won't explode).
 
 >AppliedEnergistics, Applied Energistics<
-<http://ae-mod.info/>
+**<http://ae-mod.info/>
+Applied Energistics is an advanced way to store items as energy in what is known as an ME system. 
+It allows for incredibly compact storage as well as item movement throughut your base.
+~
+To get started, you'll need 2 things - a reliable power source and an ME controller. If you run out of power, your
+ME system will shut down and you will be unable to access any of your items.
+~
+You will also want an ME Access Terminal and an ME Drive. Place all of these down in the world and connect your controller
+to the power line. It is worth placing the three ME blocks next to each other so they can transmit energy and talk to
+each other.
+~~~
+Now, you need somewhere to store your stuff. Applied Energistics uses Storage Units in order to store items. Think
+of these like hard drives in a computer - your items are stored as information on a disk. Lose the disk - lose the items.
+ME Storage Units come in four sizes - 1k, 4k, 16k and 64k. Each of these units can store 63 unique types of item, but can
+store a different amount of items total. Naturally, a 64k unit can store than a 1k unit, but is more expensive. It's up to
+you to decide which units you would like.
+
+Place the storage unit in your disk drive, and right click the ME Terminal. Voila! You can now store your items as data.
+~
+The ME Drive can hold up to 10 storage units all in one block, and so is a very powerful form of item storage.~
+~
+Also worth crafting is the ME Crafting Terminal. This functions exactly as the ME Terminal does, but allows you to craft
+inside your AE system including Shift-Click support from NEI. Very handy for mass crafting of objects.
+~~~
+In order to expand your system, you will need some ME Cable. This cable is what transmits all items through the AE network.
+There is no limit on length, but beware that each component you add (including cable) increases the per tick cost of
+the system.~
+~
+Other AE blocks include the ME Interface, Import Bus, Export Bus, Storage Bus and Level Emitter.~
+~
+The ME Interface /can keep a certain amount of items stocked in an inventory, as well as import any items it receives into
+the network. It's also accessible with other piping systems such as Itemducts and BuildCraft pipes. It is also used
+for crafting with machines which is covered later.~
+~
+The Import and Export bus will import items into the network and export them from the network respectively. Each bus
+can be upgraded into a Precision or Fuzzy version. A precision bus will only function on precisely the items it's told to.
+For example, if you specify to export a half-broken iron pickaxe, only a half-broken iron pickaxe will be exported not one
+with any other durability. A fuzzy bus has the capability to do the opposite - it can ignore features such as enchantments
+and damage values. Both types of bus can move stacks of items at a time.~
+~
+The Storage bus is a way to give your ME system access to other inventories such as chests or even Forestry multi-farms.
+If you right-click the Storage bus, you can specify what items are allowed to be stored and whether the system can
+import and export items, only import or only export. The Storage bus can also be upgraded to both a Fuzzy and Precision
+version also.~
+~
+The Level Emitter is a simple device which emits a redstone signal when either levels in the ME system are below a limit
+or above a limit. This can be used, for example, to only import items when there is less than an amount in your ME system.
+~~~
+Applied Energistics also adds an extensive Auto-Crafting system.
+~
+The most basic AE Auto-crafter is a 3x3 multiblock. The edges must all be made of ME Containment Wall, the rest of the
+outside filled with ME Heat Vent. Inside, you can place either an ME Pattern Provider or an ME Crafting CPU. The Pattern 
+Provider provides more space for crafting patterns, whereas the Crafting CPU will allow items to be crafted faster.
+~
+All auto-crafter's need at least one Pattern Provider and one Crafting CPU, except for the 3x3 which just requires a
+Pattern Provider.
+~
+When the multiblock is built, hook it up with ME Cable. This multiblock will become the place where all the crafting patterns
+are stored for the ME system. To encode patterns, craft an ME Pattern Encoder as well as some ME Blank Patterns.~
+~
+The Blank Patterns go in the top-right of the Pattern Encoder. Simply place a recipe in the left hand side (it won't
+use your items) and hit encode. Take the encoded pattern and place it in the auto-crafter multiblock. Now your AE system
+can craft whatever you have taught it! The system is clever enough to follow a crafting tree. For example, if I tell my
+system to craft an iron chest it will first automatically craft a chest, then upgrade it into an iron chest.~
+~
+The ME Interface also has a space for encoded patterns. It is this which allows your ME System to craft using other machines.
+For example, if I have a furnace filled with coal, I can encode a pattern that says 1 Log = 1 Charcoal. When you place
+a log in the pattern encoder it will automatically set the output to 4 planks, but you can change this simply by clicking
+the output slot with the item you want (charcoal, in this case). Then, I put my interface on top of the furnace and throw
+the pattern in. Now, if I request charcoal from my Access Terminal, we will see wood land in the top slot of the furnace
+and get cooked into Charcoal. Simply import this into the network (using an import bus) and the craft is complete. This
+process can allow for very powerful automation processes using all sorts of machines!
+~~~
+There are a few other blocks and items added by Applied Energistics.~
+~
+Quantum Network Bridge~
+Allows for your ME system to be accessed from another location in the world wirelessly. This is a multiblock that requires
+insane amounts of power to sustain. Multiblock is built from a Quantum Link Chamber with 9 Quantum Field Rings around it in
+a circle. Create Quantum Entangled Singularities in order to link two tunnels together.
+~
+Quantum Entangled Singularities~
+To craft a pair of Quantum Entangled Singularities, throw some Ender Pearl Dust and a Singularity on the ground, and explode
+(yes explode) it with some TNT. A pair only requires a single singularity.~
+~
+Wireless Access Terminal~
+As the name suggests, a Wireless Access Terminal. Requires charging either from a Power Relay from AE or another mod
+which can charge items.~
+~
+Vibration Catalyst~
+Will cook blocks in the world (if possible), i.e. turn cobblestone into smooth stone.~
+~
+Entropy Accelerator~
+Will age or cool any block used on, i.e. turn smooth stone into cobblestone, lava into obsidian etc.~
+~
+Matter Cannon~
+A powerful weapon which shoots balls of matter as ammunition at enemies.~
+~
+ME Chest~
+A chest which holds a single ME Storage unit. Does require power. Can be pumped into using Itemducts, BuildCraft pipes etc,
+but cannot be pumped out from.~
+~
+ME IO Port~
+Can unload a storage cell into the ME Network and can also load data onto a storage cell. Can be used for things such as
+having a large drive for your ingots and gems but nothing else.~
+~
+ME Wireless Access Point~
+Required in order for the ME Wireless Access Terminal to function. Can be upgraded using range upgrades to allow wireless
+access from further away.~
+~
+ME Dark Cable~
+When supplied with a redstone signal, acts as regular ME Cable. Without a redstone signal it will disconnect, meaning
+any components after the dark cable will lose connection to the ME System.~
+~
+ME Storage Monitor~
+When right-clicked with an item will display how many of that item exist in the ME Network. When upgraded by right-clicking
+with a Conversion Matrix the Storage Monitor will allow the user to input and extract items by right-clicking.~
+~
+ME Power Relay~
+Allows the charging of tools as well as the transport of AE Power to other ME Networks.~
+~
+ME Transition Plane~
+Acts like a Block Breaker and will import the block into the ME Network.~
+~
+P2P Tunnel~
+Links two locations in the ME Network together and will pass anything going into one through the other. This allows
+for things like transporting fluids and also redstone current through the ME Network. Set what is travelling through the
+P2P Network using an ME Bus Memory Card.~
+~
+ME Partition Editor~
+Allows a storage unit to be partitioned, allowing it to only store the items specified. Can be useful for allowing only
+metals onto a large drive and not letting any small quantities of items take up all the types. Can set a fuzzy or precision
+format mode.~
+~
+ME Condenser~
+Can either trash items it receives, turn them into matter balls which are used in the matter cannon, or singularities
+which are used with the Quantum Link Tunnel.
 
 >ArsMagica, Ars Magica 2<
 Ars Magica 2 is a magical mod with RPG elements. Think mana, spellcasting, levelling up, and fighting fearsome enemies!~
