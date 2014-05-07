@@ -1056,8 +1056,31 @@ Plugins for forestry adds compatability between forestry and other mods. It adds
 a coke oven (railcraft) to make sugar/coal charcoal/coke for power.
 
 >PortalGun, Portal Gun<
-<http://ichun.us/w/index.php?title=Portal_Gun>
-
+**<http://ichun.us/w/index.php?title=Portal_Gun>
+The Portal Gun mod allows players to travel between two portals in a similar way to the Portal video games.~
+~
+The basic Portal gun can create two portals with left and right click. Walk through one portal and arrive at the other. 
+This works not just for players but items as well!~
+~
+The Portal gun can also pick up certain blocks such as chests and move them around. ~
+This is done by aiming at the block 
+you would like to move and holding G (default). When the block is where you want it, release G and it will be placed back down. ~
+~~~
+The Portal gun can be upgraded into four different versions: ~
+Atlas' Portal Gun and P-Body's Portal Gun both act the same as the basic Portal gun except the Portal's they create
+are different colours. ~
+This means that the Portals from the Atlas' and P-Body guns are not linked to those of the default portal.~
+~
+They will be linked, however, to all other Atlas' and P-Body gun portals respectively.~
+~~~
+The Bacon Gun and Portal Gun gives each player a unique colour of portal, and so your portals won't get mixed up with anyone 
+else's on a server.~
+~~~
+Portal Gun also adds Portal Spawners which can create portals of whatever colour you choose when 
+supplied with a redstone signal. The portal remains open until the redstone signal is lost.~
+~~~
+Also added are Portal Gun Pedestals. These can hold a Portal Gun and will fire a portal when supplied with a redstone signal. 
+You can retrieve a Portal Gun which has been placed on a Pedestal just by right-clicking.
 >ProjectRed, Project Red<
 <http://projectredwiki.com/wiki/Main_Page>
 
