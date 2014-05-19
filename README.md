@@ -53,7 +53,7 @@ Developers
 
 - _tterrag (/u/tterrag1098)_
 
-- _wha-ha-ha /u/wha-ha-ha_
+- _wha-ha-ha (/u/wha-ha-ha)_
 
 
 ###Past Members
