@@ -49,7 +49,7 @@ Developers
 
 - _judge (IGN: JDGBOLT)_
 
-- _dudeedud4 (IGN: sneezing-panda)_
+- _dudeedud4 (IGN: sneezing\_panda)_
 
 ###Past Members
 - _phit (reddit: phitriz)_
