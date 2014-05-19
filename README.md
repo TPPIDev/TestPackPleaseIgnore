@@ -41,24 +41,39 @@ Developers
 ===============
 
 ###Current Team
-- _esKaayY (IGN: esKaayY)_
+- _sneezing\_panda (/u/dudeedud4)_
 
-- _tterrag (IGN/Reddit: tterrag1098)_
+- _esKaayY (/u/esKaayY)_
 
-- _wha-ha-ha (IGN: wha\_ha\_ha)_
+- _Judge (/u/JDGBOLT)_
 
-- _judge (IGN: JDGBOLT)_
+- _Spyboticsguy (/u/spyboticsguy)_
 
-- _dudeedud4 (IGN: sneezing\_panda)_
+- _timewarp (/u/timewarp)_
+
+- _tterrag (/u/tterrag1098)_
+
+- _wha-ha-ha /u/wha-ha-ha_
+
 
 ###Past Members
-- _phit (reddit: phitriz)_
+- _collinmurphy (/u/collinmurphy)_
+
+- _Devin\_Steinkoenig (/u/Devon\_Steinkoenig)_
 
 - _Dr Soda (IGN: Epiksoda11)_
 
-- _nsstrunks (IGN: nsstrunks)_
+- _Nevik (/u/GTNLnevik)_
+
+- _LaloLalo1999 (/u/LaloLalo1999)_
+
+- _micspam (/u/micspamtf2)_
 
 - _NEOidea (stellarcraft) (IGN: NEOidea)_
+
+- _nsstrunks (IGN: nsstrunks)_
+
+- _phit (/u/phitriz)_
 
 All contributors can be found _[here](https://github.com/TPPI-Dev/TestPackPleaseIgnore/graphs/contributors)_.
 
