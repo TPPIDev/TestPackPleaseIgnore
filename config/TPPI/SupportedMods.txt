@@ -20,7 +20,7 @@
 **TO DO:**
 **additional builcraft objects**
 **applied energistics [Linked]**
-**bibliocraft [Linked]**
+**bibliocraft [Linked]** (Entry written, requires check if sufficient)
 **big reactors [Linked]**
 **blood magic [Linked]**
 **buildcraft [Incomplete]**
@@ -39,7 +39,7 @@
 **logistics pipes [Linked]**
 **magical crops [Linked]**
 **mekanism [Linked]**
-**MFFS [Linked]**
+**MFFS [Linked]** (Entry written, requires check if sufficient)
 **MPS [Linked]**
 **MPSA [Linked]**
 **MystCraft-WritingAges [Linked]**
@@ -89,11 +89,158 @@ The hybrid solar panel generates 64 eu/t in daytime, 8 eu/t at night~
 The ultimate hybrid solar panel generates 512 eu/t in daytime, 64 eu/t at night~
 ~
 The mollecular assembler converts items into better versions of themselves for a high energy cost. For example, 1 Glowstone 
-becomes 1 Sunnarium (needed for the ultimate hybrid solar panel) with the input of 9,000,000 EU. THis machine can accept 
-any amount of energy, and any number of packets of energy (i.e. It won't explode).
+becomes 1 Sunnarium (needed for the ultimate hybrid solar panel) with the input of 9,000,000 EU. This machine can accept 
+any amount of energy (i.e. It won't explode).
 
 >AppliedEnergistics, Applied Energistics<
-<http://ae-mod.info/>
+**<http://ae-mod.info/>
+Applied Energistics is an advanced way to store items as energy in what is known as an ME system. 
+It allows for incredibly compact storage as well as item movement throughout your base.
+~
+To get started, you'll need 2 things - a reliable power source and an ME controller. If you run out of power, your
+ME system will shut down and you will be unable to access any of your items.
+~
+You will also want an ME Access Terminal and an ME Drive. Place all of these down in the world and connect your controller
+to the power line. It is worth placing the three ME blocks next to each other so they can transmit energy and talk to
+each other.
+~~~
+Now, you need somewhere to store your stuff. Applied Energistics uses Storage Units in order to store items. Think
+of these like hard drives in a computer - your items are stored as information on a disk. Lose the disk - lose the items.
+~~~
+ME Storage Units come in four sizes - 1k, 4k, 16k and 64k. Each of these units can store 63 unique types of item, but can 
+store a different amount of items total. Naturally, a 64k unit can store than a 1k unit, but is more expensive.~
+It's up to you to decide which units you would like.
+~~~
+Place the storage unit in your disk drive, and right click the ME Terminal.
+~
+Voila!~
+You can now store your items as data.~
+~
+The ME Drive can hold up to 10 storage units all in one block, and so is a very powerful form of item storage.
+~~~
+Also worth crafting is the ME Crafting Terminal. This functions exactly as the ME Terminal does, but allows you to craft
+inside your AE system including Shift-Click support from NEI. Very handy for mass crafting of objects.
+~~~
+In order to expand your system, you will need some ME Cable. This cable is what transmits all items through the AE network.
+There is no limit on length, but beware that each component you add increases the per tick cost of
+the system.~
+~
+Other AE blocks include the ME Interface, Import Bus, Export Bus, Storage Bus and Level Emitter.~
+~
+The ME Interface can keep a certain amount of items stocked in an inventory, as well as import any items it receives into
+the network. It's also accessible with other piping systems such as Itemducts and BuildCraft pipes. It is also used 	
+for crafting with machines which is covered later.~
+~~~
+The Import and Export bus will import items into the network and export them from the network respectively. Each bus
+can be upgraded into a Precision or Fuzzy version. A precision bus will only function on precisely the items it's told to.
+~~~
+For example, if you specify to export a half-broken iron pickaxe, only a half-broken iron pickaxe will be exported not one
+with any other durability.~
+A fuzzy bus has the capability to do the opposite - it can ignore features such as enchantments
+and damage values. Both types of bus can move stacks of items at a time.~
+~~~
+The Storage bus is a way to give your ME system access to other inventories such as chests or even Forestry multi-farms.
+If you right-click the Storage bus, you can specify what items are allowed to be stored and whether the system can
+import and export items, only import or only export. The Storage bus can also be upgraded to both a Fuzzy and Precision 
+version also.~
+~~~
+The Level Emitter is a simple device which emits a redstone signal when either levels in the ME system are below a limit
+or above a limit.~
+This can be used, for example, to only import items when there is less than an amount in your ME system.
+~~~
+Applied Energistics also adds an extensive Auto-Crafting system.
+~
+The most basic AE Auto-crafter is a 3x3 multiblock. The edges must all be made of ME Containment Wall, the rest of the
+outside filled with ME Heat Vent. 
+~
+Inside, you can place either an ME Pattern Provider or an ME Crafting CPU. The Pattern 
+Provider provides more space for crafting patterns, whereas the Crafting CPU will allow items to be crafted faster.
+~
+All auto-crafter's need at least one Pattern Provider and one Crafting CPU, except for the 3x3 which just requires a 
+Pattern Provider.
+~
+When the multiblock is built, hook it up with ME Cable. This multiblock will become the place where all the crafting patterns 
+are stored for the ME system. To encode patterns, craft an ME Pattern Encoder as well as some ME Blank Patterns.~
+~
+The Blank Patterns go in the top-right of the Pattern Encoder. Simply place a recipe in the left hand side (it won't
+use your items) and hit encode. Take the encoded pattern and place it in the auto-crafter multiblock. Now your AE system
+can craft whatever you have taught it! The system is clever enough to follow a crafting tree. For example, if I tell my
+system to craft an iron chest it will first automatically craft a chest, then upgrade it into an iron chest.~
+~
+The ME Interface also has a space for encoded patterns.~
+It is this which allows your ME System to craft using other machines.
+For example, if I have a furnace filled with coal, I can encode a pattern that says 1 Log = 1 Charcoal.~
+When you place a log in the pattern encoder it will automatically set the output to 4 planks, but you can change this simply 
+by clicking the output slot with the item you want (charcoal, in this case).~
+~
+Then, I put my interface on top of the furnace and throw
+the pattern in. Now, if I request charcoal from my Access Terminal, we will see wood land in the top slot of the furnace
+and get cooked into Charcoal. Simply import this into the network (using an import bus) and the craft is complete. This 
+process can allow for very powerful automation processes using all sorts of machines!
+~~~
+There are a few other blocks and items added by Applied Energistics.~
+~
+Quantum Network Bridge~
+Allows for your ME system to be accessed from another location in the world wirelessly. This is a multiblock that requires
+insane amounts of power to sustain. Multiblock is built from a Quantum Link Chamber with 9 Quantum Field Rings around it in
+a circle. Create Quantum Entangled Singularities in order to link two tunnels together.
+~~~
+Quantum Entangled Singularities~
+To craft a pair of Quantum Entangled Singularities, throw some Ender Pearl Dust and a Singularity on the ground, and explode
+(yes explode) it with some TNT. A pair only requires a single singularity.~
+~
+Wireless Access Terminal~
+As the name suggests, a Wireless Access Terminal. Requires charging either from a Power Relay from AE or another mod
+which can charge items.~
+~~~
+Vibration Catalyst~
+Will cook blocks in the world (if possible), i.e. turn cobblestone into smooth stone.~
+~
+Entropy Accelerator~
+Will age or cool any block used on, i.e. turn smooth stone into cobblestone, lava into obsidian etc.~
+~~~
+Matter Cannon~
+A powerful weapon which shoots balls of matter as ammunition at enemies.~
+~
+ME Chest~
+A chest which holds a single ME Storage unit. Does require power. Can be pumped into using Itemducts, BuildCraft pipes etc,
+but cannot be pumped out from.~
+~~~
+ME IO Port~
+Can unload a storage cell into the ME Network and can also load data onto a storage cell. Can be used for things such as
+having a large drive for your ingots and gems but nothing else.~
+~~~
+ME Wireless Access Point~
+Required in order for the ME Wireless Access Terminal to function. Can be upgraded using range upgrades to allow wireless
+access from further away.~
+~~~
+ME Dark Cable~
+When supplied with a redstone signal, acts as regular ME Cable. Without a redstone signal it will disconnect, meaning
+any components after the dark cable will lose connection to the ME System.~
+~~~
+ME Storage Monitor~
+When right-clicked with an item will display how many of that item exist in the ME Network. When upgraded by right-clicking
+with a Conversion Matrix the Storage Monitor will allow the user to input and extract items by right-clicking.~
+~~~
+ME Power Relay~
+Allows the charging of tools as well as the transport of AE Power to other ME Networks.~
+~
+ME Transition Plane~
+Acts like a Block Breaker and will import the block into the ME Network.~
+~~~
+P2P Tunnel~
+Links two locations in the ME Network together and will pass anything going into one through the other. This allows
+for things like transporting fluids and also redstone current through the ME Network. Set what is travelling through the
+P2P Network using an ME Bus Memory Card.~
+~~~
+ME Partition Editor~
+Allows a storage unit to be partitioned, allowing it to only store the items specified.~
+Can be useful for allowing only metals onto a large drive and not letting any small quantities of items take up all the types.~
+Can set a fuzzy or precision format mode.~
+~~~
+ME Condenser~
+Can either trash items it receives, turn them into matter balls which are used in the matter cannon, or singularities 
+which are used with the Quantum Link Tunnel.
 
 >ArsMagica, Ars Magica 2<
 Ars Magica 2 is a magical mod with RPG elements. Think mana, spellcasting, levelling up, and fighting fearsome enemies!~
@@ -119,8 +266,89 @@ After doing that, the rest of the mod is yours to explore!
 
 
 >BiblioCraft, BiblioCraft<
-<http://www.bibliocraftmod.com/?page_id=55>
-**Will document fully when I have time**
+Created by: Joseph 'Nuchaz' Sinclair.~
+~
+BiblioCraft is a mod that adds decorative, yet functional, blocks to Minecraft.~
+Focused on wooden products, such as chairs, tables & bookshelves; BiblioCraft adds dozens of items to fill your builds with.~
+~
+The most notable additions, this mod brings, are it's bookcases.~
+Tired of storing all those guides, enchanted books and other scriptures in chests?~
+~
+Put yourself together one of BiblioCraft's bookcases.~
+It can be made of any vanilla or Biomes o' Plenty wooden planks.~
+Search NEI for 'Bookcase' to find the array of wood styles available.~
+~~~
+While scouring NEI, be sure to lookup 'BiblioCraft' to see what else this mod brings and how to craft them.~
+~
+Following are a list of some of the objects available and their uses;~
+~~~
+Cookie Jars~
+A glass jar for storing cookies.~
+~
+Dinner Plates~
+A ceramic plate for storing 3 types of food.~
+~
+Disc Racks~
+A storage unit for up to 9 records.~
+~~~
+Golden Lanterns & Fancy Lamps~
+Light sources.~
+~
+Tables~
+A piece of furniture capable of displaying an object on it's surface.~
+~~~
+Printing Press~
+A workstation capable of copying written books. Holds a surplus of ink and books.~
+~
+Desks~
+A workstation to writing and prepare written books. Can hold a large array of books.~
+~~~
+Armour Stands~
+A way to show off your armour sets. Able to hold a full set of any armours.~
+~
+Bookcases~
+A storage unit for up to 16 books.~
+~~~
+Labels~
+A small wooden card that can be placed against other blocks to display up to 3 objects.~
+~
+Potion Shelves~
+A storage unit for up to 12 potions.~
+~
+Tool Racks~
+A storage unit for up to 4 tools.~
+~~~
+Wooden Shelves~
+A storage unit for any 4 objects.~
+~
+Cases~
+An elegant storage unit that can be placed against the ground or wall, to store an object.~
+~~~
+Map Frames~
+A wooden panel that can be placed against the floor, wall or ceiling, to storage and display maps.~
+~~~
+Seats~
+An elegant 2 piece structure that combines to make a seat. Combine the seat with one of the 4 different seat backs to finish them off.~
+~
+Tape Measure~
+A useful tool that is able to measure the distance between two selected locations.~
+~~~
+Redstone: Volume 1~
+A book with a hidden secret. Place this within a bookshelf and it will emit a redstone signal. Hidden bookshelf passage, anyone?~
+~
+Reading Glasses, Tinted Glasses & Monocle~
+Fancy eye-wear.~
+~~~
+Screw Gun~
+An useful tool that is able to rotate the array of BiblioCraft blocks. This saves you the trouble of picking them up and placing them back down again.~
+~~~
+Clipboards~
+Your very own to-do list! A tool that you can use to place out your work.~
+~~~
+Drafting Compass and Waypoint Compass ~
+A set of tools that help aid you around your explored worlds. Use these in conjunction with your maps on the map frames to set and locate way-points.~
+~
+
 
 >BigReactors, Big Reactors<
 <http://wiki.technicpack.net/Big_Reactors>
@@ -165,7 +393,7 @@ The stair placer places stairs from your inventory into the world, similiar to t
 except this only works with stairs.~
 ~
 The color selector and color sorter act as an addition to buildcraft transport's item coloring system. It acts as an improved 
-lazuli transport pipe in that it will color items to be sorted by the dazuli transport pipe. The color selector allows the user 
+lazuli transport pipe in that it will color items to be sorted by the diazuli transport pipe. The color selector allows the user 
 to set multiple ghost items in it's GUI (accessed by right clicking) and then select the color the items will be colored to. 
 It requires a small amount of power to operate. It is very similar to Red Power 2's sorter.~
 The color selector lets you easily color a pipe as well. Right click it (while not pointing at anything) to open the GUI.
@@ -190,7 +418,7 @@ In general, left-clicking a carpenter's block with the hammer will re-orient it 
 will change the block (ex: stairs -> corner stairs -> upside-down stairs -> etc.) 
 ~~~
 Additionally, once a carpenter's block has an overlayed appearance another block can be placed on any side to create a 
-cover on the block. These can be altered indepently of the main block.~
+cover on the block. These can be altered independently of the main block.~
 ~
 Some items can be used as overlays even though they are not full blocks. These include: seeds, snowballs, vines, string, 
 wheat and mushrooms.~
@@ -295,7 +523,7 @@ the available options. NOTE: THIS IS CURRENTLY BUGGED, IT WILL CREATE AN INVISIB
 GUI METHOD INSTEAD.~
 ~
 There are also some special items that chisel adds:~
-The "Ball O' Moss" creates an Area of effect "explosion" that changes nearbly blocks into mossy versions of them.~
+The "Ball O' Moss" creates an Area of Effect "explosion" that changes nearby blocks into mossy versions of them.~
 The "Cloud in a bottle" will spawn a cloud when thrown/broken.~ 
 ~
 Finally, there are additional chisel-able blocks that this mod adds. They can be found in NEI. 
@@ -308,7 +536,7 @@ Finally, there are additional chisel-able blocks that this mod adds. They can be
 **Feel free to document it anyway if you have time/want to though!**
 
 >DamageIndicators, Damge Indicators<
-Damage indicators is a small mod that adds a HUD displaying the health of the entity the player is looking at.~
+Damage Indicators is a small mod that adds a HUD displaying the health of the entity the player is looking at.~
 ~
 Additionally, you can adjust the settings by pressing "."
 
@@ -320,7 +548,7 @@ in a diagonal to gain a force rod. Right click a bookcase with the force rod to 
 information on all things Dartcraft.
 
 >DimensionalAnchors, Dimensional Anchors<
-This mod adds in only one block, the dimesional anchor. This block loads chunks (16x16 squares) for the player in order 
+This mod adds in only one block, the dimensional anchor. This block loads chunks (16x16 squares) for the player in order 
 to make automation possible even if the player is absent.~
 ~
 To open the GUI right click the block. The red arrow will decrease the number of loaded chunks while the green arrow will
@@ -330,7 +558,7 @@ increase them.
 Emasher Resource adds various ores and items to the game. It is meant to be an inclusion to the mod Engineer's Toolbox.
 Emasher Resource includes algae, hemp, limestone, red sandstone, and emery ore.~
 ~
-Algae can be harvested by hand and when "planted" in water it will spead to every nearby water source block. It can also
+Algae can be harvested by hand and when "planted" in water it will spread to every nearby water source block. It can also
 be harvested and burned in a photobioreactor to create hydrogen to be burned as an energy source.~
 ~
 Hemp can be used for armor, string, paper, cactus green, and hemp seeds. The seeds can be crafted into hemp seed oil
@@ -379,28 +607,28 @@ This item allows you to monitor the power of all items connected to your Ender I
 This block has two tabs. One displays information about the network while the other tab is for restone engine control.~
 ~
 Capacitor Bank~
-This blcok acts as a scalable power storage option (it can become a multi-block). Each block added to the structure will 
+This block acts as a scalable power storage option (it can become a multi-block). Each block added to the structure will 
 add it's power storage and at 2, 4, and 8 blocks the power output flow rate will increase.
 ~~~
 Conduits~
 ~
-All the conduits can exist in the same block as another Ender IO conduit(s), allowing for some very compact setups. In 
+Multiple Ender IO conduits can exist in the same blocks, allowing for some very compact setups. In 
 addition, they can be covered with a painted conduit facade to cover them up. Holding a conduit or a Yeta Wrench will 
 render the conduit facades invisible, allowing you to easily find your conduits.~
 ~
 The liquid conduit transfers fluids. The rate of transfer is dependent on the fluid.~
-The redstone conduit transmits a redstine signal. A lever/button can be attached to it or a conduit switch can be used. 
-To active the conduit switch right clicj one of the small squares on the end of the conduit.~
+The redstone conduit transmits a redstone signal. A lever/button can be attached to it or a conduit switch can be used. 
+To activate the conduit switch right click on one of the small squares on the end of the conduit.~
 The energy conduits transfer energy at varying capacities.~
 The item conduits tranfer items; the empowered conduit has more filtering options.~
 ~
-Both the item and liquid conduits have a GUI which can be accessed by right clicking the square that appears when the condit 
+Both the item and liquid conduits have a GUI which can be accessed by right clicking the square that appears when the conduit 
 connects to an inventory. This can be used to set insert/extraction modes. ALternatively a yeta wrench can be used to control 
 the output mode without entering the GUI.
 ~~~
 The Dimensional Transceiver~
 ~
-This item acts as a tessaract, with the ability to transfer liquids, items, and power across dimensions through a single 
+This item acts as a tesseract, with the ability to transfer liquids, items, and power across dimensions through a single 
 block (to another transceiver on the same frequency). It has frequency settings in the GUI and will automatically output 
 energy/items to adjacent conduits/inventories.
 ~~~
@@ -422,7 +650,7 @@ This item, when built in a 2x2x1 square, will act as an infinite water source, m
 can also auto-eject if right clicked with a wrench.~
 ~
 Powered Light~
-This item will emit light but will require .1 Mj/t (or 1 Rf/t) to operate. It must be turned on with a redstone signal.~
+This item will emit light but will require .1 MJ/t (or 1 RF/t) to operate. It must be turned on with a redstone signal.~
 ~
 Fused Quartz~
 This item acts as aesthetic glass with connected textures. The frame can also be painted by right clicking with a painted 
@@ -433,8 +661,8 @@ fuzed quartz frame.
 Ender Prospecting adds a couple items to assist with manual mining. They are the Eye of Prospecting, the Talisman  
 of Prospecting, and the Totem of Prospecting.~
 ~
-The Eye of prospecting can be crafted alongside any ore and will then be "tuned" to this ore. The next time you right 
-click the eye it will fly away from you, much liek an eye of ender, except it will fly toward the tuned ore. It will 
+The Eye of Prospecting can be crafted alongside any ore and will then be "tuned" to this ore. The next time you right 
+click the eye it will fly away from you, much like an Eye of Ender, except it will fly toward the tuned ore. It will 
 then break, this item is one-time-use.~
 ~
 The (Base) Talisman of Prospecting can be crafted with 5 tuned eyes to yield a tuned Talisman. It acts similarly to the 
@@ -446,7 +674,7 @@ has an even smaller range and doesn't indicate a direction, only that the ore is
 
 
 >EnderStorage, Ender Storage<
-Ender Storage adds the Ender chest, the ender tank and the ender pouch. Each chest/pounch and tank will link to each other
+Ender Storage adds the Ender chest, the ender tank and the ender pouch. Each chest/pouch and tank will link to each other
 assuming they are on the same "frequency" (indicated by the wool pads on top). The pads can be colored with each dye,
 either in-game by clicking on the pads with a dye in hand, or by crafting the item below the dye frequency in a crafting
 table.~
@@ -503,7 +731,7 @@ The Industrial Apiary~
 This block requires 2 MJ/t to operate, has 4 slots for upgrades (but doesn't support frames), and also doesn't have the 
 90% production reduction of normal apiaries.~
 ~
-The gague on the left is for power storage. The left slots are for a Queen/Princess and Drones, the middle 4 slots are for 
+The gauge on the left is for power storage. The left slots are for a Queen/Princess and Drones, the middle 4 slots are for 
 upgrades, and the right 9 slots are for products and offspring.~
 ~
 You can hover over the status icon (in the top right) to see more information about the block.~
@@ -520,7 +748,7 @@ This item will convert solid items into Mutagen (a liquid used to mutate bees/tr
 Items can be inserted into any side, and liquids will be automatically ejected to any adjacent pipe or tank.~
 ~
 The items that are used as valid fuel sources are, in decreasing order of effectiveness, uranium, glowstone, and then 
-redstone. CLick on the recipes bar in the machine to see the detailed values for each item (power needed, mutagen produced).
+redstone. Click on the recipes bar in the machine to see the detailed values for each item (power needed, mutagen produced).
 ~~~
 The Mutatron/Advanced Mutatron~
 ~
@@ -550,16 +778,16 @@ by applying heat (ex: putting them in a furnace).~
 ~
 The implanter replaces the traits of the input bee with the traits on the template (top left slot).~
 ~
-It 80,000 MJ and a labware (top right slot) per operation. The template will not be consumed (or altered). Ignoble bees 
+It uses 80,000 MJ and a labware (top right slot) per operation. The template will not be consumed (or altered). Ignoble bees 
 have a 10% chance to not survive the process.~
 ~
-The template can be removed form any side, but only when no imprinting is ongoing and the input slot is empty.
+The template can be removed from any side, but only when no imprinting is ongoing and the input slot is empty.
 ~~~
 The Industrial Grafter~
 ~
 Acts as a powered Forestry grafter, that is very fast but also comsumes a lot of power.~
 ~
-It can be charged in any machine that will charge MJ, RF, or tier 2 or higher EU (ex: capacitor bank, energetic infuser,
+It can be charged in any machine that will charge MJ, RF, or tier 2 or higher EU (eg. capacitor bank, energetic infuser,
 MFE).
 
 
@@ -570,7 +798,7 @@ MFE).
 **Or a book format resembling Thaumcraft's or RotaryCraft's.**
 
 >GraviSuite, Gravitation Suite<
-Gravitation Suite (Gravi Suite) is an addon for IC2 which adds very expenive, but powerful, EU-powered items. It adds both 
+Gravitation Suite (Gravi Suite) is an addon for IC2 which adds very expensive, but powerful, EU-powered items. It adds both 
 tools and armor.
 ~~~
 Armor~
@@ -582,14 +810,14 @@ provides creative mode flight and the ability to charge any EU items in your inv
 To toggle on/off boost mode press 'ctrl'. This item also has 'hover mode'. This will allow you to fly much faster at an increased energy cost. The Gravi 
 Chest Plate can be charged in a MFSU or higher tier EU storage.~
 ~
-Advanced Elextric Jetpack~
+Advanced Electric Jetpack~
 ~
 This item combines the electric jetpack and the advanced lappack. This item also has boost mode, hover mode, and, 
-obvioulsy, flight, as well as 1,000,00 EU energy storage.~
+obviously, flight, as well as 1,000,00 EU energy storage.~
 ~
 The Ultimate Solar Helmet~
 ~
-This combines the ultimate hybrid solar panel from advanced solar panels with the quantum helmet to charge your armor at 512 EU/t 
+This combines the Ultimate Hybrid Solar Panel from Advanced Solar Panels with the quantum helmet to charge your armor at 512 EU/t 
 while still retaining the functionality of the quantum helmet.~
 ~
 The Ultimate lappack~
@@ -602,14 +830,14 @@ The tools can all be charged in a MFE or higher.~
 ~
 The Vajra~
 ~
-Thsi item can break any block (including bedrock) in one hit, even when flying or swimming, but it costs a very, very large 
+This item can break any block (including bedrock) in one hit, even when flying or swimming, but it costs a very, very large 
 amount of EU per block broken~
 ~
 Advanced Drill~
 Thsi drill is 35% faster than the diamond drill but it consumes significantly more power.~
 ~
 Advanced Chainsaw~
-This chainsaw has a higher damage (12) than the normal chinsaw and it also operates 35% faster.
+This chainsaw has a higher damage (12) than the normal chainsaw and it also operates 35% faster.
 
 >HardcoreEnderExpansion, Hardcore Ender Expansion<
 <http://hardcore-ender-expansion.wikia.com/wiki/Home>
@@ -640,15 +868,52 @@ enchant.
 <http://magicalcrops.weebly.com/>
 
 >MagicBees, Magic Bees<
-Magic bees is an addon for the Forestry bee-breeding system that also utilizes Thaumcraft. As a result, all of the information 
+Magic Bees is an addon for the Forestry bee-breeding system that also utilizes Thaumcraft. As a result, all of the information 
 for this mod can be found under the Magic Bees tab in the Thaumonomicon. If you are confused about bees in general, please 
 consult the "Forestry-Bees" book.
 
 >Mekanism, Mekanism<
 <http://mekanism.wikispaces.com/>
 
->MFFS, Modular ForceField Systems<
-<http://calclavia.com/mffs/documentation/>
+>MFFS, Modular Force Field System<
+Modular Force Field System, or MFFS for short, is a mod that allows for the creation of a wide array of force fields.~
+The mod uses it's own form of power, Fortron a telepathic liquid, however can be hooked up to other energy systems from Buildcraft and IndustrialCraft~
+~~~
+Most of the blocks are made up of Focus Matrixes so it won't be until you have a good source of diamonds, redstone and steel.~
+Be sure to check NEI for all the recipes.~
+~~~
+To get started, you'll need to craft a Coercion Deriver and hook it up to a source of power.~
+Be sure to give it an active redstone signal. Once powered the Coercion Deriver will turn from red to blue and begin converting energy into Fortron.~
+~~~
+The Coercion Deriver will now have to be hooked up the other MFFS machines. To do this create a Frequency Card.~
+With this card shift right click, while facing nothing and it will generate a unique frequency ID.~
+This can now be used to set your MFFS frequencies to match.~
+Once a machine is connected and receiving power, from your Coercion Deriver, you'll see a light blue beam between them.~
+~~~
+Our next goal is to store this newly converted energy.~
+The Fortron Capacitor serves as an energy storage for MFFS machines. Designed to store Fortron energy generated by the Coercion Derivers.~
+If you wish to build this, place it nearby the Coercion Derivers, turn it on and set it's frequency.~
+~~~
+You've built up some Fortron, good - as it's time to put together the Force Field Projector.~
+The Force Field Projector is the core of the mod. It uses our generated Fortron energy and projects force fields of various shapes and sizes.~
+To achieve this, craft one of the following projector mode items:~
+Cube Mode~
+Custom Mode~
+Pyramid Mode~
+Sphere Mode~
+Tube Mode~
+~
+Place this newly crafted item into the slot surrounded by outwardly facing arrows.~
+Next, craft some Scale Modules and place them into the Matrix slots on the left side of the GUI screen.~
+Each of these will increase the radius of the projection by a block.~
+Set it to the correct frequency and turn it on. A forcefield of your defined shape and size will start to build.~
+Be sure to note that these are solid blocks.~
+~~~
+Going forward you can start to look at the other modules for your projector, including the Speed Module and Capacity Module.~
+Perhaps you want to give your forcefields methods of security, take a look at Interdiction Matrix or Biometrix Identifier.~
+Want more advance forcefields, investigate the usage of the Force Manipulator.~
+Alot of these blocks and more can be found on the MFFS wiki: http://calclavia.com/mffs/documentation/~
+~
 
 >MFR, MineFactory Reloaded<
 MineFactory Reloaded is a vast mod, comprising many useful 
@@ -670,7 +935,7 @@ Authors: Powercrystals, skyboy026
 Morph is a mod that allows you to take on the characteristics (shape/size/ability(s)) of any creature you kill (except 
 bosses, although that is a config option).~
 ~
-The flight ability is not able to be used until you reach the Nether, and do note that you will lose your morphs on death.~
+All abilities are disabled, and morphs are purely cosmetic.~
 ~
 To access your morphs, press "[" or "]", and then scroll down. Press "Enter" to select your morph.~
 ~
@@ -716,7 +981,7 @@ are self-explanatory, but the one you will likely use the most is next to the ma
 Options/NEI Modes~
 ~
 At the bottom left you will see "options". Clicking on that will bring you to another menu screen. The most useful one 
-is the topmost one, "Inventory". There you can change between "recipe mode", "cheat mode", and "utility mode". Utility 
+is the topmost one, "Inventory". There you can change between "Recipe Mode", "Cheat Mode", and "Utility Mode". Utility 
 mode will let you use the utilities in-game. Recipe mode will, when you left click an item on the main NEI panel, do the 
 same thing as pressing "r", while right clicking will do the same thing as pressing "u". Cheat mode will allow you to 
 obtain any number of items from the main NEI panel by clicking on them. Left clicking will give you 64 (a stack) of items, 
@@ -736,7 +1001,7 @@ Nether ores adds ore generation to the Nether. These ores have a higher yield th
 they also have a propesity to explode, so caution is necessary.
 
 >NotEnoughKeys, Not Enough Keys<
-This mod adds a key-binding menu so it is more simple to navigat through the mess of conflicting keybinds. To access it 
+This mod adds a key-binding menu so it is more simple to navigate through the mess of conflicting keybinds. To access it 
 simply go into options -> controls and then modify as you see fit.
 
 >NuclearControl, Nuclear Control<
@@ -791,8 +1056,31 @@ Plugins for forestry adds compatability between forestry and other mods. It adds
 a coke oven (railcraft) to make sugar/coal charcoal/coke for power.
 
 >PortalGun, Portal Gun<
-<http://ichun.us/w/index.php?title=Portal_Gun>
-
+**<http://ichun.us/w/index.php?title=Portal_Gun>
+The Portal Gun mod allows players to travel between two portals in a similar way to the Portal video games.~
+~
+The basic Portal gun can create two portals with left and right click. Walk through one portal and arrive at the other. 
+This works not just for players but items as well!~
+~
+The Portal gun can also pick up certain blocks such as chests and move them around. ~
+This is done by aiming at the block 
+you would like to move and holding G (default). When the block is where you want it, release G and it will be placed back down. ~
+~~~
+The Portal gun can be upgraded into four different versions: ~
+Atlas' Portal Gun and P-Body's Portal Gun both act the same as the basic Portal gun except the Portal's they create
+are different colours. ~
+This means that the Portals from the Atlas' and P-Body guns are not linked to those of the default portal.~
+~
+They will be linked, however, to all other Atlas' and P-Body gun portals respectively.~
+~~~
+The Bacon Gun and Portal Gun gives each player a unique colour of portal, and so your portals won't get mixed up with anyone 
+else's on a server.~
+~~~
+Portal Gun also adds Portal Spawners which can create portals of whatever colour you choose when 
+supplied with a redstone signal. The portal remains open until the redstone signal is lost.~
+~~~
+Also added are Portal Gun Pedestals. These can hold a Portal Gun and will fire a portal when supplied with a redstone signal. 
+You can retrieve a Portal Gun which has been placed on a Pedestal just by right-clicking.
 >ProjectRed, Project Red<
 <http://projectredwiki.com/wiki/Main_Page>
 

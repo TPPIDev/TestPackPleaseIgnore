@@ -1,3 +1,85 @@
+TPPIv1.0.4PreRelease~
+~
+Important Info:~
+~
+- New Mods! EiraIRC, OpenEye, TiCTooltips, and FZAddons.~
+~
+- Removed Mods! Remote IO.~
+~~~
+Adjustments/Changes:~
+~
+- Liquid Glowstone max height changed to 300.~
+~
+- Documentation added for MFFS, Applied Energistics, Portal Gun, and BiblioCraft.~
+~~~
+- Machines will now unify to IC2 coal dust instead of EnderIO's.~
+~
+- Add a few more tools to the tool rack whitelist, like the watering can.~
+~~~
+- Mekanism changes:~
+~
+- Updated configs for 6.1.0.~
+- Fix Electrolytic Separator using ridiculous amounts of power.~
+- Fixed Gas-Burning Generator crash.~
+- Give the armored jetpack...more...armor.~
+- Fix CME with the Digital Miner.~
+~~~
+- Change TE so pulverizing wool is possible, but you will not get dyes.~
+~
+- Disable the "rust" power of infernal mobs, and remove Angry Endermen from the mob whitelist to become infernal.~
+~~~
+- Vanilla mob heads can no longer be "dug" with the dig spell from AM2, as they were being lost.~
+~
+- Fix OpenBlocks radio config.~
+~~~
+- Add config for EiraIRC that allows easy connection to our ingame chat channel.~
+~
+- Told Thaumic Tinkerer that just because a block ends with "ore" doesn't mean it is an ore (Removed Ender Cores from bedrock dimension).~
+~~~
+- Add OpenEye config that allows for easy tagging of crashes that originate from TPPI.~
+~
+- Cryotheum effects reenabled as the glowstone generator bug was fixed.~
+~~~
+- Disabled the Fluidic Nether Portal as it was crashing clients on placement.~
+~~~
+Mod Updates:~
+~
+- Blood Magic updated to v1.0.1e, a few bugfixes.~
+~
+- CoFHCore updated to 2.0.0.5, ThermalExpansion updated to 3.0.0.7, lots of bugfixes.~
+~~~
+- Added EiraIRC v1.6.3.~
+~
+- EnderIO updated to 1.0.2.363. Guess what, bugfixes.~
+~
+- ExtraCells updated to 1.6.9b. Added the...no, just bugfixes again.~
+~~~
+- Logisitics Pipes updated to 0.7.4.dev.183. Main new feature is the crafting monitoring tree view. Also tons of bugfixes.~
+~
+- Mekanism updated to 6.1.1.TPPI, includes custom bugfixes for pressing issues.~
+~~~
+- MobiusCore updated to 1.2.1.~
+~
+- Opis updated to 1.2.2. Contains a few new features for server owners. Massive network optimization.~
+~~~
+- OpenEye 0.5 added. Allows for easy grouping of crash logs from TPPI, as well as launch analytics. If you do not wish to participate, you may disable your snooper settings from vanilla MC.~
+~
+- Remote IO removed.~
+~~~
+- Tinkers' Construct updated to 1.5.5.7. Adds a blacklist for the drawbridge.~
+~
+- Thaumic Reliquary updated to 1.1.2.TPPI, FIXES research reset bug.~
+~~~
+- TiCTooltips 1.1.5 added.~
+~
+- TPPI-Tweaks updated to 1.1.0-64. Lots of bugfixes and a new GUI for the IRC functionality.~
+~~~
+- Waila updated to 1.5.2a, bugfixes.~
+~
+- Witchery updated to 0.18.4, too many new things to list.~
+~
+- FZaddons added, adds more ores to the FZ processing mechanism.~
+~~~
 TPPIv1.0.3PreRelease~
 Important Info:~
 - Config for Hardcore Ender Expansion was updated to match FTB universal configs. Blocks and items will disappear due to ID changes.  It is recommended that you generate a new End dimension.~

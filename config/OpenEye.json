@@ -1,0 +1,43 @@
+{
+    "gui": {
+        "mainScreenExtraLine": {
+            "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
+            "value": true
+        },
+        "mainScreenNotes": {
+            "comment": "Enables OpenEye additions to main menu screen",
+            "value": true
+        }
+    },
+    "features": {
+        "responseBlacklist": {
+            "value": []
+        },
+        "reportsBlacklist": {
+            "value": []
+        }
+    },
+    "data": {
+        "scanOnly": {
+            "value": false
+        },
+        "tags": {
+            "value": [TPPI 1.0.4]
+        },
+        "sentCrashReportsLimit": {
+            "comment": "Maximum number of crash reports from single category sent per single run",
+            "value": 20
+        }
+    },
+    "debug": {
+        "pingOnInitialReport": {
+            "value": false
+        },
+        "crashOnStartup": {
+            "value": false
+        },
+        "dontSend": {
+            "value": false
+        }
+    }
+}
