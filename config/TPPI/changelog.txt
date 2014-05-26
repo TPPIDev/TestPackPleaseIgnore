@@ -40,6 +40,8 @@ Adjustments/Changes:~
 ~
 - Cryotheum effects reenabled as the glowstone generator bug was fixed.~
 ~~~
+- Disabled the Fluidic Nether Portal as it was crashing clients on placement.~
+~~~
 Mod Updates:~
 ~
 - Blood Magic updated to v1.0.1e, a few bugfixes.~
