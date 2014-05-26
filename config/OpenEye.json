@@ -22,7 +22,10 @@
             "value": false
         },
         "tags": {
-            "value": [TPPI 1.0.4]
+            "value": [
+            	"TPPI",
+            	"TPPI 1.0.5"
+            ]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
