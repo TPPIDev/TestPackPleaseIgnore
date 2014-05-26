@@ -15,7 +15,7 @@ Bibliowoods[Natura] v1.1
 Big Reactors v0.3.0A
 Binnies Mods v1.8.0
 Biomes O' Plenty v1.2.1.416
-Blood Magic v1.0.1b
+Blood Magic v1.0.1e
 Botania beta16
 BspkrsCore v5.3
 BuildCraft v4.2.2
@@ -25,26 +25,28 @@ Carpenter's Blocks v2.0.8
 Chisel v1.5.2
 Code Chicken Core v0.9.0.9
 Code Chicken Lib v1.0.0.62
-COFH Core v2.0.0.2
+COFH Core v2.0.0.5
 ComputerCraft v1.58
 Damage Indicators v2.9.2.3
 DartCraft v0.2.18
 DenLib v3.2.6
 Dimensional Anchors v57.1.96
+EiraIRC v1.6.3
 ElectroMagicTools v1.0.9e
 Emashers Resource v1.2.3.4  (lol)
-EnderIO v1.0.1.353
+EnderIO v1.0.2.363
 Ender Prospecting v1.0.1.6
 Ender Storage v1.4.3.6
 Engineer's Toolbox v1.1.8.3
 EVOC v1.0.0a
-Extra Cells v1.6.8f
+Extra Cells v1.6.9b
 Extra Utilities v1.0.3c
 Factorization v0.8.34
 FlatSigns v1.4.0.15
 ForbiddenMagic pr0.333
-Forestry v2.3.1.1\
+Forestry v2.3.1.1
 ForgeMultipart v1.0.0.250
+FZAddons v0.0.1
 Gendustry v1.0.3.41
 Gravisuite v1.9.9a
 GregTech v4.07o
@@ -60,14 +62,14 @@ InventoryTweaks v1.57-devb86
 IronChests v5.4.1.702
 JABBA v1.1.3
 JourneyMap Unlimited v3.3.2
-Logistics Pipes v0.7.4dev.145
+Logistics Pipes v0.7.4dev.183
 Magical Crops v3.2.0_Beta15a
 Magic Bees v2.1.11
-Mekanism v6.1.0.CUSTOM (combined jar)
+Mekanism v6.1.1.TPPI (combined jar)
 Mekanism Generators v6.1.0.CUSTOM (combined jar)
 MineFactoryReloaded v2.7.8-482
 Minetweaker v2.3.1
-Mobius Core v1.2.0
+Mobius Core v1.2.1
 Modular Force Field Systems v3.6.2.59
 Modular Powersuits v0.10.0-92
 Modular Powersuits Addons v1.6.4-884
@@ -83,10 +85,11 @@ Not Enough Keys v0.0.4
 Numina v0.1.2-55
 Obsidian Pressure Plates v2.0.0.15
 OpenBlocks v1.2.7
+OpenEye v0.5
 OpenModsLib v0.4b
 OpenPeripheralAddons v0.1.3
 OpenPeripheralCore v0.3.3
-Opis v1.2.1
+Opis v1.2.2
 Pam's Clay Spawn v1.6.4
 Plugins for Forestry v3.2.30
 PortalGun v2.0.2
@@ -97,25 +100,25 @@ Railcraft v8.4.0.0
 RcDusts v0.0.6d
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
-RemoteIO v1.11
 ServerTools v1.6.4-23
 SlickUtil
 SortFix v1.0
 Steve's Carts 2.0.0b10
 Steve's Factory Manager vA83
 Thaumcraft v4.1.0g
-Thaumic Reliquary v1.1.1.TPPI
+Thaumic Reliquary v1.1.2.TPPI
 Thaumic Tinkerer v2.3-137
 Thaumic Tinkerer KAMI vJ6
-Thermal Expansion v3.0.0.2
-Tinker's Construct v1.5.5.4
+Thermal Expansion v3.0.0.7
+TiCTooltips v1.1.5
+Tinker's Construct v1.5.5.7
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.1.0-45
+TPPITweaks v1.1.0-64
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
-Waila v1.5.1a
+Waila v1.5.2a
 Wireless Redstone - CBE v1.4.0.7
-Witchery v0-16-3_164
+Witchery v0.18.4
 WorldCore v1.1.0.17
 Zan's Minimap v1.6.4
