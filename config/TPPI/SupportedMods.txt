@@ -566,7 +566,7 @@ which can be used as a fuel.~
 ~
 Limestone can be used to make quicklime which is used in Engineer's Toolbox's ore processing.~
 ~
-Emery ore is simply used to make the grinder (Engineer's Toolbox). It is about as rare as diamonds.~
+Emery ore is simply used to make the grinder (Engineer's Toolbox). It is about as rare as diamonds. But, they spawn in larger clusters at various heights~
 ~
 Red Sandstone is aesthetic?
 
@@ -685,6 +685,14 @@ they were stored in.~
 ~
 If you place a diamond in the latch of an ender chest it will become linked to the player that placed the placed the 
 diamond, meaning that each player in a SMP server can have access to all 4096 frequencies.
+~
+Ender Chests are virtually the same as vanilla, except that the frequencies can be changed.
+~
+Ender Tanks are used to transfer liquids across long distances, even across dimensions. The frequencies can be changed, 
+just like the Ender Chest. Note: Ender Tank frequencies do not interfere wih Ender Chests, and vice-versa. Liquids can be pumped 
+in/out from the bottom. Make sure that the arrow faces the right way. If blue is facing up, it inputs, and if the orange is facing up,
+it inputs into a valid container. Ender Tanks can only hold 16 buckets of a certain liquid at a time.
+
 
 
 >EngineersToolbox, Engineer's Toolbox<
@@ -696,6 +704,7 @@ diamond, meaning that each player in a SMP server can have access to all 4096 fr
 <https://github.com/M3gaFr3ak/ExtraCells/wiki>
 
 **>ExtraTrees, Extra Trees<**
+Like Extra Bees, bu with trees.
 
 >ExtraUtilities, Extra Utilities<
 Extra Utilities adds a bunch of useful blocks. It even adds it's own in game-documentation! Simply press use ("u") while 
@@ -877,7 +886,9 @@ consult the "Forestry-Bees" book.
 
 >MFFS, Modular Force Field System<
 Modular Force Field System, or MFFS for short, is a mod that allows for the creation of a wide array of force fields.~
-The mod uses it's own form of power, Fortron a telepathic liquid, however can be hooked up to other energy systems from Buildcraft and IndustrialCraft~
+The mod uses it's own form of power, Fortron a telepathic l
+This mod also adds in generation to the Nether, allowing you to make bows that have a higher durability than vanilla ones.~
+~iquid, however can be hooked up to other energy systems from Buildcraft and IndustrialCraft~
 ~~~
 Most of the blocks are made up of Focus Matrixes so it won't be until you have a good source of diamonds, redstone and steel.~
 Be sure to check NEI for all the recipes.~
@@ -959,8 +970,6 @@ that can be harvested by right clicking on the bush. The berries don't fill your
 increase your saturation (a hidden value that determines when you will become hungry again), and you can even eat the 
 berries when full to max out your saturation.~
 ~
-This mod also adds in generation to the Nether, allowing you to make bows that have a higher durability than vanilla ones.~
-~
 This mod also adds in cotton plants. These will grow until white balls appear on the plant, then can be harvested and will 
 revert to an earlier stage of growth rather than having to be replanted.~
 Finally, wheat/barley (wild form of wheat) can be crafted shapelessly into flour, which can then be smelted into bread.
@@ -1017,7 +1026,12 @@ Mossy Cobblestone Pressure Plates~
 Will only give off a signal if a NPC (ex: a villager) is standing on them.~ 
 ~
 Both pressure plates can be silent (no clicking sound) and shrouded (see-through). It should be noted that to create a 
-silent and shrouded pressure plate you must apply silent first and then shrouded.
+silent and shrouded pressure plate you must apply 
+The only thing to know that is not documented in the book is that some research will be impossible, you can throw it 
+away and restart with newly generated research notes at any time though.
+ 
+>ThaumicTinkerer, Thaumic Tinkerer<
+Thaumic Tinkerer is an addon to Thaumcraft (asilent first and then shrouded.
 
 **>OpenBlocks, OpenBlocks<**
 
@@ -1084,11 +1098,17 @@ You can retrieve a Portal Gun which has been placed on a Pedestal just by right-
 >ProjectRed, Project Red<
 <http://projectredwiki.com/wiki/Main_Page>
 
-**>QuarryPlus, Quarry Plus<**
+>QuarryPlus, Quarry Plus<
+Basically, this adds Quarries on steroids.
 
 >Railcraft-Rails, Railcraft<
 <http://railcraft.wikispaces.com/>
-
+ flame when 
+the resdtone signal is turned off.
+~~~
+Tinker's Mechworks is an addon for Tinkers' Construct. It adds drawbridges, an igniter, and signal busses/terminals, all 
+of which are described on the following pages.
+~~~
 >Railcraft-Other, Railcraft-Other<
 <http://railcraft.wikispaces.com/>
 
@@ -1127,12 +1147,7 @@ To get started, craft a iron capped wooden wand,
 place a bookshelf on the ground, and right-click your wand on it.~
 ~
 It should transform into a Thaumonomicon; the true guidebook for Thaumcraft!~
-~
-The only thing to know that is not documented in the book is that some research will be impossible, you can throw it 
-away and restart with newly generated research notes at any time though.
- 
->ThaumicTinkerer, Thaumic Tinkerer<
-Thaumic Tinkerer is an addon to Thaumcraft (a magical mod). All the information is documented in the Thaumonomicon.
+~ magical mod). All the information is documented in the Thaumonomicon.
  
 >ThermalExpansion, Thermal Expansion 3<
 Thermal Expansion (TE) is a "technology" mod that adds a power system called Redstone Flux (RF). 
@@ -1168,9 +1183,6 @@ you should have spawned with.
 ~
 
 >TinkersMechworks, Tinkers' Mechworks<
-Tinker's Mechworks is an addon for Tinkers' Construct. It adds drawbridges, an igniter, and signal busses/terminals, all 
-of which are described on the following pages.
-~~~
 Drawbridge~
 ~
 The drawbridge can extend and retract 15 blocks in the direction it is facing. It is activated with a redstone signal. 
@@ -1183,9 +1195,7 @@ The advanced drawbridge can extend more than one type of block, as each block is
 ~~~
 Igniter~
 ~
-The igniter will light the block in front of it on fire when given a redstoen signal and will extinguish the flame when 
-the resdtone signal is turned off.
-~~~
+The igniter will light the block in front of it on fire when given a redstoen signal and will extinguish the
 Signal Bus/Terminal/Wire~
 ~
 These items function as redstone that can travel through blocks. To get started, craft a spool of wire by surrounding a 
