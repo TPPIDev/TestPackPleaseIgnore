@@ -505,7 +505,7 @@ aesthetic blocks similar to the original one.~
 ~
 Chisel adds two blocks to world-generation, marble and limestone. They are purely for looks.~ 
 ~
-To get started first craft a chisel with two sticks and an iron ingot (diagonally in a crafting table). There are two ways 
+To get started first craft a chisel with a stick and an iron ingot (diagonally in a crafting table). There are two ways 
 to use it, either in-world or in a crafting GUI.
 ~~~
 To bring up the GUI, right click the chisel while it is in you hotbar. Here you can place the block to modify 
