@@ -22,21 +22,27 @@ Now I am after a blank line
 ****************************************************************************
 Greetings everyone, and welcome to Test Pack Please Ignore!~
 ~
-~
-We're really excited to bring this pack to you all.
+We, here, at the TPPI headquarters really excited to bring this pack to you all.~
 ~~~
 We also couldn't have done so without the Feed The Beast subreddit community, 
 who the pack is made by and for.~
 ~
 Thank you all so very much for making TPPI possible!
 ~~~
-This book you're reading is added by our own custom mod, TPPI Tweaks.~
+So, your first question probably is, "What is this book?"~
+Well, this book you're reading is added by our own custom mod, TPPI Tweaks.~
 ~
-It will always automatically contain the most up-to-date information 
-on the pack, so check it often!~
+TPPI Tweaks is our own custom mod that allows us to change a bunch of different things within each mod.~
 ~
-Should you want a new copy, you can craft one with an iron ingot and three paper,
-but this is not necessary to recieve new info!.
+Should you want a new copy, check the recipe in NEI.~
+~~~
+Using both configs and TPPItweaks allows us to heavily configure this pack to our liking;
+which is overall stability and balance. (No, this is not GT doing everything, it's us)
+Not balance as in make everything so difficult you never want to play, but balance 
+(being the heavily subjective term that it is) as in everything is useful.~
+~~~
+To see a full list of tweaked recipes, type "Tweaked" in NEI. To see the remaining list
+of things that are tweaked (not recipes), you can find that at the end of this book.~
 ~~~
 Another feature of TPPI Tweaks is the in-game commands it adds.~
 ~
@@ -47,24 +53,22 @@ We're also working on a project to add in-game documentation for all
 the mods in the pack, to be accessed via commands.~
 ~~~
 Type /tppi guide to receive an all-around guide to the documentation system, 
-the easiest way to obtain info on any mod you wish.~
+which is the easiest way to obtain info on any mod you wish.~
 ~~~
 Type /tppi mods <modname> to get an individual book for a mod, or to get
 a link if the mod has not had in-game documentation written for it yet.~
 /tppi mods list will give you a list of all mods that are possible to be used in the command.
 ~~~
-Naturally, this is a big job, and it's not yet finished.
+Naturally, this is a big job, and it's not yet finished, but we're getting close!
 ~
-It is our hope that the community will get 
+Our community is already getting 
 involved in documenting these mods via our mod's system.~
 ~
 If you'd like to help out with this documentation project or any other parts of TPPI's 
 development, feel free to type the command /tppi getInvolved to learn more.
 ~~~
-Lastly, the /tppi ores command will give you a book on TPPI's unique layer-based 
-ore generation system.~
-~
-Judge has worked very hard on it, and we're very happy that almost everyone sees it as a good change.
+Lastly, TPPI uses a very heavily modified ore generation system. To check it out, type /tppi ores
+for an ingame guide book.
 ~~~
 That's about it. Have fun!~
 ~
@@ -78,3 +82,7 @@ That's about it. Have fun!~
 ~
          Love,~
         -The Dev Team
+~~~
+TWEAKED ITEMS
+<Insert list here>
+
