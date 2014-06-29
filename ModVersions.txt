@@ -100,7 +100,7 @@ Quarry Plus v1.0.3
 Railcraft v8.4.0.0
 RcDusts v0.0.6d
 RecipeTweakingCore v1.0.0-2
-Redstone Armoury v1.0-1
+Redstone Armory v1.0-1
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
 ServerTools v1.6.4-23
