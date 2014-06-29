@@ -28,10 +28,10 @@ Code Chicken Lib v1.0.0.62
 COFH Core v2.0.0.5
 ComputerCraft v1.58
 Damage Indicators v2.9.2.3
-DartCraft v0.2.18
+DartCraft v0.2.20v2
 DenLib v3.2.6
 Dimensional Anchors v57.1.96
-EiraIRC v1.6.3
+EiraIRC v1.7.0-beta3
 ElectroMagicTools v1.0.9e
 Emashers Resource v1.2.3.4  (lol)
 EnderIO v1.0.2.363
@@ -65,11 +65,12 @@ JourneyMap Unlimited v3.3.2
 Logistics Pipes v0.7.4dev.183
 Magical Crops v3.2.0_Beta15a
 Magic Bees v2.1.11
-Mekanism v6.1.1.TPPI (combined jar)
-Mekanism Generators v6.1.0.CUSTOM (combined jar)
+Mekanism v6.1.2.TPPI (combined jar)
+Mekanism Generators v6.1.2.CUSTOM (combined jar)
 MineFactoryReloaded v2.7.8-482
 Minetweaker v2.3.1
 Mobius Core v1.2.1
+ModpackTweaks v1.1.0-5
 Modular Force Field Systems v3.6.2.59
 Modular Powersuits v0.10.0-92
 Modular Powersuits Addons v1.6.4-884
@@ -84,11 +85,11 @@ Not Enough Items v1.6.1.9
 Not Enough Keys v0.0.4
 Numina v0.1.2-55
 Obsidian Pressure Plates v2.0.0.15
-OpenBlocks v1.2.7
+OpenBlocks v1.2.9
 OpenEye v0.5
-OpenModsLib v0.4b
-OpenPeripheralAddons v0.1.3
-OpenPeripheralCore v0.3.3
+OpenModsLib v0.5.1
+OpenPeripheralAddons v0.1.5cc158
+OpenPeripheralCore v0.4.1cc158
 Opis v1.2.2
 Pam's Clay Spawn v1.6.4
 Plugins for Forestry v3.2.30
@@ -98,6 +99,8 @@ Project:RED (Base, Compat, Integration, Lighting, World) v4.3.5.30
 Quarry Plus v1.0.3
 Railcraft v8.4.0.0
 RcDusts v0.0.6d
+RecipeTweakingCore v1.0.0-2
+Redstone Armoury v1.0-1
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
 ServerTools v1.6.4-23
@@ -113,12 +116,12 @@ Thermal Expansion v3.0.0.7
 TiCTooltips v1.1.5
 Tinker's Construct v1.5.5.7
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.1.0-64
+TPPITweaks v1.1.0-73
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
 Waila v1.5.2a
 Wireless Redstone - CBE v1.4.0.7
-Witchery v0.18.4
+Witchery v0.19.2
 WorldCore v1.1.0.17
 Zan's Minimap v1.6.4

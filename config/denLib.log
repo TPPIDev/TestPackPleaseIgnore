@@ -2069,6 +2069,7 @@ Ore: itemTear
 Ore: itemTear
 Ore: itemClaw
 Ore: itemBacon
+Ore: dustDiamond
 Ore: plateThaumium
 Ore: blockAluminium
 Ore: blockAluminum
@@ -2239,7 +2240,6 @@ Ore: componentArtificialMuscle
 Ore: componentSolarPanel
 Ore: componentMagnet
 Ore: componentComputerChip
-Ore: blockCompressedRedstone
 Ore: glassHardened
 Ore: glassReinforced
 Ore: glassReinforced
@@ -2247,6 +2247,7 @@ Ore: glassReinforced
 Ore: resinIC2
 Ore: oreMCropsEssence
 Ore: oreMCropsNetherEssence
+Ore: blockCompressedRedstone
 Ore: greggy_greg_do_please_kindly_stuff_a_sock_in_it
 Ore: dyeWhite
 Ore: dyeOrange
@@ -2278,6 +2279,12 @@ Setting up meta item: 4600:2 Cactus Charcoal
 Setting up meta item: 4600:3 Cactus Coke
 Fluid: molten redstone
 Fluid: molten conductive redmetal
+Ore: blockElectrumFlux
+Ore: blockCrystalFlux
+Ore: dustElectrumFlux
+Ore: ingotElectrumFlux
+Ore: nuggetElectrumFlux
+Ore: gemCrystalFlux
 Ore: dustCopper
 Ore: dustGold
 Ore: dustIron
@@ -2295,13 +2302,6 @@ Ore: dustManyullyn
 Ore: ingotIron
 Ore: ingotGold
 Ore: oreAmethyst
-Ore: blockElectrumFlux
-Ore: blockCrystalFlux
-Ore: dustElectrumFlux
-Ore: ingotElectrumFlux
-Ore: nuggetElectrumFlux
-Ore: gemCrystalFlux
-Ore: rodIron
 Ore: diamondNugget
 Ore: plankWood
 Ore: treeSapling
