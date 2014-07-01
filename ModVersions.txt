@@ -4,18 +4,19 @@ Additional Buildcraft Objects v1.0.7.558
 Advanced Genetics v1.4.2
 Advanced Solar Panels v3.4.7
 Applied Energistics rv14finale3
+AnimationAPI v1.1.2
 Armor Status HUD v1.15
-ArsMagica2 v1.1.2b
+ArsMagica2 v1.2.0.17
 AutoUtils v1.0.1
-BdLib v1.1.0.21
+BdLib v1.1.0.48
 BiblioCraft v1.5.5
 Bibliowoods[BiomesOPlenty] v1.3
 Bibliowoods[Forestry] v1.3
 Bibliowoods[Natura] v1.1
-Big Reactors v0.3.0A
+Big Reactors v0.3.4.A2
 Binnies Mods v1.8.0
 Biomes O' Plenty v1.2.1.416
-Blood Magic v1.0.1e
+Blood Magic v1.0.1g
 Botania beta16
 BspkrsCore v5.3
 BuildCraft v4.2.2
@@ -26,28 +27,28 @@ Chisel v1.5.2
 Code Chicken Core v0.9.0.9
 Code Chicken Lib v1.0.0.62
 COFH Core v2.0.0.5
-ComputerCraft v1.58
+ComputerCraft v1.63
 Damage Indicators v2.9.2.3
 DartCraft v0.2.20v2
 DenLib v3.2.6
 Dimensional Anchors v57.1.96
 EiraIRC v1.7.0-beta3
 ElectroMagicTools v1.0.9e
-Emashers Resource v1.2.3.4  (lol)
+Emashers Resource v1.2.3.5
 EnderIO v1.0.2.363
 Ender Prospecting v1.0.1.6
 Ender Storage v1.4.3.6
-Engineer's Toolbox v1.1.8.3
+Engineer's Toolbox v1.1.8.4
 EVOC v1.0.0a
 Extra Cells v1.6.9b
 Extra Utilities v1.0.3c
 Factorization v0.8.34
 FlatSigns v1.4.0.15
-ForbiddenMagic pr0.333
+ForbiddenMagic pr0.35a
 Forestry v2.3.1.1
 ForgeMultipart v1.0.0.250
 FZAddons v0.0.1
-Gendustry v1.0.3.41
+Gendustry v1.0.3.78
 Gravisuite v1.9.9a
 GregTech v4.07o
 Hardcore Ender Expansion v1.5
@@ -77,7 +78,7 @@ Modular Powersuits Addons v1.6.4-884
 Morph v0.7.0
 Mystcraft v0.10.12.01
 Natura v2.1.14
-NEIaddons v1.10.4.64
+NEIaddons v1.10.5.70
 NEIplugins v1.1.0.6
 Nether Ores v2.2.1-14
 Not Enough Codecs v0.1
@@ -88,8 +89,8 @@ Obsidian Pressure Plates v2.0.0.15
 OpenBlocks v1.2.9
 OpenEye v0.5
 OpenModsLib v0.5.1
-OpenPeripheralAddons v0.1.5cc158
-OpenPeripheralCore v0.4.1cc158
+OpenPeripheralAddons v0.1.5
+OpenPeripheralCore v0.4.1
 Opis v1.2.2
 Pam's Clay Spawn v1.6.4
 Plugins for Forestry v3.2.30
@@ -100,7 +101,7 @@ Quarry Plus v1.0.3
 Railcraft v8.4.0.0
 RcDusts v0.0.6d
 RecipeTweakingCore v1.0.0-2
-Redstone Armory v1.0-1
+Redstone Armory v1.0-2
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
 ServerTools v1.6.4-23
@@ -110,7 +111,7 @@ Steve's Carts 2.0.0b10
 Steve's Factory Manager vA83
 Thaumcraft v4.1.0g
 Thaumic Reliquary v1.1.2.TPPI
-Thaumic Tinkerer v2.3-137
+Thaumic Tinkerer v2.3-140
 Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.7
 TiCTooltips v1.1.5
