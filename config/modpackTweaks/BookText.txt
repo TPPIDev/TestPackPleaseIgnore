@@ -1,4 +1,4 @@
-**This is the file that TPPI Tweaks reads its info from, it is used for changelogs and information on the modpack**
+**This is the file that ModpackTweaks reads its info from, it is used for changelogs and information on the modpack**
 **To add to the file, type what you want, and separate pages by using the phrase ~~~ **
 **The code will interpret "~~~" as a page break, and format the book accordingly**
 **In addition, adding a "~" to the end of a line will add a line break**
@@ -20,69 +20,78 @@ Now I am after a blank line
 
 **Begin book text after asterisks**
 ****************************************************************************
-Greetings everyone, and welcome to Test Pack Please Ignore!~
+Greetings everyone, and welcome to...~
 ~
-We, here, at the TPPI headquarters really excited to bring this pack to you all.~
-~~~
-We also couldn't have done so without the Feed The Beast subreddit community, 
-who the pack is made by and for.~
+ §oTest Pack~
+        Please Ignore§r!~
+~
+We are very excited to finally be releasing the pack to the public.~
+~
+We couldn't have done this without the FTB subreddit community, who were integral in shaping this pack to be what you are playing now.~
 ~
 Thank you all so very much for making TPPI possible!
 ~~~
-So, your first question probably is, "What is this book?"~
-Well, this book you're reading is added by our own custom mod, TPPI Tweaks.~
+So, your first question probably is,~
 ~
-TPPI Tweaks is our own custom mod that allows us to change a bunch of different things within each mod.~
+  "§oWhat is this book?§r"~
 ~
-Should you want a new copy, check the recipe in NEI.~
+Well, this book you're reading is added by our own custom mod,~
+~
+~
+   §4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§c!§r
 ~~~
-Using both configs and TPPItweaks allows us to heavily configure this pack to our liking;
-which is overall stability and balance. (No, this is not GT doing everything, it's us)
-Not balance as in make everything so difficult you never want to play, but balance 
-(being the heavily subjective term that it is) as in everything is useful.~
+§4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is what allows us to give you the book you are currently reading, as well as many other useful features.~
+~
+Should you want a new copy of this book, there is a recipe in NEI.~
 ~~~
-To see a full list of tweaked recipes, type "Tweaked" in NEI. To see the remaining list
-of things that are tweaked (not recipes), you can find that at the end of this book.~
+§4T§cP§6P§2I §1T§5w§4e§ca§6k§2s§0 is another custom mod we use, which helps us customize recipes and add other compatability between mods.~
+~
+Using both configs and §4T§cP§6P§2I §1T§5w§4e§ca§6k§2s§0 allows us to heavily configure this pack to our liking.
 ~~~
-Another feature of TPPI Tweaks is the in-game commands it adds.~
+The changes that have been made are not to make the game harder, but to extend the life of a single world.~
 ~
-The changelog can be found by typing /tppi changelog, which will of course always 
-be up to date, no need to ever get a new copy.~
-~
-We're also working on a project to add in-game documentation for all 
-the mods in the pack, to be accessed via commands.~
+The end goal of the pack is to make sure that no one path is superior to any other.~
 ~~~
-Type /tppi guide to receive an all-around guide to the documentation system, 
-which is the easiest way to obtain info on any mod you wish.~
+To see a full list of tweaked recipes, type "Tweaked" in NEI.~
+~
+To see the remaining list of things that are tweaked (not recipes), you can find that at the end of this book.~
 ~~~
-Type /tppi mods <modname> to get an individual book for a mod, or to get
-a link if the mod has not had in-game documentation written for it yet.~
-/tppi mods list will give you a list of all mods that are possible to be used in the command.
+Another feature of §4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is the in-game commands it adds.~
+~
+The changelog can be found by typing §l/tppi changelog§r, which will of course always be up to date, no need to ever get a new copy.~
+~
+There is also a system in place to receieve ingame documentation for most mods in the pack.~
+~
+Type §l/tppi guide§r to receive an all-around guide to the mods in the pack, the easiest way to obtain any info you wish.~
 ~~~
-Naturally, this is a big job, and it's not yet finished, but we're getting close!
+Type §l/tppi mods <modname>§r to get an individual book for a mod, or to get a link if the mod has not had in-game documentation written for it yet.~
 ~
-Our community is already getting 
-involved in documenting these mods via our mod's system.~
-~
-If you'd like to help out with this documentation project or any other parts of TPPI's 
-development, feel free to type the command /tppi getInvolved to learn more.
+§l/tppi mods list§r will give you a list of all mods that are possible to be used in the command.
 ~~~
-Lastly, TPPI uses a very heavily modified ore generation system. To check it out, type /tppi ores
-for an ingame guide book.
+Naturally, this is a big job, and it's not yet finished, but we're getting close!~
+~
+Our community is already getting involved in documenting these mods via our mod's system.~
 ~~~
-That's about it. Have fun!~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-         Love,~
-        -The Dev Team
+If you'd like to help out with this documentation project or any other parts of TPPI's development, feel free to type the command §l/tppi getInvolved§r to learn more.
 ~~~
-TWEAKED ITEMS
-<Insert list here>
-
+Lastly, TPPI uses a very heavily modified ore generation system.~
+~
+To check it out, type §l/tppi ores§r for an ore generation guide book.
+~~~
+~
+     That's about it.~
+~
+~
+~
+~
+        Have fun!
+~
+~
+~
+~
+~
+  - §o"The Developers"
+~~~
+TWEAKED ITEMS~
+~
+// TODO: this
