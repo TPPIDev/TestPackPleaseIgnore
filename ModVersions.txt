@@ -8,7 +8,7 @@ AnimationAPI v1.1.2
 Armor Status HUD v1.15
 ArsMagica2 v1.2.0.18
 AutoUtils v1.0.1
-BdLib v1.1.0.48
+BdLib v1.2.3.48
 BiblioCraft v1.5.5
 Bibliowoods[BiomesOPlenty] v1.3
 Bibliowoods[Forestry] v1.3
@@ -32,7 +32,7 @@ Damage Indicators v2.9.2.3
 DartCraft v0.2.20v2
 DenLib v3.2.6
 Dimensional Anchors v57.1.96
-EiraIRC v1.7.0-beta3
+EiraIRC v1.7.0-beta6
 ElectroMagicTools v1.0.9e
 Emashers Resource v1.2.3.5
 EnderIO v1.0.2.363
@@ -48,7 +48,7 @@ ForbiddenMagic pr0.35a
 Forestry v2.3.1.1
 ForgeMultipart v1.0.0.250
 FZAddons v0.0.1
-Gendustry v1.0.3.78
+Gendustry v1.1.3.78
 Gravisuite v1.9.9a
 GregTech v4.07o
 Hardcore Ender Expansion v1.5
@@ -61,7 +61,7 @@ InfernalMobs v1.6.4
 InfiniBows v1.2.0.14
 InventoryTweaks v1.57-devb86
 IronChests v5.4.1.702
-JABBA v1.1.3
+JABBA v1.1.4
 JourneyMap Unlimited v3.3.2
 Logistics Pipes v0.7.4dev.183
 Magical Crops v3.2.0_Beta15a
@@ -70,8 +70,8 @@ Mekanism v6.1.2.TPPI (combined jar)
 Mekanism Generators v6.1.2.CUSTOM (combined jar)
 MineFactoryReloaded v2.7.8-482
 Minetweaker v2.3.1
-Mobius Core v1.2.1
-ModpackTweaks v1.1.0-5
+Mobius Core v1.2.2
+ModpackTweaks v1.1.0-10
 Modular Force Field Systems v3.6.2.59
 Modular Powersuits v0.10.0-92
 Modular Powersuits Addons v1.6.4-884
@@ -100,7 +100,7 @@ Project:RED (Base, Compat, Integration, Lighting, World) v4.3.5.30
 Quarry Plus v1.0.3
 Railcraft v8.4.0.0
 RcDusts v0.0.6d
-RecipeTweakingCore v1.0.0-2
+RecipeTweakingCore v1.0.0-4
 Redstone Armory v1.0-2
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
@@ -110,14 +110,14 @@ SortFix v1.0
 Steve's Carts 2.0.0b10
 Steve's Factory Manager vA83
 Thaumcraft v4.1.0g
-Thaumic Reliquary v1.1.2.TPPI
+Thaumic Reliquary v1.1.4.TPPI
 Thaumic Tinkerer v2.3-140
 Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.7
 TiCTooltips v1.1.5
 Tinker's Construct v1.5.5.7
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.1.0-73
+TPPITweaks v1.1.0-83
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal Electricity Core v3.1.0.74
