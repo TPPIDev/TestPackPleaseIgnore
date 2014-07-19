@@ -1,6 +1,10 @@
 #########    Mimicry ChangeLog    #########
 
+"--Planned--"
+"add option for larger mimic costs"
 "--Mimicry Changelog--"
+"[1/22/14_1.3.8.2]"
+"fixed a potential bug with the recipe configs where the noDustRecipes config wasn't working is some cases"
 "[1/22/14_1.3.8.1]"
 "finalized rework of smelting mimicry"
 "[1/21/14_1.3.8]"
