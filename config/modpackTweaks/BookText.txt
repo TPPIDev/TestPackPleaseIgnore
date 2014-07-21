@@ -31,16 +31,18 @@ We couldn't have done this without the FTB subreddit community, who were integra
 ~
 Thank you all so very much for making TPPI possible!
 ~~~
-So, your first question probably is,~
+So, your first question probably is:~
 ~
   "§oWhat is this book?§r"~
 ~
-Well, this book you're reading is added by our own custom mod,~
+Well, this book is added by our own custom mod,~
 ~
 ~
    §4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§c!§r
 ~~~
-§4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is what allows us to give you the book you are currently reading, as well as many other useful features.~
+§4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is what allows us to give you the book you are currently reading, as well as many other useful features related to modpacks.~
+~
+If you would like to use it, §4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is availiable for use in other modpacks and is freely downloadable.~
 ~
 Should you want a new copy of this book, there is a recipe in NEI.~
 ~~~
@@ -54,7 +56,7 @@ The end goal of the pack is to make sure that no one path is superior to any oth
 ~~~
 To see a full list of tweaked recipes, type "Tweaked" in NEI.~
 ~
-To see the remaining list of things that are tweaked (not recipes), you can find that at the end of this book.~
+To see the remaining list of things that are tweaked (not recipes), simply turn to the end of this book.~
 ~~~
 Another feature of §4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is the in-game commands it adds.~
 ~
@@ -94,4 +96,50 @@ To check it out, type §l/tppi ores§r for an ore generation guide book.
 ~~~
 TWEAKED ITEMS~
 ~
-// TODO: this
+Please note that most of these items are listed here because they are DISABLED.~
+~
+For balance tweaks, check recipes in NEI.~
+~~~
+Auto-Output Upgrade (Advanced Genetics - Prevents crashing)~
+~
+Iron->Iridum in the MT (Advanced Solars - Balance)~
+~
+Titanium->Chrome in the MT (Advanced Solars - Balance)~
+~
+Spatial IO stuff (AE - Unstable)~
+~~~
+Bibliocraft can only make 2 copies using one plate and uses more XP (Balance, discourages exploit)~
+~
+Pixies and Phantom mobs are disabled (BoP)~
+~
+Force Shears (Dartcraft - Prevents crash on servers)~
+~
+Portal Guns cannot be found in dungeon loot, you must craft it (Portal Gun - Balance)~
+~~~
+Hammering of non-basic plates using the forge hammer is disabled (Gregtech/IC2 - Basic=Gold, Iron, Copper, etc.. Non-basic=Stainless Steel, Titanium, etc.. Balance)~
+~
+Uncrafting Table (Twilight Forest - Prevents known and probably unknown exploits)~
+~
+Power requirement for LP is off (Encourages it over AE)~
+~
+Morph Abilities are off (Use Advanced Genetics)~
+~~~
+Project:RED mechanical module (Identical to LP..)~
+~
+Time Torch (Dartcraft - Balance)~
+~
+Repair enchantment on infusing Dartcraft stuff (Balance - Repair isn’t intended for everything and shouldn’t be able to be applied on these extremely powerful weapons/armour)~
+~
+All AM2 mobs except Mana Creepers and Mages are disabled. Flickers still exist, of course. (Lag, annoyance. To summon nature guardian, we added a recipe for its spawn egg)~
+~~~
+Removed Flight from Advanced Genetics (Obvious balance reasons - controversial, but necessary to keep various mod items from being made completely obsolete)~
+~
+Removed More Health Option from Advanced Genetics (Stacks improperly with TiC hearts, leading to massive amounts of health)~
+~
+Ethereal Processor from ElectroMagicTools (Prevents dupes with GT)~
+~
+Removed Ender Tank. (Prevents fluid duplication)~
+~~~
+If we've forgotten anything, let us know on our IRC channel!~
+~
+Thanks, and have fun!~
