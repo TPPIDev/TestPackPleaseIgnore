@@ -6,7 +6,7 @@ Advanced Solar Panels v3.4.7
 Applied Energistics rv14finale3
 AnimationAPI v1.1.2
 Armor Status HUD v1.15
-ArsMagica2 v1.2.0.18
+ArsMagica2 v1.2.0.22
 AutoUtils v1.0.1
 BdLib v1.2.3.48
 BiblioCraft v1.5.5
