@@ -236,3 +236,32 @@ That's all!:~
 Hope you enjoyed this guide, and if you need anything added please let me know!~
 Written by: capSAR273~
 ~
+>IronChests, Iron Chests<
+Storage...you always need more of it!~
+This mod adds chests that are much larger than your regular double chest.~
+There are copper, iron, gold, silver, diamond, obsidian, and crystal chests.~
+To make an iron chest for example, surround a wooden chest with iron ingots.~
+Check NEI for the higher recipies, as some aren't all like the first example.~
+Want to upgrade an existing chest without having to break it? See the next page.~
+~~~
+Upgrading:~
+~
+Make a chest upgrade, and right click a single or couble chest to use it!~
+If you upgrade a double chest it will split the chest in half, one side getting the upgrade.~
+Different chests have different properties, see the next page for that info.~
+~~~
+Chest Types:~
+~
+Copper: 45 slots~
+Iron: 54 slots~
+Silver: 72 slots~
+Gold: 81 slots~
+Diamond: 108 slots~
+Crystal: 108 slots, you can see the contents inside!~
+Obsidian: 108 slots, completely blast-proof!~
+~~~
+That's all!:~
+~
+Hope you enjoyed this guide, and if you need anything added please let me know!~
+Written by: capSAR273~
+~
