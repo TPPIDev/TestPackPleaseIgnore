@@ -172,7 +172,7 @@ planks, and regular stone types.~
 Tinting many kinds of blocks is also possible. Want to have a base made of diamond tinted stone bricks? Done.~
 ~~~
 And Finally:~
-~ The mod may seem overpowered, but don't worry, the TPPI staff have nerfed it quite a bit.~
+~ The mod may seem overpowered, but don't worry, the TPPI devs have nerfed it quite a bit.~
 Hope you enjoyed this guide, and if you need anything added please let me know!~
 ~
 Written by: capSAR273
@@ -191,3 +191,33 @@ Hook this pouch up to your item storage system and you're good to go!~
 Hope you enjoyed this guide, and if you need anything added please let me know!~
 ~
 
+>ExtraUtilities, Extra Utilities<
+<http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0e>
+~
+>JABBA, JABBA<
+So...Barrels:~
+~
+This mod adds barrels, just like factorization! The differences are few, but useful.~
+First off, there are many shortcuts to interact with barrels.~
+~~~
+Shortcuts:~
+~
+Right-click to put a stack in a barrel.~
+Left-click to drop a stack from a barrel.~
+Shift+Left-click to drop one item from a barrel.~
+Double right-click to put all the corresponding items from your inventory into the barrel.~
+Shift+Right-click with an empty hand to lock the barrel.~
+Shift+Right-click with an upgrade will apply the upgrade to the barrel.~
+~~~
+Dollies:~
+~
+Craft a dolly to move barrels without breaking them!~
+But the Dolly isn't just for JABBA, you can moce chests, Iron Chests, BC Tahnks, TE Machines, IC2 machines, and more!~
+Each time you set an item down with the dolly, it will try to orient the machine/chest to face you.~
+~~~
+Ore conversion:~
+~
+Have four kinds of copper, making efficient storage impossible? Look no further than JABBA.~
+Simply put one kind of dust/ingot in a JABBA barrel, and any further input of the same ore-
+dictionaried item will convert it!~
+This works with automation also. I can hear the choir singing...~
