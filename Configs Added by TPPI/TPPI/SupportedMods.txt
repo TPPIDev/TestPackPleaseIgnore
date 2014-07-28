@@ -189,6 +189,7 @@ Ender pouches are a form of remotely linking to an ender chest of the same color
 Hook this pouch up to your item storage system and you're good to go!~
 ~~~
 Hope you enjoyed this guide, and if you need anything added please let me know!~
+Written by: capSAR273~
 ~
 
 >ExtraUtilities, Extra Utilities<
@@ -221,3 +222,17 @@ Have four kinds of copper, making efficient storage impossible? Look no further 
 Simply put one kind of dust/ingot in a JABBA barrel, and any further input of the same ore-
 dictionaried item will convert it!~
 This works with automation also. I can hear the choir singing...~
+~~~
+Lock, Stock, and Barrel:~
+~
+In order to keep the item template in a barrel, just shift-right click!~
+A lock icon will appear, and the barrel will never lose the template, even if you remove
+all stacks from it.~
+This ensures that you can keep empty locked barrels in your factory, even if you run out of items in
+the system.~
+~~~
+That's all!:~
+~
+Hope you enjoyed this guide, and if you need anything added please let me know!~
+Written by: capSAR273~
+~
