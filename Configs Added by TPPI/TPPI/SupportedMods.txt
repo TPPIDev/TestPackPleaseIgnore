@@ -83,9 +83,11 @@ be highlighted in that color. This should help indicate what that color's purpos
 for that particular machine.
 ~
 >ArsMagica2, Ars Magica 2<
-Ars Magica lets players concoct their own unique spells, fight magical bosses, and even double your ores with magic!.~
-Many of the spells will have to be discovered through a skill point system. Skill points are gained by fighting
-mobs and bosses with magic, trading with villagers, and even exploring.~
+Ars Magica lets players concoct their own unique spells, fight magical bosses, and even double your ores with magic!~
+Many of the spells will have to be discovered through a skill point system.~
+~~~
+Skill points are gained by fighting
+mobs and bosses with magic, trading with villagers, and even exploring. 
 Just like Thaumcraft, this mod gives you an Arcane Compendium with every last detail of Ars Magica 
 that you could ever want. Head on over to the next page to find out how to make this!~
 ~~~
@@ -195,12 +197,10 @@ Hope you enjoyed this guide, and if you need anything added please let us know!~
 ~
 >JABBA, JABBA<
 So...Barrels:~
-~
 This mod adds barrels, just like factorization! The differences are few, but useful.~
 First off, there are many shortcuts to interact with barrels.~
 ~~~
 Shortcuts:~
-~
 Right-click to put a stack in a barrel.~
 Left-click to drop a stack from a barrel.~
 Shift+Left-click to drop one item from a barrel.~
