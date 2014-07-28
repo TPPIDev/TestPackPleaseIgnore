@@ -177,3 +177,17 @@ Hope you enjoyed this guide, and if you need anything added please let me know!~
 ~
 Written by: capSAR273
 ~
+>EnderIO, Ender IO<
+<http://wiki.enderio.com/Main_Page>
+~
+>EnderStorage, Ender Storage<
+Ender Storage:~
+~
+Ender Chests are great, but having one pair of them gets boring. Why not dye them? With this mod, you can!~
+Right click the ender chest with wool to dye it, make sure to use the same colors on both chests to link.~
+Ender pouches are a form of remotely linking to an ender chest of the same color.~
+Hook this pouch up to your item storage system and you're good to go!~
+~~~
+Hope you enjoyed this guide, and if you need anything added please let me know!~
+~
+
