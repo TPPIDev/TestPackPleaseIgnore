@@ -78,7 +78,8 @@ Now I am after a blank line
 
 **Begin line after asterisks**
 ****************************************************************************
-**>AdditionalBuildcraftObjects, Additional Buildcraft Objects<**
+>AdditionalBuildcraftObjects, Additional Buildcraft Objects<
+<http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277463-1-6-x-bc4-x-1-0-6-additional-buildcraft-objects>
 
 >AdvancedSolarPanels, Advanced Solar Panels<
 Advanced Solar Panels is an addon for Industrial Craft 2 (IC2). It only adds a couple of blocks, and they are mostly 
@@ -90,10 +91,10 @@ The ultimate hybrid solar panel generates 512 eu/t in daytime, 64 eu/t at night~
 ~
 The mollecular assembler converts items into better versions of themselves for a high energy cost. For example, 1 Glowstone 
 becomes 1 Sunnarium (needed for the ultimate hybrid solar panel) with the input of 9,000,000 EU. This machine can accept 
-any amount of energy (i.e. It won't explode).
+any amount of energy (i.e. It won't explode).~
 
 >AppliedEnergistics, Applied Energistics<
-**<http://ae-mod.info/>
+**<http://ae-mod.info/>**
 Applied Energistics is an advanced way to store items as energy in what is known as an ME system. 
 It allows for incredibly compact storage as well as item movement throughout your base.
 ~
@@ -240,7 +241,7 @@ Can set a fuzzy or precision format mode.~
 ~~~
 ME Condenser~
 Can either trash items it receives, turn them into matter balls which are used in the matter cannon, or singularities 
-which are used with the Quantum Link Tunnel.
+which are used with the Quantum Link Tunnel.~
 
 >ArsMagica, Ars Magica 2<
 Ars Magica 2 is a magical mod with RPG elements. Think mana, spellcasting, levelling up, and fighting fearsome enemies!~
@@ -262,8 +263,7 @@ After some flashes and sparkles, your guidebook will be ready!
 If you find the book confusing, the first things you should craft to unlock the rest of the mod would be the
 oculus, inscription table, and crafting alter, respectively.~
 ~
-After doing that, the rest of the mod is yours to explore!
-
+After doing that, the rest of the mod is yours to explore!~
 
 >BiblioCraft, BiblioCraft<
 Created by: Joseph 'Nuchaz' Sinclair.~
@@ -347,8 +347,6 @@ Your very own to-do list! A tool that you can use to place out your work.~
 ~~~
 Drafting Compass and Waypoint Compass ~
 A set of tools that help aid you around your explored worlds. Use these in conjunction with your maps on the map frames to set and locate way-points.~
-~
-
 
 >BigReactors, Big Reactors<
 <http://wiki.technicpack.net/Big_Reactors>
@@ -365,8 +363,7 @@ Ruby: Desert type biomes~
 Peridot: Grassland type biomes~
 Topaz: Jungle/Tropical type biomes~
 Tanzanite: Snow type biomes~
-Apatite: Swamp type biomes
-
+Apatite: Swamp type biomes~
 
 >BloodMagic, Blood Magic<
 <http://www.minecraftforum.net/topic/1899223-164-162-blood-magic-v072a-updated-jan-14/>
@@ -380,7 +377,7 @@ but you must have an energy conduit between the dynamo and the machine.~
 ~
 There are many different machines, for instance, the quarry. The quarry is an semi-automatic way to mine. You can use
 landmarks to set the size of the quarry, but keep in mind 64x64 is the maximum size. Apply a redstone signal to landmarks
-to see a red line extending for 64 blocks. The automatic crafting table crafts stuff, automatically! Totally unexpected!
+to see a red line extending for 64 blocks. The automatic crafting table crafts stuff, automatically! Totally unexpected!~
 ~
 You can also use pipes to transport items, for instance you can make a automated smelter. If you want to learn better,
 just start practicing and you'll get the hang of it, or you can watch a mod spotlight.
@@ -396,7 +393,7 @@ The color selector and color sorter act as an addition to buildcraft transport's
 lazuli transport pipe in that it will color items to be sorted by the diazuli transport pipe. The color selector allows the user 
 to set multiple ghost items in it's GUI (accessed by right clicking) and then select the color the items will be colored to. 
 It requires a small amount of power to operate. It is very similar to Red Power 2's sorter.~
-The color selector lets you easily color a pipe as well. Right click it (while not pointing at anything) to open the GUI.
+The color selector lets you easily color a pipe as well. Right click it (while not pointing at anything) to open the GUI.~
 
 >CarpentersBlocks, Carpenter's Blocks<
 Carpenter's Blocks adds wooden frames of vanilla items that can be textured with other blocks to change the appearance.~
@@ -496,8 +493,7 @@ are built in patterns (although not both simultaneously). Left/Right click with 
 Sneak right click with the hammer to reset it to default.~
 ~
 Most plants can be planted in this flower pot, you are no longer limited to flowers and cacti. Sneak left click with the 
-hammer to remove the plant and sneak right click to remove the cover.
-
+hammer to remove the plant and sneak right click to remove the cover.~
 
 >Chisel, Chisel<
 Chisel is a mod that adds decorative blocks to minecraft. It modifies existing blocks by use of a chisel to create 
@@ -526,8 +522,7 @@ There are also some special items that chisel adds:~
 The "Ball O' Moss" creates an Area of Effect "explosion" that changes nearby blocks into mossy versions of them.~
 The "Cloud in a bottle" will spawn a cloud when thrown/broken.~ 
 ~
-Finally, there are additional chisel-able blocks that this mod adds. They can be found in NEI. 
-
+Finally, there are additional chisel-able blocks that this mod adds. They can be found in NEI.~
 
 >ComputerCraft, ComputerCraft<
 <http://computercraft.info/wiki/Getting_Started>
@@ -538,21 +533,20 @@ Finally, there are additional chisel-able blocks that this mod adds. They can be
 >DamageIndicators, Damge Indicators<
 Damage Indicators is a small mod that adds a HUD displaying the health of the entity the player is looking at.~
 ~
-Additionally, you can adjust the settings by pressing "."
-
+Additionally, you can adjust the settings by pressing "."~
 
 >DartCraft, DartCraft<
 To get started in Dartcraft you must first find some power ore. It glows bright yellow and is found deep in the earth (or 
 in the Nether). Use it, alongside some ingots to craft a force ingot and a force nugget. Then craft these along with a stick 
 in a diagonal to gain a force rod. Right click a bookcase with the force rod to recieve the Book of Mudora, which will have 
-information on all things Dartcraft.
+information on all things Dartcraft.~
 
 >DimensionalAnchors, Dimensional Anchors<
 This mod adds in only one block, the dimensional anchor. This block loads chunks (16x16 squares) for the player in order 
 to make automation possible even if the player is absent.~
 ~
 To open the GUI right click the block. The red arrow will decrease the number of loaded chunks while the green arrow will
-increase them.
+increase them.~
 
 >EmasherResource, Emashers Resource<
 Emasher Resource adds various ores and items to the game. It is meant to be an inclusion to the mod Engineer's Toolbox.
@@ -568,7 +562,7 @@ Limestone can be used to make quicklime which is used in Engineer's Toolbox's or
 ~
 Emery ore is simply used to make the grinder (Engineer's Toolbox). It is about as rare as diamonds.~
 ~
-Red Sandstone is aesthetic?
+Red Sandstone is aesthetic?~
 
 >EnderIO, EnderIO<
 Ender IO adds compact liquid conduits, energy conduits and redstone conduits, power generation, machinery, remote area 
@@ -654,8 +648,7 @@ This item will emit light but will require .1 MJ/t (or 1 RF/t) to operate. It mu
 ~
 Fused Quartz~
 This item acts as aesthetic glass with connected textures. The frame can also be painted by right clicking with a painted 
-fuzed quartz frame.
-
+fuzed quartz frame.~
 
 >EnderProspecting, Ender Prospecting<
 Ender Prospecting adds a couple items to assist with manual mining. They are the Eye of Prospecting, the Talisman  
@@ -670,8 +663,7 @@ Eye, except it is reusable and has a smaller range. Every time the Talisman is r
 that the tuned or is.~
 ~
 The Totem of Prospecting can be crafted/tuned similarly to the Talisman. It doesn't require being right clicked, but it 
-has an even smaller range and doesn't indicate a direction, only that the ore is in close proximity.
-
+has an even smaller range and doesn't indicate a direction, only that the ore is in close proximity.~
 
 >EnderStorage, Ender Storage<
 Ender Storage adds the Ender chest, the ender tank and the ender pouch. Each chest/pouch and tank will link to each other
@@ -684,22 +676,23 @@ If you lose an ender item with item(s)/liquid(s) stored in it, they will remain 
 they were stored in.~
 ~
 If you place a diamond in the latch of an ender chest it will become linked to the player that placed the placed the 
-diamond, meaning that each player in a SMP server can have access to all 4096 frequencies.
-
+diamond, meaning that each player in a SMP server can have access to all 4096 frequencies.~
 
 >EngineersToolbox, Engineer's Toolbox<
 <http://emashersmods.wikispaces.com/Socket+Basics>
 
-**>ExtraBees, Extra Bees<**
+>ExtraBees, Extra Bees<
+<http://extrabees.accudio.com/bees-index.html>
 
 >ExtraCells, Extra Cells<
 <https://github.com/M3gaFr3ak/ExtraCells/wiki>
 
-**>ExtraTrees, Extra Trees<**
+>ExtraTrees, Extra Trees<
+<http://extrabees.accudio.com/trees-index.html>
 
 >ExtraUtilities, Extra Utilities<
 Extra Utilities adds a bunch of useful blocks. It even adds it's own in game-documentation! Simply press use ("u") while 
-in NEI while hovering over an extra utilities block to see a description of the block.
+in NEI while hovering over an extra utilities block to see a description of the block.~
 
 >Factorization, Factorization<
 <http://www.minecraftforum.net/topic/1351802-164-factorization-0829/>
@@ -709,7 +702,7 @@ Flat signs alters existing signs in Minecraft by allowing flat versions of signs
 by shift right clicking a sign on the floor/ceiling.~
 ~
 It also allows for signs to be edited by using a sponge or the more durable sponge wipe. To craft a sponge just throw yellow 
-wool into water or on the ground while it is raining.
+wool into water or on the ground while it is raining.~
 
 >Forestry-Machines, Forestry-Machines<
 <http://forestry.sengir.net/wiki.new/doku.php>
@@ -788,8 +781,7 @@ The Industrial Grafter~
 Acts as a powered Forestry grafter, that is very fast but also comsumes a lot of power.~
 ~
 It can be charged in any machine that will charge MJ, RF, or tier 2 or higher EU (eg. capacitor bank, energetic infuser,
-MFE).
-
+MFE).~
 
 >GregTech, GregTech<
 <gregtechcommunitywiki.wikispaces.com>
@@ -837,7 +829,7 @@ Advanced Drill~
 Thsi drill is 35% faster than the diamond drill but it consumes significantly more power.~
 ~
 Advanced Chainsaw~
-This chainsaw has a higher damage (12) than the normal chainsaw and it also operates 35% faster.
+This chainsaw has a higher damage (12) than the normal chainsaw and it also operates 35% faster.~
 
 >HardcoreEnderExpansion, Hardcore Ender Expansion<
 <http://hardcore-ender-expansion.wikia.com/wiki/Home>
@@ -851,15 +843,14 @@ aesthetics of your house.~
 ~
 To create multiparts simply craft a saw and then follow the NEI instructions to creaft your desired shape/size!~
 ~
-Note: A large number of microblocks may cause lag. As long as you don't go beserk with them you should be fine though.
-
+Note: A large number of microblocks may cause lag. As long as you don't go beserk with them you should be fine though.~
 
 **>IndustrialCraft, IndustrialCraft (Experimental)<**
 **Someone in the thread (Burn447) mentioned he was working on this**
 
 >Infinibows, Infinibows<
 Infinibows is a small mod that just removes the need to have an arrow in your inventory to shoot a bow with the infinity 
-enchant.
+enchant.~
 
 >IronChests, Iron Chests<
 Storage...you always need more of it!~
@@ -1007,7 +998,7 @@ Hope you enjoyed this guide, and if you need anything added please let us know!~
 >MagicBees, Magic Bees<
 Magic Bees is an addon for the Forestry bee-breeding system that also utilizes Thaumcraft. As a result, all of the information 
 for this mod can be found under the Magic Bees tab in the Thaumonomicon. If you are confused about bees in general, please 
-consult the "Forestry-Bees" book.
+consult the "Forestry-Bees" book.~
 
 >Mekanism, Mekanism<
 <http://mekanism.wikispaces.com/>
@@ -1049,8 +1040,7 @@ Be sure to note that these are solid blocks.~
 Going forward you can start to look at the other modules for your projector, including the Speed Module and Capacity Module.~
 Perhaps you want to give your forcefields methods of security, take a look at Interdiction Matrix or Biometrix Identifier.~
 Want more advance forcefields, investigate the usage of the Force Manipulator.~
-Alot of these blocks and more can be found on the MFFS wiki: http://calclavia.com/mffs/documentation/~
-~
+Alot of these blocks and more can be found on the MFFS wiki.~
 
 >MFR, MineFactory Reloaded<
 MineFactory Reloaded is a vast mod, comprising many useful 
@@ -1063,7 +1053,7 @@ material, then smelt it into rubber bars, and then again into raw plastic.
 This plastic can then be crafted into sheets of plastic, which are the foundation 
 for most of the machines.
 ~
-Authors: Powercrystals, skyboy026
+Authors: Powercrystals, skyboy026~
 
 >ModularPowersuits, Modular Powersuits<
 <http://machinemuse.net/index.php>
@@ -1072,12 +1062,12 @@ Authors: Powercrystals, skyboy026
 Morph is a mod that allows you to take on the characteristics (shape/size/ability(s)) of any creature you kill (except 
 bosses, although that is a config option).~
 ~
-All abilities are disabled, and morphs are purely cosmetic.~
+All abilities are disabled, and morphs are purely cosmetic. Besides, being 1 block tall, of course.~
 ~
 To access your morphs, press "[" or "]", and then scroll down. Press "Enter" to select your morph.~
 ~
 Morph also has a wheel for your favorite morphs, accessed by pressing "~"/"`". To add a morph to your favorites, press 
-the same key, "~", while selecting the desired morph in the menu.
+the same key, "~", while selecting the desired morph in the menu.~
 
 >MPSA, Modular Powersuits Addons<
 <http://www.minecraftforum.net/topic/1901818-152-modular-powersuits-addons-mpsa-requires-modular-powersuits/>
@@ -1100,7 +1090,7 @@ This mod also adds in generation to the Nether, allowing you to make bows that h
 ~
 This mod also adds in cotton plants. These will grow until white balls appear on the plant, then can be harvested and will 
 revert to an earlier stage of growth rather than having to be replanted.~
-Finally, wheat/barley (wild form of wheat) can be crafted shapelessly into flour, which can then be smelted into bread.
+Finally, wheat/barley (wild form of wheat) can be crafted shapelessly into flour, which can then be smelted into bread.~
 
 >NEI, Not Enough Items<
 Not Enough Items (or NEI for short) adds the menu you see on your screen when opening your (or any) inventory. It is primarilly 
@@ -1131,15 +1121,15 @@ Type in "@modnamehere" to see all the items from a specific mod.~
 You can right click the search bar to instantly clear it!!
 In any crafting inventory, left clicking on the little '?' will overlay ghost images on the crafting grid to make it easy 
 to see what components go where. Shift left clicking will, if you have the items in your inventory, automatically put them 
-in the crafting grid in the correct location(s).
+in the crafting grid in the correct location(s).~
 
 >NetherOres, Nether Ores<
 Nether ores adds ore generation to the Nether. These ores have a higher yield than their overworld counterparts, but 
-they also have a propesity to explode, so caution is necessary.
+they also have a propesity to explode, so caution is necessary.~
 
 >NotEnoughKeys, Not Enough Keys<
 This mod adds a key-binding menu so it is more simple to navigate through the mess of conflicting keybinds. To access it 
-simply go into options -> controls and then modify as you see fit.
+simply go into options -> controls and then modify as you see fit.~
 
 >NuclearControl, Nuclear Control<
 <http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915>
@@ -1154,9 +1144,10 @@ Mossy Cobblestone Pressure Plates~
 Will only give off a signal if a NPC (ex: a villager) is standing on them.~ 
 ~
 Both pressure plates can be silent (no clicking sound) and shrouded (see-through). It should be noted that to create a 
-silent and shrouded pressure plate you must apply silent first and then shrouded.
+silent and shrouded pressure plate you must apply silent first and then shrouded.~
 
-**>OpenBlocks, OpenBlocks<**
+>OpenBlocks, OpenBlocks<
+<http://openmods.info/>
 
 >OpenPeripheral, OpenPeripheral<
 Open peripheral is an addon for ComputerCraft. It allows you to wrap a variety of items as peripherals.~ 
@@ -1186,14 +1177,14 @@ Terminal Glasses/Termianl Glasses Bridge~
 The glasses can be worn by a player and the information passed to the bridge will appear on the player's HUD.~
 ~
 Duck Antenna~
-No idea :P
+No idea :P They must have... It makes some people QUACK UP when they read the name... Ha! :D~
 
 >PluginsForForestry, Plugins for Forestry<
 Plugins for forestry adds compatability between forestry and other mods. It adds the ability to use sugar and cactus in 
-a coke oven (railcraft) to make sugar/coal charcoal/coke for power.
+a coke oven (railcraft) to make sugar/coal charcoal/coke for power.~
 
 >PortalGun, Portal Gun<
-**<http://ichun.us/w/index.php?title=Portal_Gun>
+**<http://ichun.us/w/index.php?title=Portal_Gun>**
 The Portal Gun mod allows players to travel between two portals in a similar way to the Portal video games.~
 ~
 The basic Portal gun can create two portals with left and right click. Walk through one portal and arrive at the other. 
@@ -1217,11 +1208,13 @@ Portal Gun also adds Portal Spawners which can create portals of whatever colour
 supplied with a redstone signal. The portal remains open until the redstone signal is lost.~
 ~~~
 Also added are Portal Gun Pedestals. These can hold a Portal Gun and will fire a portal when supplied with a redstone signal. 
-You can retrieve a Portal Gun which has been placed on a Pedestal just by right-clicking.
+You can retrieve a Portal Gun which has been placed on a Pedestal just by right-clicking.~
+
 >ProjectRed, Project Red<
 <http://projectredwiki.com/wiki/Main_Page>
 
-**>QuarryPlus, Quarry Plus<**
+>QuarryPlus, Quarry Plus<
+<http://www.denoflionsx.info/mods/quarryplus>
 
 >Railcraft-Rails, Railcraft<
 <http://railcraft.wikispaces.com/>
@@ -1232,21 +1225,19 @@ You can retrieve a Portal Gun which has been placed on a Pedestal just by right-
 >RCDusts, RCDusts<
 This mod adds metal dusts and recipes to the Railcraft rock crusher to 
 make it a fully capable ore processing machine, as well as adding several 
-tweaks for compatibility and some useful dust and railcraft-related configuration options.
+tweaks for compatibility and some useful dust and railcraft-related configuration options.~
+
+>RedstoneArmory, Redstone Armory<
+Redstone Armory is a mod which adds new enhanced versions of the tools from Redstone 
+Arsenal, crafted using a new material called Gelid Enderium.~
 
 >RedstoneArsenal, Redstone Arsenal<
 Redstone Arsenal adds tools and weaponry which harness the power of Redstone Flux, the 
-energy system added by Thermal Expansion.
+energy system added by Thermal Expansion.~
 
 >Reliquary, Reliquary<
 <http://www.minecraftforum.net/topic/1596973-xenos-reliquary-v106d/>
 **Outdated source but I don't think a lot has changed, it was merely ported to 1.6**
-
->RemoteIO, RemoteIO<
-Remote IO is a mod that allows you to link IO blocks to inventories, you are no longer limited to just 6 sides!~
-~
-For documentation on specific items simply craft the "Documentation Screen" and place any Remote IO item in the top 
-right hand slot to read a description on the block.
 
 >StevesCarts, Steve's Carts 2<
 <http://stevescarts2.wikispaces.com/>
@@ -1266,10 +1257,16 @@ place a bookshelf on the ground, and right-click your wand on it.~
 It should transform into a Thaumonomicon; the true guidebook for Thaumcraft!~
 ~
 The only thing to know that is not documented in the book is that some research will be impossible, you can throw it 
-away and restart with newly generated research notes at any time though.
+away and restart with newly generated research notes at any time though.~
  
 >ThaumicTinkerer, Thaumic Tinkerer<
-Thaumic Tinkerer is an addon to Thaumcraft (a magical mod). All the information is documented in the Thaumonomicon.
+Thaumic Tinkerer is an addon to Thaumcraft (a magical mod). All the information is documented in the Thaumonomicon.~
+ 
+>ThaumicTinkererKami, Thaumic Tinkerer Kami<
+Thaumic Tinkerer Kami (God) is an optional portion of the mod that is enabled by default.~
+~
+It includes many end game items that can only be viewed in the Thaumonomicon after all 
+research in normal Thaumcraft, Electro-Magic Tools, and Thaumic Tinkerer are completed.~
  
 >ThermalExpansion, Thermal Expansion 3<
 Thermal Expansion (TE) is a "technology" mod that adds a power system called Redstone Flux (RF). 
@@ -1344,18 +1341,16 @@ be transmitted to the terminal at the end of the wire. A terminal can connect to
 to other busses.~
 ~
 Right clicking the white part of a signal terminal with an open hand will change the terminal's color. Only terminals of 
-the same color will send redstone signals.
+the same color will send redstone signals.~
 
 >TPPITweaks, TPPI Tweaks<
 TPPITweaks is the mod made especially for the TPPI Modpack, 
 which is the representative modpack for /r/feedthebeast.~
 ~
 It contains many tweaks for mods to better improve balance, 
-and some helpful objects to better guide
-~~~
-the player in the modpack.~
+and some helpful objects to better guide the player in the modpack.~
 ~
-Authors: wha-ha-ha, tterrag
+Authors: wha-ha-ha, tterrag~
 
 >Translocators, Translocators<
 The Translocators mod adds 2 items to the game, the translocators themselves and a crafting grid.~
@@ -1389,7 +1384,7 @@ Shift-Right clicking on the plate will strip and drop all upgrades placed on the
 Translocators will follow these rules:~
 ~
 Items/liquids will always travel to non-redstone outputs if they can.~ 
-Items/Liquids will be evenly split between available outputs. Items will be taken from the slot with the largest quantity.
+Items/Liquids will be evenly split between available outputs. Items will be taken from the slot with the largest quantity.~
 
 >TwilightForest, Twilight Forest<
 <http://twilightforest.wikispaces.com/>
@@ -1408,12 +1403,12 @@ as well:~
 1: Toggles on and off the HUD~
 2: Toggles on and off showinq liquids~
 3: Shows the uses for the item slected (through NEI)~
-4: SHows how the item selected can be used (through NEI)~
+4: Shows how the item selected can be used (through NEI)~
 
 >Witchery, Witchery<
 Witchery is a magical mod. It has it's own in-game documentation. To access it, type "Witchcraft" into NEI and then 
 obtain the books shown. The first one you will want to get is "Herbology" and then "Collectign Fumes." From there on it 
-is self-explanatory.
+is self-explanatory.~
 **<https://sites.google.com/site/witcherymod/>**
 
 >WRCBE, Wireless Redstone - CBE<
@@ -1440,8 +1435,7 @@ Extra Info:~
 The wireless remote is simply a portable wireless transmitter. It's gui can be opened by right-clicking.~
 ~
 WR-CBE has ComputerCraft support. Wrap it as a peripheral and then use peripheral.getFreq(frequency) or 
-peripheral.setFreq(Frequency)
-
+peripheral.setFreq(Frequency)~
 
 >ZansMinimap, Zan's Minimap<
 Zan's Minimap (Voxel Map) provides the player with a convenient mini-map located in the top right hand corner of the 
@@ -1452,4 +1446,4 @@ Adds an in-game waypoint system (that can show the location of your latest death
 Adds a radar that can show a customizable number of mobs, animals, and players.~
 ~
 The default key to access the menu is "M". There you can customize the look of your mini-map, configure the other keybinds 
-for the mod, change the radar/waypoints, and more.
+for the mod, change the radar/waypoints, and more.~
