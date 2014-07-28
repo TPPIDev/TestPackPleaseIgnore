@@ -31,57 +31,6 @@ Now I am after a blank line
 
 **Begin line after asterisks**
 ****************************************************************************
->TPPITweaks, TPPI Tweaks<
-TPPITweaks is the mod made especially for the TPPI Modpack, 
-which is the representative modpack for /r/feedthebeast.~
-~
-It contains many tweaks for mods to better improve balance, 
-and some helpful objects to better guide
-~~~
-the player in the modpack.~
-~
-Authors: wha-ha-ha, tterrag 
->Thaumcraft, Thaumcraft 4<
-Thaumcraft is a magical mod that requires you to "research" its items before you can craft them.~
-~
-There's all kinds of magical swag that you can build and play with, but it's probably best for you to 
-learn about it on your own.~
-To get started, craft a iron capped wooden wand, 
-place a bookshelf on the ground, and right-click your wand on it.~
-~
-It should transform into a Thaumonomicon; the true guidebook for Thaumcraft!
-~
->TinkersConstruct, Tinkers' Construct<
-Tinkers' Construct is a mod that lets you build custom tools out of 
-various materials, each with their own special properties.~
-~
-To get started with the basics, check out the book "Materials And You" that 
-you should have spawned with.
-~
->ThermalExpansion, Thermal Expansion 3<
-Thermal Expansion is a "technology" mod that adds a power system called Redstone Flux (RF). 
-It has itemducts, fluiducts, and energy conduits for transporting items, liquids, and RF power 
-respectively, as well as a bunch of useful blocks for ore processing, automatic crafting, storage, and more.~
-~
-You can start generating RF power using the mod's dynamos and some energy conduits, with leadstone conduits being the 
-lowest tier. 
-You can rotate and pick up machines by right clicking and shift right clicking with a Crescent Hammer, 
-the mod's version of a wrench.~
-~~~
-All machines in the mod have their own configuration settings in their GUIs.~
-~
-The redstone behavior tab lets you choose how the machine will respond to redstone.~
-The configuration tab lets you choose where the machine will input and output its products, 
-be that energy, liquids, or power, on a per block face basis.~
-~
-Blue indicates an input on a given face, while orange indicates an output.~
-There are other colors used situationally depending on the machine. 
-For these, it's best to select that color in the configuration menu, then look 
-back at the main GUI of the machine.~
-The slot in the machine associated with that color will 
-be highlighted in that color. This should help indicate what that color's purpose is 
-for that particular machine.
-~
 
 >MagicalCrops, Magical Crops<
 If you are the kind of player that just hates mining, and would rather farm your diamonds,
@@ -155,9 +104,6 @@ The mod may seem overpowered, but don't worry, the TPPI devs have nerfed it quit
 Hope you enjoyed this guide, and if you need anything added please let us know!~
 ~
 
->ExtraUtilities, Extra Utilities<
-<http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0e>
-~
 >JABBA, JABBA<
 So...Barrels:~
 This mod adds barrels, just like factorization! The differences are few, but useful.~
