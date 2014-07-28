@@ -1,3 +1,97 @@
+TPPIv1.0.5PreRelease~
+~
+Important Info:~
+~
+- New Mods! RedstoneArmory and Animation API.~
+~
+- Split TPPI-Tweaks into 3 mods: TPPI-Tweaks, Modpack Tweaks, and Recipe Tweaking Core.
+~~~
+Adjustments/Changes:~
+~
+- Mekanism changes:~
+~
+- Updated configs for 6.1.2.TPPI.~
+- Alter Digital Miner recipe (again) to require some infrastructure.~
+- Increase energy usage of Digital Miner.~
+- Add blacklist to Digital Miner. Allows blacklisting of blocks.~
+- Altered heat generation.~
+~
+- Changed MPS recipes. Now easier to get into, but harder as you go.~
+~
+- Un-nerf GregTech Plasma energy generation.~
+~~~
+- Re-enable GregTech Extruder.~
+~
+- Titanium now requires an Industrial Blast Furnace again.~
+~
+- Downgrade TE to stop (some) dupe bugs.~
+~
+- Major changes to ArsMagica 2.~
+~~~
+Mod Updates:~
+~
+Bug fixes unless otherwise noted.~
+~
+- AnimationAPI v1.1.2 added.~
+~
+- ArsMagica 2 updated to v1.2.22, major update~
+~
+- BDLib updated to v2.3.48.~
+~~~
+- Big Reactors updated to v0.3.4.A2.~
+~
+- Blood Magic updated to v1.0.1g.~
+~
+- Botania updated to beta-16.~
+~
+- CoFHCore downgraded to v2.0.0.2, ThermalExpansion downgraded to v3.0.0.2, removes dupe bug.~
+~~~
+- ComputerCraft updated to v1.63.~
+~
+- DartCraft updated to Beta 0.2.20v2.~
+~
+- Updated EiraIRC to v1.7.0-beta6.~
+~
+- Emashers Resource updated to v1.2.3.4.~
+~
+- Engineer's Toolbox updated to v1.1.8.4.~
+~~~
+- Gendustry updated to v1.1.3.78.~
+~
+- JABBA updated to v1.1.4.~
+~
+- Mekanism updated to v6.1.2.TPPI.~
+~
+- MekanismGenerators updated to v6.1.2.TPPI.~
+~
+- MobiusCore updated to v1.2.2.~
+~~~
+- Modpack Tweaks 1.1.0-10 added.~
+~
+- NEIaddons updated to v1.10.5.70.~
+~
+- OpenPeripheralAddons updated to v0.1.5.~
+~
+- OpenPeripheralCore updated to v0.4.1.~
+~~~
+- Opis updated to v1.2.2.~
+~
+- OpenEye updated to v0.6.~
+~
+- RecipeTweakingCore v1.0.0.4 added.~
+~
+- Redstone Armory v1.0.2 added.~
+~
+- Thaumic Reliquary updated to v1.1.5.TPPI~
+~~~
+- Thaumic Tinkerer updated to v2.3-140.~
+~
+- TPPI-Tweaks updated to v1.1.0-83.~
+~
+- Witchery updated to v0.19.2, too many new things to list.~
+~
+- FZaddons updated to v0.0.2.~
+~~~
 TPPIv1.0.4PreRelease~
 ~
 Important Info:~
