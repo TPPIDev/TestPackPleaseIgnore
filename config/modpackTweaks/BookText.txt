@@ -22,8 +22,8 @@ Now I am after a blank line
 ****************************************************************************
 Greetings everyone, and welcome to...~
 ~
- Â§oTest Pack~
-        Please IgnoreÂ§r!~
+ §oTest Pack~
+        Please Ignore§r!~
 ~
 We are very excited to finally be releasing the pack to the public.~
 ~
@@ -33,20 +33,20 @@ Thank you all so very much for making TPPI possible!
 ~~~
 So, your first question probably is,~
 ~
-  "Â§oWhat is this book?Â§r"~
+  "§oWhat is this book?§r"~
 ~
 Well, this book you're reading is added by our own custom mod,~
 ~
 ~
-   Â§4MÂ§coÂ§6dÂ§2pÂ§1aÂ§5cÂ§4k Â§cTÂ§6wÂ§2eÂ§1aÂ§5kÂ§4sÂ§c!Â§r
+   §4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§c!§r
 ~~~
-Â§4MÂ§coÂ§6dÂ§2pÂ§1aÂ§5cÂ§4k Â§cTÂ§6wÂ§2eÂ§1aÂ§5kÂ§4sÂ§0 is what allows us to give you the book you are currently reading, as well as many other useful features.~
+§4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is what allows us to give you the book you are currently reading, as well as many other useful features.~
 ~
 Should you want a new copy of this book, there is a recipe in NEI.~
 ~~~
-Â§4TÂ§cPÂ§6PÂ§2I Â§1TÂ§5wÂ§4eÂ§caÂ§6kÂ§2sÂ§0 is another custom mod we use, which helps us customize recipes and add other compatability between mods.~
+§4T§cP§6P§2I §1T§5w§4e§ca§6k§2s§0 is another custom mod we use, which helps us customize recipes and add other compatability between mods.~
 ~
-Using both configs and Â§4TÂ§cPÂ§6PÂ§2I Â§1TÂ§5wÂ§4eÂ§caÂ§6kÂ§2sÂ§0 allows us to heavily configure this pack to our liking.
+Using both configs and §4T§cP§6P§2I §1T§5w§4e§ca§6k§2s§0 allows us to heavily configure this pack to our liking.
 ~~~
 The changes that have been made are not to make the game harder, but to extend the life of a single world.~
 ~
@@ -56,27 +56,27 @@ To see a full list of tweaked recipes, type "Tweaked" in NEI.~
 ~
 To see the remaining list of things that are tweaked (not recipes), you can find that at the end of this book.~
 ~~~
-Another feature of Â§4MÂ§coÂ§6dÂ§2pÂ§1aÂ§5cÂ§4k Â§cTÂ§6wÂ§2eÂ§1aÂ§5kÂ§4sÂ§0 is the in-game commands it adds.~
+Another feature of §4M§co§6d§2p§1a§5c§4k §cT§6w§2e§1a§5k§4s§0 is the in-game commands it adds.~
 ~
-The changelog can be found by typing Â§l/tppi changelogÂ§r, which will of course always be up to date, no need to ever get a new copy.~
+The changelog can be found by typing §l/tppi changelog§r, which will of course always be up to date, no need to ever get a new copy.~
 ~
 There is also a system in place to receieve ingame documentation for most mods in the pack.~
 ~
-Type Â§l/tppi guideÂ§r to receive an all-around guide to the mods in the pack, the easiest way to obtain any info you wish.~
+Type §l/tppi guide§r to receive an all-around guide to the mods in the pack, the easiest way to obtain any info you wish.~
 ~~~
-Type Â§l/tppi mods <modname>Â§r to get an individual book for a mod, or to get a link if the mod has not had in-game documentation written for it yet.~
+Type §l/tppi mods <modname>§r to get an individual book for a mod, or to get a link if the mod has not had in-game documentation written for it yet.~
 ~
-Â§l/tppi mods listÂ§r will give you a list of all mods that are possible to be used in the command.
+§l/tppi mods list§r will give you a list of all mods that are possible to be used in the command.
 ~~~
 Naturally, this is a big job, and it's not yet finished, but we're getting close!~
 ~
 Our community is already getting involved in documenting these mods via our mod's system.~
 ~~~
-If you'd like to help out with this documentation project or any other parts of TPPI's development, feel free to type the command Â§l/getInvolvedÂ§r to learn more.
+If you'd like to help out with this documentation project or any other parts of TPPI's development, feel free to type the command §l/getInvolved§r to learn more.
 ~~~
 Lastly, TPPI uses a very heavily modified ore generation system.~
 ~
-To check it out, type Â§l/oresÂ§r for an ore generation guide book.
+To check it out, type §l/ores§r for an ore generation guide book.
 ~~~
 ~
      That's about it.~
@@ -90,7 +90,7 @@ To check it out, type Â§l/oresÂ§r for an ore generation guide book.
 ~
 ~
 ~
-  - Â§o"The Developers"
+  - §o"The Developers"
 ~~~
 TWEAKED ITEMS~
 ~
