@@ -135,10 +135,10 @@ Removed Flight from Advanced Genetics (Obvious balance reasons - controversial, 
 Removed More Health Option from Advanced Genetics (Stacks improperly with TiC hearts, leading to massive amounts of health)~
 ~
 Ethereal Processor from ElectroMagicTools (Prevents dupes with GT)~
-~
-Removed Ender Tank. (Prevents fluid duplication)~
 ~~~
 If we've forgotten anything, let us know on our IRC channel!~
+~
+We can be reached at irc.esper.net, in channel #TPPI.~
 ~
 Thanks, and have fun!~
 
