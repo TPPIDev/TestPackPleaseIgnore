@@ -21,7 +21,6 @@ Botania beta16
 BspkrsCore v5.3
 BuildCraft v4.2.2
 BuildCraft Colour Router Addon v0.3.4
-Calclavia Core v1.2.0.312
 Carpenter's Blocks v2.0.8
 Chisel v1.5.2
 Code Chicken Core v0.9.0.9
