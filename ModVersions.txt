@@ -47,7 +47,7 @@ FlatSigns v1.4.0.15
 ForbiddenMagic pr0.35a
 Forestry v2.3.1.1
 ForgeMultipart v1.0.0.250
-FZAddons v0.0.1
+FZAddons v0.0.2-Fixed
 Gendustry v1.1.3.78
 Gravisuite v1.9.9a
 GregTech v4.07o
@@ -72,7 +72,7 @@ MineFactoryReloaded v2.7.8-482
 Minetweaker v2.3.1
 Mobius Core v1.2.2
 ModpackTweaks v1.1.0-10
-Modular Force Field Systems v3.6.2.59
+Modular Force Field Systems v3.6.3.91-core
 Modular Powersuits v0.10.0-92
 Modular Powersuits Addons v1.6.4-884
 Morph v0.7.0
@@ -104,6 +104,7 @@ RecipeTweakingCore v1.0.0-4
 Redstone Armory v1.0-2
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
+Resonant Engine v1.2.0.266
 ServerTools v1.6.4-23
 SlickUtil
 SortFix v1.0
@@ -117,10 +118,10 @@ Thermal Expansion v3.0.0.7
 TiCTooltips v1.1.5
 Tinker's Construct v1.5.5.7
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.1.0-83
+TPPITweaks v1.1.0-90
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
-Universal Electricity Core v3.1.0.74
+Universal-Electricity Core v3.1.0.115
 Waila v1.5.2a
 Wireless Redstone - CBE v1.4.0.7
 Witchery v0.19.2
