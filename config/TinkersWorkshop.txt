@@ -165,7 +165,7 @@ dimblacklist {
 drawbridge {
     # Add block or item IDs that should not be placed from the drawbridge
     I:"Drawbridge Blacklist" <
-    	2007
+        2007
      >
 }
 

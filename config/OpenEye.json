@@ -19,10 +19,14 @@
     },
     "data": {
         "scanOnly": {
+            "comment": "Send only information about files and crashes - no analytics",
             "value": false
         },
         "tags": {
-            "value": [TPPI 1.0.4]
+            "value": [
+                "TPPI",
+                "TPPI 1.0.5"
+            ]
         },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
@@ -30,10 +34,13 @@
         }
     },
     "debug": {
-        "pingOnInitialReport": {
+        "debugSanitizer": {
             "value": false
         },
         "crashOnStartup": {
+            "value": false
+        },
+        "pingOnInitialReport": {
             "value": false
         },
         "dontSend": {
