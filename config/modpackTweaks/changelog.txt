@@ -1,3 +1,15 @@
+TPPIv1.0.6PreRelease~
+~
+Important Info:~
+~
+- Unbroke Crafting!~
+~~~
+Mod Updates:~
+~
+- Thermal Expansion updated to 3.0.0.7.~
+~
+- MFFS updated to latest version.~
+~~~
 TPPIv1.0.5PreRelease~
 ~
 Important Info:~
