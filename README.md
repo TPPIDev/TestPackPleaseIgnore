@@ -100,4 +100,4 @@ Google Doc. Modlist: http://bit.ly/TPPI-Modlist
 
 Changelog
 ===============
-Use the command _/tppi changelog_ in-game, or look _[here](https://github.com/TPPI-Dev/TestPackPleaseIgnore/blob/master/config/TPPI/changelog.txt)._
+Use the command _/tppi changelog_ in-game, or look _[here](https://github.com/TPPI-Dev/TestPackPleaseIgnore/blob/master/config/modpackTweaks/changelog.txt)._
