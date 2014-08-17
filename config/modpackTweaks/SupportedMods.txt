@@ -21,15 +21,15 @@
 **additional builcraft objects**
 **applied energistics [Linked]**
 **bibliocraft [Linked]** (Entry written, requires check if sufficient)
-**big reactors [Linked]**
+**big reactors [Linked]** (Working on; K4b6)
 **blood magic [Linked]**
 **buildcraft [Incomplete]**
-**computercraft [Linked]**
-**engineers toolbox [Linked]**
+**computercraft [Linked]** (Totes got this one; K4b6)
+**engineers toolbox [Linked]** 
 **extra cells [Linked]**
 **extra bees**
 **extra trees**
-**factorization [Linked]**
+**factorization [Linked]** (Working on; K4b6)
 **forestry-machines [Linked]**
 **forestry-bees [Linked]**
 **forestry-trees [Linked]**
