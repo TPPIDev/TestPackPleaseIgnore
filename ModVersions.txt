@@ -31,7 +31,7 @@ Damage Indicators v2.9.2.3
 DartCraft v0.2.20v2
 DenLib v3.2.6
 Dimensional Anchors v57.1.96
-EiraIRC v1.7.0-beta6
+EiraIRC v1.7.2
 ElectroMagicTools v1.0.9e
 Emashers Resource v1.2.3.5
 EnderIO v1.0.2.363
@@ -100,7 +100,7 @@ Quarry Plus v1.0.3
 Railcraft v8.4.0.0
 RcDusts v0.0.6d
 RecipeTweakingCore v1.0.0-4
-Redstone Armory v1.0-2
+Redstone Armory v1.0-3
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
 Resonant Engine v1.2.0.266
@@ -117,7 +117,7 @@ Thermal Expansion v3.0.0.7
 TiCTooltips v1.1.5
 Tinker's Construct v1.5.5.7
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.1.0-90
+TPPITweaks v1.1.0-98
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal-Electricity Core v3.1.0.115
