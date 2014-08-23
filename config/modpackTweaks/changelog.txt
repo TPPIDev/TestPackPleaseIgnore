@@ -4,22 +4,24 @@ TPPIv1.1.0PreRelease~
 ~~~
 - Updated Redstone Armory to v1.03. Fixes a few bugs and adds oreDict capabilities.~
 ~
-- Re-added Morpheus to the server zip (unintentional last time)~
+- Updated EiraIRC to v1.7.2 stable.~
 ~
-- Fixed a biome ID conflict with Force Biomes.~
+- Re-added Morpheus to the server zip (unintentional last time)~
 ~~~
+- Fixed a biome ID conflict with Force Biomes.~
+~
 - Disable unintended infernal mobs (Illusion mobs)~
 ~
 - Changed default Eira-screenshot feature to upload and share like it was before.~
-~
-- Added gelid enderium into top-tier MPS recipes.~
 ~~~
+- Added gelid enderium into top-tier MPS recipes.~
+~
 - Ender storage recipes now give double the output.~
 ~
 - Disabled AM2 arcane deconstructor.~
-~
-- Fixed sawdust ore registration.~
 ~~~
+- Fixed sawdust ore registration.~
+~
 - Fixed AM2 recipes (egg, nature essence).~
 ~
 - Disabled Pigmen Trophy due to exploits.~
