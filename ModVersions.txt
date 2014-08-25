@@ -65,12 +65,12 @@ JourneyMap Unlimited v3.3.2
 Logistics Pipes v0.7.4dev.183
 Magical Crops v3.2.0_Beta15a
 Magic Bees v2.1.11
-Mekanism v6.1.2.TPPI (combined jar)
-Mekanism Generators v6.1.2.CUSTOM (combined jar)
+Mekanism Core v6.1.3.TPPI
+Mekanism Generators v6.1.3.CUSTOM
 MineFactoryReloaded v2.7.8-482
 Minetweaker v2.3.1
 Mobius Core v1.2.2
-ModpackTweaks v1.1.0-10
+ModpackTweaks v1.1.0-17
 Modular Force Field Systems v3.6.3.91-core
 Modular Powersuits v0.10.0-92
 Modular Powersuits Addons v1.6.4-884
@@ -117,7 +117,7 @@ Thermal Expansion v3.0.0.7
 TiCTooltips v1.1.5
 Tinker's Construct v1.5.5.7
 Tinker's Mechworks v1.6.4-19
-TPPITweaks v1.1.0-98
+TPPITweaks v1.1.0-99
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
 Universal-Electricity Core v3.1.0.115

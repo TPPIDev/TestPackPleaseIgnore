@@ -1,3 +1,13 @@
+TPPIv1.1.1~
+~
+- Updated TPPITweaks to build 99 to fix IRC GUI text~
+- Updated Modpack Tweaks to build 17~
+~
+- Fix corrupted / missing mods:~
+  - EiraIRC~
+  - TPPITweaks~
+  - Redstone Armory
+~~~
 TPPIv1.1.0~
 ~
 - Updated Redstone Armory to v1.03. Fixes a few bugs and adds oreDict capabilities.~
