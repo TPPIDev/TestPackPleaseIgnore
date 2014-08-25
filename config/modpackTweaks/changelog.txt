@@ -1,7 +1,5 @@
-TPPIv1.1.0PreRelease~
+TPPIv1.1.0~
 ~
-- (Hopefully) the last round of bugfixes before full release!~
-~~~
 - Updated Redstone Armory to v1.03. Fixes a few bugs and adds oreDict capabilities.~
 ~
 - Updated EiraIRC to v1.7.2 stable.~
