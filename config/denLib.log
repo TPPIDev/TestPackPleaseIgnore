@@ -1796,6 +1796,11 @@ Ore: itemSuperconductor
 Fluid: fortron
 Fluid: xpjuice
 Found ConfigField creosote_fermentation
+Ore: ingotGelidEnderium
+Ore: nuggetGelidEnderium
+Ore: gemGelidEnderium
+Ore: rodGelidEnderium
+Ore: blockGelidEnderium
 Fluid: fluidwitcheryspirit
 Fluid: fluidwitcheryhollowtears
 Ore: stoneRod
@@ -2513,6 +2518,10 @@ Ore: blockUnstable
 Ore: burntquartz
 Ore: icestone
 Ore: blockMarble
+Ore: pulpWood
+Ore: dustWood
+Ore: itemSlag
+Ore: magmaCream
 Ore: dustAluminum
 Ore: dustAluminum
 Ore: dustAluminum
