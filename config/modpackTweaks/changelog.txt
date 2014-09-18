@@ -1,3 +1,15 @@
+TPPIv1.1.2~
+~
+- Final 1.6.4 version? Exciting news will also be announced soon!~
+~
+- Updated EiraIRC to v1.7.3 Fixes irc colours, screenshot uploads, all other known bugs.~
+~
+- Updated TPPITweaks to v1.1.0-103. Fixes dupe bug in Keystone Receptacle, updates IRC GUI (again)~
+~~~
+- Updated Mekanism & Mekanism Generators to v6.1.3TPPI. Fixes crash with gas generator and the Armoured Jetpack recipe.~
+~
+- Updated Logistic Pipes to v0.7.4.294. About a billion updates/fixes with this version.~
+~~~
 TPPIv1.1.1~
 ~
 - Updated TPPITweaks to build 99 to fix IRC GUI text~
