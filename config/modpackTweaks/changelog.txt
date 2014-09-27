@@ -1,13 +1,15 @@
 TPPIv1.1.2~
 ~
-- Final 1.6.4 version maybe possibly. Exciting news will also be announced soon!~
+- Final 1.6.4 version maybe possibly. Exciting news will also be announced soon™!~
 ~
-- Updated EiraIRC to v1.7.3 Fixes irc colours, screenshot uploads, all other known bugs.~
+- Updated EiraIRC to v1.7.4-TPPI-2 Fixes irc colours, screenshot uploads, and... Oh... I dunno. Everybody getting disconnected.~
 ~
-- Updated TPPITweaks to v1.1.0-103. Fixes dupe bug in Keystone Receptacle, updates IRC GUI (again)~
+- Remove Glen's Gasses from EiraIRC.
+~
+- Updated TPPITweaks to v1.1.0-104. Fixes dupe bug in Keystone Receptacle and Plastic Cups, updates IRC GUI (again)~
 ~~~
-- Updated Mekanism & Mekanism Generators to v6.1.4TPPI. Fixes crash with gas generator and the Armoured Jetpack recipe. Also fixes a jabba+biogen bug.~
-~
+- Updated Mekanism & Mekanism Generators to v6.1.5-TPPI. Fixes crash with gas generator and the Armoured Jetpack recipe. Also fixes a jabba+biogen bug. Removes bad wheat recipe.~
+~~~
 - Updated Logistic Pipes to v0.7.4.294. About a billion updates/fixes with this version.~
 ~
 - Updated Carpenter's Blocks to v3.2.8. Lots of render fixes in this version.~
