@@ -1,4 +1,4 @@
-Frequently Asked Questions
+﻿Frequently Asked Questions
 
 Q. What items/blocks/other stuffs are removed that are normally craftable?
 A. Auto-Output Upgrade (Advanced Genetics - Prevents crashing) 
@@ -26,4 +26,5 @@ Ethereal Processor from ElectroMagicTools (Prevents dupes with GT)
 There may be more, but this is all I can see/remember for now.
 
 Q. Why isn’t mod x included?
-A. Full, official list will be released at a later date.
+A. Full, official list of mods is available on our spreadsheet at
+http://bit.ly/1mQn9BX
