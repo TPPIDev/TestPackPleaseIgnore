@@ -1001,7 +1001,7 @@ for this mod can be found under the Magic Bees tab in the Thaumonomicon. If you 
 consult the "Forestry-Bees" book.~
 
 >Mekanism, Mekanism<
-<http://mekanism.wikispaces.com/>
+<http://wiki.aidancbrady.com/wiki/Mekanism>
 
 >MFFS, Modular Force Field System<
 Modular Force Field System, or MFFS for short, is a mod that allows for the creation of a wide array of force fields.~
