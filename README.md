@@ -59,7 +59,7 @@ Developers
 ###Past Members
 - _collinmurphy (/u/collinmurphy)_
 
-- _Devin\_Steinkoenig (/u/Devon\_Steinkoenig)_
+- _Devon\_Steinkoenig (/u/Devon\_Steinkoenig)_
 
 - _Dr Soda (IGN: Epiksoda11)_
 
