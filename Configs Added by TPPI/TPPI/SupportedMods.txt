@@ -82,3 +82,46 @@ The slot in the machine associated with that color will
 be highlighted in that color. This should help indicate what that color's purpose is 
 for that particular machine.
 ~
+>BigReactors, BigReactors<
+Big Reactors is a mod that lets you build huge reactors
+which can give your base almost limitless power.~
+~
+To begin with Big Reactors, one basic example is a basic 3x3x3 reactor.
+to create one of these, open NEI and craft 22x Reactor Casing.
+You will also need 1x Yellorium Fuel Rod, 1x Reactor Control Rod,
+1x Reactor Controller, 1x Reactor Access Port, 1x Reactor Power Tap
+and finally 4x Yellorium Ingots to use as fuel for the reactor.
+Yellorium can be obtained by smelting Yellorite Ore in a furnace.~
+~
+First, place a flat, 3-by-3 square of Reactor Casing down as your reactor's base.
+Next, build the second layer. Atop the first layer, place 4 pieces of casing at the corners.
+Place your reactor controller, reactor power tap and reactor access port in the gaps.
+Place a Yellorium Fuel Rod in the center of the second layer.
+Also, place a block of Reactor Casing in the one empty space left on the second layer.
+Finally, Place a ring of Reactor Casing around the outside of the top layer.
+And place your Reactor Control Rod in the center, atop the Yellorium Fuel Rod.~
+~
+You have now created your first Big Reactor, simply right-click the access port,
+put some Yellorium Ingots in and click activate to begin producing power!
+Connect a cable to your power tap to take the power to other machines.
+~
+>MFFS, Modular Force Field System<
+MFFS is a mod which allows you to create your own forcefields around
+a specified area. These can sometimes be very expensive.~
+~
+To find all the components for a MFF, open NEI and type @MFF.~
+~
+A forcefield can be quite advanced, a tutorial is available at
+http://bit.ly/1FNfI6y thanks to malkuth1974.
+~
+>NEI, NEI<
+NEI, Also known as Not Enough Items is a tool for your inventory,
+it allows you to search items in the game, and gives recipes on how
+to make the items. This is extrememly useful if you dont know how
+to craft something, or are mystified by all the new blocks.~
+~
+You can search for blocks from a specific mod, for example if you
+are trying to find the Quarry from BuildCraft, you can type in
+@BuildCraft to bring up all the blocks from the BuildCraft mod.
+Simply put @ and the mod name.
+~
