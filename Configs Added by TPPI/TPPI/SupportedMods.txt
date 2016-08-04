@@ -31,54 +31,142 @@ Now I am after a blank line
 
 **Begin line after asterisks**
 ****************************************************************************
->TPPITweaks, TPPI Tweaks<
-TPPITweaks is the mod made especially for the TPPI Modpack, 
-which is the representative modpack for /r/feedthebeast.~
-~
-It contains many tweaks for mods to better improve balance, 
-and some helpful objects to better guide
+
+>MagicalCrops, Magical Crops<
+If you are the kind of player that just hates mining, and would rather farm your diamonds,
+Magical Crops is the mod for you!~
+This mod adds ways to grow many different resources like coal, redstone, experience, and more!~
+Don't you worry though, it's not as easy as you think!
 ~~~
-the player in the modpack.~
+Getting Started:~
 ~
-Authors: wha-ha-ha, tterrag 
->Thaumcraft, Thaumcraft 4<
-Thaumcraft is a magical mod that requires you to "research" its items before you can craft them.~
-~
-There's all kinds of magical swag that you can build and play with, but it's probably best for you to 
-learn about it on your own.~
-To get started, craft a iron capped wooden wand, 
-place a bookshelf on the ground, and right-click your wand on it.~
-~
-It should transform into a Thaumonomicon; the true guidebook for Thaumcraft!
-~
->TinkersConstruct, Tinkers' Construct<
-Tinkers' Construct is a mod that lets you build custom tools out of 
-various materials, each with their own special properties.~
-~
-To get started with the basics, check out the book "Materials And You" that 
-you should have spawned with.
-~
->ThermalExpansion, Thermal Expansion 3<
-Thermal Expansion is a "technology" mod that adds a power system called Redstone Flux (RF). 
-It has itemducts, fluiducts, and energy conduits for transporting items, liquids, and RF power 
-respectively, as well as a bunch of useful blocks for ore processing, automatic crafting, storage, and more.~
-~
-You can start generating RF power using the mod's dynamos and some energy conduits, with leadstone conduits being the 
-lowest tier. 
-You can rotate and pick up machines by right clicking and shift right clicking with a Crescent Hammer, 
-the mod's version of a wrench.~
+During your mining adventures you might come across Essence Ore. Mine this with iron or better to get essence dust!~
+You can see what this will be used for in NEI, and it is a very useful material to have.~
+While de-grassing the terrain you might get essence seeds as a drop. Lucky you, as this is a rare chance.~
+This plant will grow the same essence you get from mining the Essence Ore.~
+Head to the next page to learn about how Infusion Stones!~
 ~~~
-All machines in the mod have their own configuration settings in their GUIs.~
+Magical Stones:~
 ~
-The redstone behavior tab lets you choose how the machine will respond to redstone.~
-The configuration tab lets you choose where the machine will input and output its products, 
-be that energy, liquids, or power, on a per block face basis.~
+If you search NEI you'll see there are seeds for every vanilla resource (and modded resources if supported)~
+In order to craft the resource seeds you will need infusion stones.~
+There are five strengths of stones: Weak, Regular, Strong, Extreme, and Master.~
+Each can help you craft resources based on what tier they are in.~
+For example, a weak infusion stone cannot craft diamonds.~
+Check NEI for the recipies using the infusion stones to craft resources!~
+~~~
+The Essentials (get it)~
 ~
-Blue indicates an input on a given face, while orange indicates an output.~
-There are other colors used situationally depending on the machine. 
-For these, it's best to select that color in the configuration menu, then look 
-back at the main GUI of the machine.~
-The slot in the machine associated with that color will 
-be highlighted in that color. This should help indicate what that color's purpose is 
-for that particular machine.
+Once you have a weak infusion stone and some essence dust, you can craft Weak Essence!~
+This, along with the other strengths of essence, is used to craft the seeds for resource crops.~
+Take coal seeds for example, they require 4 Coal, 4 Weak Essence, and one seed.~
+Harvesting a coal crop will drop Coal essence and 1-2 coal seeds for replanting!~
+The mod makes things a bit more challenging, as you'll see on the next page:~
+~~~
+Stepping Things Up:~
+~
+Weak Essence may be easy to get, but to make one piece of Regular Essence, you need a
+Regular Infusion stone and four weak essence!~
+This makes sure you can't start growing diamonds in a matter of minutes (or even hours).~
+Crops do grow slowly, and you cannot use bonemeal, but there are other ways ;]~
+~
+You didn't think the mod stopped at merely growing diamonds did you?~
+~~~
+Food!~
+~
+That's right, there's even food added to the game! You'll find all sorts of seeds like
+sweetcorn, chilis, grapes, cucumbers, and more by breaking grass!~
+This diversifies your kitchen, but there's more!~
+You also can make four new stews from pork, mutton, beef, and chicken.~
+Is calamari your fancy? How about some nice bouled eggs? Dried flesh? Magical Crops has you covered.~
+I didn't even mention juice or super bread...~
+~~~
+Juiced Up!~
+~
+By infusing bread with various essences, you get super bread! Chomp down on a piece to find out what
+magical abilities you'll gain.~
+Besides bread, you can use a Juicer to make, well, juice!~
+Each bottle of juice restores 3 hunger except for Berry Blast, which is 4.~
+The mod doesn't stop at food, for those that like options while building, see the next page!~
+~~~
+Infused Blocks:~
+~
+Smack obsidian essence with blocks and you give them fire and explosion resistance!~
+You can do this to clay, wool, and even wood planks.~
+House too dark, and don't want to put up ugly torches? Make Light-infused blocks!~
+These blocks emit a light level of 14 (glowstone), and you can infuse stone bricks,
+planks, and regular stone types.~
+Tinting many kinds of blocks is also possible. Want to have a base made of diamond tinted stone bricks? Done.~
+~~~
+And Finally:~
+The mod may seem overpowered, but don't worry, the TPPI devs have nerfed it quite a bit.~
+~
+Hope you enjoyed this guide, and if you need anything added please let us know!~
+~
+
+>JABBA, JABBA<
+So...Barrels:~
+This mod adds barrels, just like factorization! The differences are few, but useful.~
+First off, there are many shortcuts to interact with barrels.~
+~~~
+Shortcuts:~
+Right-click to put a stack in a barrel.~
+Left-click to drop a stack from a barrel.~
+Shift+Left-click to drop one item from a barrel.~
+Double right-click to put all the corresponding items from your inventory into the barrel.~
+Shift+Right-click with an empty hand to lock the barrel.~
+Shift+Right-click with an upgrade will apply the upgrade to the barrel.~
+~~~
+Dollies:~
+~
+Craft a dolly to move barrels without breaking them!~
+But the Dolly isn't just for JABBA, you can moce chests, Iron Chests, BC Tahnks, TE Machines, IC2 machines, and more!~
+Each time you set an item down with the dolly, it will try to orient the machine/chest to face you.~
+~~~
+Ore conversion:~
+~
+Have four kinds of copper, making efficient storage impossible? Look no further than JABBA.~
+Simply put one kind of dust/ingot in a JABBA barrel, and any further input of the same ore-
+dictionaried item will convert it!~
+This works with automation also. I can hear the choir singing...~
+~~~
+Lock, Stock, and Barrel:~
+~
+In order to keep the item template in a barrel, just shift-right click!~
+A lock icon will appear, and the barrel will never lose the template, even if you remove
+all stacks from it.~
+This ensures that you can keep empty locked barrels in your factory, even if you run out of items in
+the system.~
+~~~
+That's all!:~
+~
+Hope you enjoyed this guide, and if you need anything added please let us know!~
+~
+>IronChests, Iron Chests<
+Storage...you always need more of it!~
+This mod adds chests that are much larger than your regular double chest.~
+There are copper, iron, gold, silver, diamond, obsidian, and crystal chests.~
+To make an iron chest for example, surround a wooden chest with iron ingots.~
+Check NEI for the higher recipies, as some aren't all like the first example.~
+Want to upgrade an existing chest without having to break it? See the next page.~
+~~~
+Upgrading:~
+~
+Make a chest upgrade, and right click a single or couble chest to use it!~
+If you upgrade a double chest it will split the chest in half, one side getting the upgrade.~
+Different chests have different properties, see the next page for that info.~
+~~~
+Chest Types:~
+~
+Copper: 45 slots~
+Iron: 54 slots~
+Silver: 72 slots~
+Gold: 81 slots~
+Diamond: 108 slots~
+Crystal: 108 slots, you can see the contents inside!~
+Obsidian: 108 slots, completely blast-proof!~
+~~~
+That's all!:~
+~
+Hope you enjoyed this guide, and if you need anything added please let us know!~
 ~
