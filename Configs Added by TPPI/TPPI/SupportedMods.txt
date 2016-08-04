@@ -82,3 +82,98 @@ The slot in the machine associated with that color will
 be highlighted in that color. This should help indicate what that color's purpose is 
 for that particular machine.
 ~
+>ArsMagica2, Ars Magica 2<
+Ars Magica lets players concoct their own unique spells, fight magical bosses, and even double your ores with magic!.~
+Many of the spells will have to be discovered through a skill point system. Skill points are gained by fighting
+mobs and bosses with magic, trading with villagers, and even exploring.~
+Just like Thaumcraft, this mod gives you an Arcane Compendium with every last detail of Ars Magica 
+that you could ever want. Head on over to the next page to find out how to make this!~
+~~~
+Making the Arcane Compendium:~
+~
+Scattered throughout the world you might find light-blue pools of liquid. You've most likely found liquid essence, a very useful kind of fuel that Ars Magica adds.~
+~
+Make a 2x2 pool of this liquid, and place a book inside an item frame next to the pool. 
+Wood planks work just fine for this.~
+After a bit, you'll see mysterious white letters rise out of the pool and fly into the framed book.~
+Once the infusion is complete, the book is no longer a boring stack of paper stuck between leather.
+It now contains every piece of information you need to become a master of the Arcane Arts!~
+~~~
+In Closing:~
+~
+Hope you enjoyed this guide, and if you need anything added please let me know!~
+~
+Written by: capSAR273
+~
+>MagicalCrops, Magical Crops<
+If you are the kind of player that just hates mining, and would rather farm your diamonds,
+Magical Crops is the mod for you!~
+This mod adds ways to grow many different resources like coal, redstone, experience, and more!~
+Don't you worry though, it's not as easy as you think!
+~~~
+Getting Started:~
+~
+During your mining adventures you might come across Essence Ore. Mine this with iron or better to get essence dust!~
+You can see what this will be used for in NEI, and it is a very useful material to have.~
+While de-grassing the terrain you might get essence seeds as a drop. Lucky you, as this is a rare chance.~
+This plant will grow the same essence you get from mining the Essence Ore.~
+Head to the next page to learn about how Infusion Stones!~
+~~~
+Magical Stones:~
+~
+If you search NEI you'll see there are seeds for every vanilla resource (and modded resources if supported)~
+In order to craft the resource seeds you will need infusion stones.~
+There are five strengths of stones: Weak, Regular, Strong, Extreme, and Master.~
+Each can help you craft resources based on what tier they are in.~
+For example, a weak infusion stone cannot craft diamonds.~
+Check NEI for the recipies using the infusion stones to craft resources!~
+~~~
+The Essentials (get it)~
+~
+Once you have a weak infusion stone and some essence dust, you can craft Weak Essence!~
+This, along with the other strengths of essence, is used to craft the seeds for resource crops.~
+Take coal seeds for example, they require 4 Coal, 4 Weak Essence, and one seed.~
+Harvesting a coal crop will drop Coal essence and 1-2 coal seeds for replanting!~
+The mod makes things a bit more challenging, as you'll see on the next page:~
+~~~
+Stepping Things Up:~
+~
+Weak Essence may be easy to get, but to make one piece of Regular Essence, you need a
+Regular Infusion stone and four weak essence!~
+This makes sure you can't start growing diamonds in a matter of minutes (or even hours).~
+Crops do grow slowly, and you cannot use bonemeal, but there are other ways ;]~
+~
+You didn't think the mod stopped at merely growing diamonds did you?~
+~~~
+Food!~
+~
+That's right, there's even food added to the game! You'll find all sorts of seeds like
+sweetcorn, chilis, grapes, cucumbers, and more by breaking grass!~
+This diversifies your kitchen, but there's more!~
+You also can make four new stews from pork, mutton, beef, and chicken.~
+Is calamari your fancy? How about some nice bouled eggs? Dried flesh? Magical Crops has you covered.~
+I didn't even mention juice or super bread...~
+~~~
+Juiced Up!~
+~
+By infusing bread with various essences, you get super bread! Chomp down on a piece to find out what
+magical abilities you'll gain.~
+Besides bread, you can use a Juicer to make, well, juice!~
+Each bottle of juice restores 3 hunger except for Berry Blast, which is 4.~
+The mod doesn't stop at food, for those that like options while building, see the next page!~
+~~~
+Infused Blocks:~
+~
+Smack obsidian essence with blocks and you give them fire and explosion resistance!~
+You can do this to clay, wool, and even wood planks.~
+House too dark, and don't want to put up ugly torches? Make Light-infused blocks!~
+These blocks emit a light level of 14 (glowstone), and you can infuse stone bricks,
+planks, and regular stone types.~
+Tinting many kinds of blocks is also possible. Want to have a base made of diamond tinted stone bricks? Done.~
+~~~
+And Finally:~
+~ The mod may seem overpowered, but don't worry, the TPPI staff have nerfed it quite a bit.~
+Hope you enjoyed this guide, and if you need anything added please let me know!~
+~
+Written by: capSAR273
+~
