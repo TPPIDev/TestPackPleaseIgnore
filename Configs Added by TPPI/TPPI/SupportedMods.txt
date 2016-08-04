@@ -82,3 +82,20 @@ The slot in the machine associated with that color will
 be highlighted in that color. This should help indicate what that color's purpose is 
 for that particular machine.
 ~
+>Ars Magica 2, AM2, ArsMagica2<
+Ars Magica lets players concoct their own unique spells, fight magical bosses, and even double your ores with magic!.~
+Many of the spells will have to be discovered through a skill point system. Skill points are gained by fighting
+mobs and bosses with magic, trading with villagers, and even exploring.~
+Just like Thaumcraft, this mod gives you an Arcane Compendium with every last detail of Ars Magica 
+that you could ever want. Head on over to the next page to find out how to make this!~
+~~~
+Making the Arcane Compendium:~
+~
+Scattered throughout the world you might find light-blue pools of liquid. You've most likely found liquid essence, a very useful kind of fuel that Ars Magica adds.~
+~
+Make a 2x2 pool of this liquid, and place a book inside an item frame next to the pool. 
+Wood planks work just fine for this.~
+After a bit, you'll see mysterious white letters rise out of the pool and fly into the framed book.~
+Once the infusion is complete, the book is no longer a boring stack of paper stuck between leather.
+It now contains every piece of information you need to become a master of the Arcane Arts!~
+~
